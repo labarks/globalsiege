@@ -1,0 +1,1819 @@
+[0.]
+Le joueur
+
+[1.]
+L'Armée Rouge
+
+[2.]
+Le Green Army
+
+[Rm3.]
+
+
+[3.]
+L'Armée Bleue
+
+[4.]
+L'Armée Jaune
+
+[5.]
+L'Armée Pourpre
+
+[6.]
+L'Armée Grise
+
+[7.]
+Le joueur humain
+
+[Rm8.] Italien: L'ordinateur Giocatoore: intelligenza Fra médiatique: L'ordinateur: moyenne du l'intelligence.
+
+[8.]
+Le joueur de l'ordinateur moyen
+
+[Rm9.] Italien: L'ordinateur Giocatore: molto intelligente Fra: L'ordinateur: l'intelligence de l'haute du la.
+
+[9.]
+Le joueur de l'ordinateur intelligent
+
+[10.]
+Les joueurs
+
+[11.]
+En premier joueur
+
+[12.]
+Aléatoire
+
+[13.]
+Le joueur 1
+
+[14.]
+Les cartes
+
+[15.]
+Caché
+
+[16.]
+Aucun
+
+[Rm17.] Cartes fixes.
+
+[17.]
+Arrangé
+
+[Rm18.] Valeur maximale.
+
+[18.]
+Le maximum
+
+[19.]
+Les options de la guerre
+
+[Rm20.] Missions disponibles.
+
+[20.]
+Les missions
+
+[21.]
+Les lignes de la provision de la limite
+
+[22.]
+Optimisez des dés de la défense
+
+[23.]
+La guerre rapide
+
+[24.]
+Les Dés rapides
+
+[25.]
+La couleur de joueur des spectacles de la frontière
+
+[26.]
+Déclarez la Guerre
+
+[27.]
+Annulez l'ensemble au-dessus
+
+[28.]
+Le joueur éloigné
+
+[29.]
+Joignez la Guerre
+
+[30.]
+Les lignes de la provision
+
+[31.]
+Le dossier
+
+[32.]
+La nouvelle guerre...
+
+[33.]
+La sortie
+
+[34.]
+MissionRisk Set En haut... 
+
+[35.]
+MissionRisk -
+
+[Rm36.] Ordinateur: Intelligent
+
+[36.]
+Le joueur de l'ordinateur intelligent
+
+[37.]
+Aucun nom du dossier n'a été spécifié
+
+[38.]
+Les options
+
+[39.]
+La guerre rapide
+
+[40.]
+Les dés rapides
+
+[41.]
+La couleur de joueur des spectacles de la frontière
+
+[42.]
+3D exposition
+
+[43.]
+Le manuscrit automobile
+
+[Rm44.] Le dossier a été effacé ou a été corrompu.
+
+[44.]
+ a été effacé ou été corrompu
+
+[45.]
+Le dossier manquant
+
+[46.]
+Les missions
+
+[47.]
+Voyez la mission
+
+[Rm48.] Le dossier a été corrompu et ne peut pas être ouvert.
+
+[48.]
+ a été corrompu et ne peut pas être ouvert.
+
+[49.]
+L'aide
+
+[50.]
+Le contenu...
+
+[51.]
+L'index...
+
+[52.]
+La page de bienvenue MissionRisk...
+
+[53.]
+L'inscription MissionRisk
+
+[54.]
+Enregistrez MissionRisk en ligne...
+
+[55.]
+Entrez le code de l'inscription...
+
+[56.]
+Classez l'erreur
+
+[57.]
+Il y avait une erreur qui lit le dossier ' Risk44INI.dat'. Il manque ou altéré. S'il vous plaît ré - instal MissionRisk.
+
+[Rm58.] Unités du transfert
+
+[58.]
+ Le transfert
+
+[59.]
+L'attaque
+
+[60.]
+Le mouvement
+
+[61.]
+Le laissez-passer
+
+[62.]
+L'échange
+
+[63.]
+Annulez
+
+[Rm64.] X attaque Y.
+
+[64.]
+les attaques
+
+[65.]
+< Déclic qui défend le pays >
+
+[Rm66.] X a GAGNÉ LE JEU!
+
+[66.]
+a GAGNÉ LE JEU!
+
+[Rm67.] En occuper et tenant X.
+
+[67.]
+En occuper et tenant
+
+[Rm68.] En occuper et tenant 24 pays.
+
+[68.]
+24 pays.
+
+[Rm69.] En effaçant X.
+
+[69.]
+En effaçant
+
+[Rm70.] Vous avez des unités X pour placer.
+
+[70.]
+Vous avez
+
+[71.]
+ unités placer.
+
+[72.]
+< Pays de la destination du déclic >
+
+[Rm73.] X déplace à Y.
+
+[73.]
+les mouvements
+
+[74.]
+à
+
+[75.]
+Vous devez effacer tous les autres joueurs et conquérir le monde.
+
+[Rm76.] Votre mission est effacer X.
+
+[76.]
+Votre mission est effacer
+
+[77.]
+Vous devez conquérir l'Asie et l'Amérique du Sud et les tenir jusqu'à votre prochain tour.
+
+[78.]
+Vous devez conquérir l'Asie et l'Afrique et les tenir jusqu'à votre prochain tour.
+
+[79.]
+Vous devez conquérir l'Amérique du Nord et l'Afrique et les tenir jusqu'à votre prochain tour.
+
+[80.]
+Vous devez conquérir l'Amérique du Nord et l'Australie et les tenir jusqu'à votre prochain tour.
+
+[81.]
+Vous devez conquérir Europe, Amérique du Sud et tout 3e continent de votre choix et les tenir jusqu'à votre prochain tour.
+
+[82.]
+Vous devez conquérir Europe, Australie et tout 3e continent de votre choix et les tenir jusqu'à votre prochain tour.
+
+[83.]
+Vous devez occuper tous 24 pays et les tenir jusqu'à votre prochain tour.
+
+[84.]
+Votre palette du système devrait être mise à HAUTE COULEUR pour 3D interprétation. Est-ce que vous souhaitez continuer à changer à la 3D mode de l'exposition?
+
+[85.]
+Prévenir
+
+[86.]
+Merci pour évaluer MissionRisk v < Var.Maj >.< Var.La min >. J'espère que vous aimiez jouer ce jeu.
+
+S'il vous plaît n'oubliez pas d'enregistrer ce programme si vous comme lui.
+
+Une plus vieille version de MissionRisk a été détectée.
+
+Vous êtes accordés avec une autre 28 licence de l'évaluation du jour de qui commence maintenant par ceci.
+
+Est-ce que vous aimeriez voir le MissionRisk HELP dossier?
+
+[87.]
+Bienvenu à MissionRisk v < Var.Maj >.< Var.La min >
+
+[88.]
+Merci pour évaluer MissionRisk v < Var.Maj >.< Var.La min >. J'espère que vous aimiez jouer ce jeu.
+
+S'il vous plaît n'oubliez pas d'enregistrer ce programme si vous comme lui. La licence de l'évaluation expire maintenant dans 28 jours de.
+
+MissionRisk sera encore jouable après cette période, cependant vous serez dans infraction de l'accord de la licence.
+
+Est-ce que vous aimeriez voir le MissionRisk HELP dossier?
+
+[89.]
+Votre palette de la couleur du système n'est pas mise pour SALUT COULEUR qui moyens que MissionRisk peut rendre seulement graphique en 2D.
+
+Si vous aimeriez 3D interprétation, vous pouvez changer vos cadres de palette des options de l'exposition empaquetez dans le tableau de bord. Voyez l'aide demander plus de détails.
+
+[90.]
+La date du système a été changée!
+
+[91.]
+MissionRisk n'est pas encore REISTERED!
+
+S'IL VOUS PLAÎT ENREGISTREZ CE PROGRAMME.
+
+[92.]
+L'inscription a expiré.
+
+[93.]
+Le < Var.Eval > la période de l'évaluation du jour a failli. Plusieurs accordent les traits de MissionRisk seront mis hors fonction dans les jours prochains.
+
+Continuer à utiliser MissionRisk légalement et avec les fonctionnalités pleines, vous devez enregistrer votre copie en payant une petite quantité à l'auteur ($12US). Votre inscription supportera et encourager recherche supplémentaire et développement de ce programme.
+Plus d'information peut être trouvée dans le dossier de l'aide.
+
+Vous pouvez enregistrer en ligne avec votre carte de crédit. Est-ce que vous aimeriez enregistrer maintenant?
+
+[94.]
+L'avis
+
+[95.]
+Le < Var.Eval > la période de l'évaluation du jour a failli.
+
+[96.]
+Plusieurs accordent les traits de MissionRisk ont été mis hors fonction.
+
+Continuer à utiliser MissionRisk légalement et avec fonctionnalités pleines restaurées, vous devez enregistrer votre copie en payant une petite quantité à l'auteur ($12US). Votre inscription supportera et encourager recherche supplémentaire et développement de ce programme.
+Plus d'information peut être trouvée dans le dossier de l'aide.
+
+Vous pouvez enregistrer en ligne avec votre carte de crédit. Est-ce que vous aimeriez enregistrer maintenant?
+
+[Rm97.] il y a 28 jours.
+
+[97.]
+ il y a jours.
+
+[98.]
+S'IL VOUS PLAÎT ENREGISTREZ
+
+[99.]
+Est-ce que vous voulez QUITTER vraiment?
+
+[100.]
+En dominant le monde.
+
+[Rm101.] Attaque X avec 5 unités.
+
+[101.]
+avec
+
+[102.]
+ les unités.
+
+[Rm103.] Attaque X avec 1 unité.
+
+[103.]
+ l'unité.
+
+[104.]
+< Déclic pays attaquant >
+
+[Rm105.] Vous avez 1 unité pour placer.
+
+[105.]
+ unité placer.
+
+[Rm106.] X déplace à Y.
+
+[106.]
+les mouvements à
+
+[Rm107.] X déplace à Y de Z.
+
+[107.]
+ de
+
+[108.]
+< Pays de la source du déclic >
+
+[Rm109.] Déclic pays attaquants. Le déclic pays attaquant.
+
+[109.]
+< Déclic country(s attaquant) >
+
+[110.]
+Les retraites 0 unités de
+
+[111.]
+Les retraites
+
+[Rm112.] X se retire 5 unités de Y.
+
+[112.]
+ les unités de
+
+[Rm113.] X se retire 1 unité de Y.
+
+[113.]
+ l'unité de
+
+[Rm114.] X a 5 gauche des unités.
+
+[114.]
+ les unités sont parties.
+
+[Rm115.] X a 1 gauche de l'unité.
+
+[115.]
+ la gauche de l'unité.
+
+[Rm116.] X appartient à Y qui a une valeur de 5 unités.
+
+[116.]
+Appartient à
+
+[117.]
+lequel a une valeur de
+
+[Rm118.] A occupé par X. actuellement
+
+[118.]
+Occupé par actuellement
+
+[119.]
+SAUTÉ!
+
+[120.]
+Ah Hah! L'espionnage attrapé!
+Vous devez attendre jusqu'à ce que ce soit votre tour pour voir ce que votre mission est!
+
+[121.]
+Cessez de jeter un coup d'oeil furtif!
+
+[122.]
+NON! Ma mission!
+Vous devez attendre jusqu'à ce que ce soit votre tour pour voir ce que votre mission est!
+
+[123.]
+La conspiration
+
+[124.]
+Cela est classé de l'information. Si je vous dis, je dois vous tuer. Ou vous pourriez attendre votre tour pour voir ce que votre propre mission est.
+
+[125.]
+NON!
+
+[126.]
+Ma mission! Je le finis! Vous attendez jusqu'à votre tour juste et finissez votre propre mission!
+
+[127.]
+Espionner n'est pas toléré dans guerre!
+Vos espions étaient tout capturés et ont exécuté. Ils sont morts en un de lentement notre beaucoup de chambres de la torture. Laissez cela être un avertissement à vous écume humaine! Vos armées humaines seront bientôt exterminées, et notre monde MissionRisk sera une meilleure place pour les joueurs de l'ordinateur pour vivre!
+
+[128.]
+Vous espèce intolérable
+
+[Rm129.] Tour X's.
+
+[129.]
+' tour s.
+
+[130.]
+Les vérifiant cartes
+
+[131.]
+     VOUS
+  LES CARTES DU COMMERCE
+
+[Rm132.] Cartes commerciales dans pour 5 unités?
+
+[132.]
+Les cartes du commerce dans pour
+
+[133.]
+ les unités?
+
+[134.]
+  Les cartes ré - battant.
+
+[135.]
+Utilisé risquez les cartes sont rassemblées, ré - battu et a remis dans le paquet.
+
+[Rm136.] Ne montrez pas en plus à ce message.
+
+[136.]
+Ne montrez pas en plus.
+
+[137.]
+Vous avez besoin de plus de joueurs que cela.
+
+[138.]
+Il y a encore quelque gauche de pays.
+
+[139.]
+Installer le comité...
+
+[140.]
+Le nom
+
+[141.]
+Le code de l'inscription
+
+[142.]
+Les guerres disponibles
+
+[143.]
+Effacez
+
+[144.]
+La guerre ouverte...
+
+[145.]
+Faites ce la guerre par défaut
+
+[146.]
+La description
+
+[147.]
+Sauvez la guerre comme...
+
+[148.]
+Titre de guerre
+
+[149.]
+L'économie
+
+[Rm150.] Boîte de l'option du joueur pour l'armée Rouge. Boîte de l'option du joueur pour le Green armée.
+
+[150.]
+La boîte de l'option du joueur pour le
+
+[Rm151.] Nombre de pays avec que cette armée commence.
+
+[151.]
+Nombre de pays avec que cette armée commence
+
+[Rm152.] Augmentation pays initiaux. Decrement qui commence des pays.
+
+[152.]
+Increment/decrement qui commence des pays
+
+[153.]
+Changez le nombre de commencer des joueurs
+
+[154.]
+Combien de joueurs vont à guerre
+
+[155.]
+Aléatoire sélection du premier joueur
+
+[156.]
+Le joueur 1 - l'armée rouge est la première joueuse
+
+[157.]
+La boîte de l'option des cartes
+
+[Rm158.] Les autres joueurs ne peuvent pas voir vos cartes quand a fait tic-tac.
+
+[158.]
+Les autres joueurs ne peuvent pas voir vos cartes quand a vérifié
+
+[Rm159.] Les cartes ne sont pas publiées quand a fait tic-tac.
+
+[159.]
+Les cartes ne sont pas publiées quand a vérifié
+
+[160.]
+La valeur de cartes ne change pas quand a vérifié
+
+[Rm161.] La valeur des cartes augmente whith dans que chaque ensemble a tourné.
+
+[161.]
+Valeur de whith des augmentations des cartes dans que chaque ensemble a tourné
+
+[162.]
+Les ensembles la valeur de la carte maximale
+
+[163.]
+La boîte des options de la guerre
+
+[164.]
+Tous les joueurs sont publiés avec les missions secrètes quand a vérifié
+
+[Rm165.] Mouvements de l'armée de la limite.
+
+[165.]
+Les mouvements de l'armée des limites
+
+[166.]
+Regardez les dés de l'attaque et décidez combien de dés de la défense jeter
+
+[Rm167.] La vitesse des joueurs de l'ordinateur.
+
+[167.]
+Vitesse de joueurs de l'ordinateur
+
+[168.]
+Hâtez-vous à que les dés sont jetés
+
+[Rm169.] La couleur de joueur des éclats frontalier. Cela peut ennuyer!
+
+[169.]
+La couleur de joueur des éclats de la frontière (peut ennuyer!)
+
+[170.]
+Le début nouvelle guerre avec ces cadres
+
+[171.]
+Sortez avec les cadres antérieurs
+
+[172.]
+Battez de nouveau l'avis
+
+[173.]
+La langue choisie...
+
+[Rm174.] Début votre tour encore.
+
+[174.]
+Le tour du début encore
+
+[175.]
+Réinitialisez la guerre
+
+[176.]
+Capturez des joueurs que ' met sur fiche quand vous effacez leur dernière unité
+
+[177.]
+Augmenter
+
+[178.]
+La capture
+
+[179.]
+Aucune provision ne règle
+
+[Rm180.] Aucunes restrictions ne sont placées sur les mouvements de l'armée.
+
+[180.]
+Aucunes restrictions sur les mouvements de l'armée
+
+[181.]
+La valeur courante: 
+
+[Rm182.] Ce programme est enregistré à X.
+
+[182.]
+Ce programme est enregistré à
+
+[183.]
+Merci pour enregistrer.
+
+[184.]
+TOUT
+
+[185.]
+Copyright© 1998-2000 Craig Douglas.
+Prévenir: Ce programme informatique est protégé par loi du copyright et traités internationaux.
+
+[186.]
+Distribuez des unités initiales extra
+
+[187.]
+Extra les unités initiales sont randomly distribués sur les territoires de chaques joueurs.
+
+[188.]
+Les unités supplémentaires
+
+[Rm189.] X veut continuer à aller.
+
+[189.]
+ veut continuer à aller
+
+[Rm190.] X veut garder la mission un secret!
+
+[190.]
+ veut garder la mission un secret!
+
+[191.]
+Est-ce que vous voulez quitter cette guerre vraiment?
+
+[Rm192.] Est-ce que vous êtes sûr vous voulez effacer X?
+
+[192.]
+Est vous sûr vous voulez effacer
+
+[193.]
+Est-ce que vous êtes sûr?
+
+[194.]
+La guerre ouverte
+
+[195.]
+Merci pour enregistrer MissionRisk.
+
+MissionRisk doit être ré - commencé pour
+le processus de l'inscription finir.
+Recommencez maintenant?
+
+[196.]
+L'AI interupt demande
+
+[Rm197.] Version 2.5.
+
+[197.]
+La version
+
+[Rm198.] Salut X.
+
+[198.]
+Salut
+
+[Rm199.] Votre inscription MissionRisk antérieure a été trouvée et a été validée. 
+
+[199.]
+votre inscription MissionRisk antérieure a été trouvée et a été validée. 
+
+Si vous avez toutes suggestions ou plaintes au sujet de MissionRisk, sentez-vous libre de m'envoyer un message. Mon adresse de courrier électronique peut être trouvée dans le dossier de l'aide.
+
+[200.]
+Ouvert
+
+[201.]
+La boîte de l'outil
+
+[202.]
+La nouvelle guerre
+
+[203.]
+Réinitialisez la guerre
+
+[204.]
+Ouvert
+
+[205.]
+L'économie
+
+[Rm206.] Guerre rapide. La presse + et - ajuster la vitesse.
+
+[206.]
+La guerre rapide (presse + et - ajuster la vitesse)
+
+[Rm207.] Dés rapides. La presse + et - ajuster la vitesse.
+
+[207.]
+Les dés rapides (presse + et - ajuster la vitesse)
+
+[208.]
+Le manuscrit automobile
+
+[209.]
+Le tour du début encore
+
+[210.]
+L'aide
+
+[211.]
+S'il vous plaît rentrez votre MissionRisk inscription code.
+
+[212.]
+La nouvelle mise à jour de la version
+
+
+
+[250.]
+Adressez la violation
+
+[251.]
+Écoutez
+
+[252.]
+Reliez
+
+[253.]
+Le rapport a été perdu.
+
+[Rm254.] X a déconnecté.
+
+[254.]
+ a déconnecté.
+
+[255.]
+L'erreur du débordement plus jaune clair a occured.
+
+[256.]
+Le rapport a établi.
+
+[Rm257.] Non, S'il vous plaît essayez encore.
+
+[257.]
+Non, S'il vous plaît essayez encore
+
+[258.]
+Non, Assurez-vous vous entrez votre nom et codez exactement
+comme vous voyez-le (capitaux, etc d'espaces..)
+
+[Rm259.] L'information du système est non disponible à ce temps,
+
+[259.]
+L'Information du système Est Non disponible À Ce Time
+
+[Rm260.] La mode du trompeur a été activée.
+
+[260.]
+* * La mode du trompeur a activé * *
+
+[Rm261.] Un occured de l'erreur en effaçant X.
+
+[261.]
+Un occured de l'erreur en effaçant
+
+[262.]
+Il peut déjà être ouvert.
+
+[Rm263.] X existe déjà.
+
+[263.]
+ déjà existe.
+
+[264.]
+Écrivez sur tout chemin?
+
+[265.]
+Sauvez comme...
+
+[Rm266.] X ne peut pas être modifié ou peut être effacé.
+
+[266.]
+ ne peut pas être modifié ou peut être effacé.
+
+[267.]
+Avancé...
+
+[268.]
+La situation du réseau...
+
+[Rm269.] Composez un message.
+
+[269.]
+Composez le message...
+
+[Rm270.] La carte de continents.
+
+[270.]
+La carte chaste
+
+[271.]
+Au sujet de
+
+[272.]
+Changez le nombre de commencer des joueurs.
+
+[273.]
+Les options avancées...
+
+[274.]
+Les options de la guerre avancées
+
+[275.]
+Les Options de mission
+
+[276.]
+Les Options graphiques
+
+[277.]
+Incluez le coup de torchon de l'armée dehors missions.
+
+[278.]
+Incluez conquérez et tenez des missions.
+
+[Rm279.] Vous devez compléter votre propre mission pour gagner.
+
+[279.]
+Devez compléter la propre mission pour gagner.
+
+[Rm280.] Vous gagnez sur compléter votre mission immédiatement.
+
+[280.]
+Gagnez sur compléter la mission immédiatement.
+
+[Rm281.] Changement la saturation de vert.
+
+[281.]
+Le changement saturation verte.
+
+[Rm282.] Changement la saturation de jaune.
+
+[282.]
+Le changement saturation jaune.
+
+[Rm283.] Changement la luminosité de gris.
+
+[283.]
+Le changement luminosité grise.
+
+[284.]
+La grande dimension de la police de caractères.
+
+[Rm285.] Une option inclure une mission secrète où l'objet est tuer un autre joueur.
+
+[285.]
+Incluez des missions où vous devez effacer la dernière unité d'un autre joueur
+
+[Rm286.] Une option inclure une mission secrète où l'objet est capturer de certains continents et les tenir jusqu'à ce que ce soit votre prochain tour.
+
+[286.]
+Incluez des missions où vous avez conquérir des territoires et les tenir jusqu'à votre prochain tour
+
+[287.]
+Vous ne gagnez pas quand un adversaire efface votre armée de la cible pour vous.
+
+[288.]
+Après avoir effacé une armée de la cible, vous devez attendre jusqu'à ce que votre prochain tour gagner quand non vérifié.
+
+[289.]
+Éclairez ou foncez la couleur du Green Army.
+
+[290.]
+Éclairez ou foncez la couleur de l'Armée Jaune.
+
+[291.]
+Éclairez ou foncez la couleur de l'Armée Grise.
+
+[292.]
+Changez la dimension de la police de caractères imprimait des scores de pays.
+
+[293.]
+MissionRisk établissent des contacts situation
+
+[294.]
+Les options du rapport
+
+[295.]
+Le type du rapport
+
+[296.]
+Rafraîchissez le taux
+
+[297.]
+Les cadres
+
+[298.]
+L'histoire de la session
+
+[Rm299.] Nom ou adresse IP d'hôte.
+
+[299.]
+Nom ou adresse IP d'hôte
+
+[Rm300.] Nombre de port.
+
+[300.]
+Le nombre de port
+
+[Rm301.] Joignez une guerre.
+
+[301.]
+Joignez une guerre
+
+[Rm302.] Hôte une guerre.
+
+[302.]
+Organisez une guerre
+
+[303.]
+TCP / IP
+
+[304.]
+Le modem
+
+[305.]
+Le feuilleton
+
+[306.]
+Haut
+
+[307.]
+Le moyen
+
+[308.]
+Bas
+
+[309.]
+IP Info...
+
+[310.]
+Reliez
+
+[311.]
+OK
+
+[Rm312.] Une guerre du réseau doit avoir 1 hôte.
+
+[312.]
+La guerre du réseau doit avoir 1 hôte
+
+[313.]
+Le modem et rapports d'une série directs seront disponibles dans les futures versions
+
+[314.]
+La fréquence à que les joueurs éloignés sont mis à jour.
+
+[315.]
+Entrez le nom de l'hôte en phase terminale.
+
+[316.]
+Tous les terminaux doivent utiliser le même nombre de port.
+
+[317.]
+Reliez à un écoutant hôte.
+
+[318.]
+Devenez un hôte et écoutez pour les rapports.
+
+[319.]
+Affichez nom d'hôte et configuration de l'IP pour ce terminal.
+
+[320.]
+Reliez avec ces cadres.
+
+[321.]
+Cachez la boîte du dialogue de la situation du réseau sans déconnecter.
+
+[322.]
+Les listes ont relié des terminaux, erreurs TCP, etc...
+
+[323.]
+Effacez la guerre sélectionnée.
+
+[324.]
+Ouvrez cette guerre le la prochaine fois débuts MissionRisk.
+
+[325.]
+Fermez à clé la guerre pour prévenir la suppression accidentelle.
+
+[326.]
+Les crédits
+
+[327.]
+Le message
+
+[Rm328.] Joueur du destinataire. Les Joueurs du destinataire.
+
+[328.]
+Le destinataire Player(s)
+
+[Rm329.] Destinataire choisi de messages privés. Destinataires choisis de messages privés.
+
+[329.]
+Recipient(s choisi) de messages privés
+
+[330.]
+Le public
+
+[Rm331.] Envoyez le message à tous les terminaux.
+
+[331.]
+Envoyez le message à tous les terminaux
+
+[332.]
+Privé
+
+[Rm333.] Envoyez le message à terminaux armée sélectionnée dirigeante. Envoyez le message à terminaux armées sélectionnées dirigeantes.
+
+[333.]
+Envoyez le message à terminaux army(s sélectionné dirigeant)
+
+[334.]
+La peau
+
+[Rm335.] Type votre message et alors la presse entre pour envoyer.
+
+[335.]
+Écrivez à la machine votre message et la presse pour envoyer
+
+[336.]
+La fin
+
+[337.]
+L'Éditeur MissionRisk
+
+[338.]
+L'occupant armée
+
+[339.]
+Les unités
+
+[340.]
+OK
+
+[341.]
+Enregistrez Maintenant
+
+[342.]
+Entrez le Code
+
+[343.]
+Enregistrez Plus tard
+
+[344.]
+Actif bientôt
+
+[345.]
+Les Statistiques de la guerre
+
+[346.]
+N'impliqué pas
+
+[Rm347.] Fin de statistiques de la guerre.
+
+[347.]
+Fin de stats de la guerre
+
+[348.]
+Les pays ont conquis:
+
+[349.]
+Les pays se sont rendus:
+
+[350.]
+Les victimes de l'ennemi:
+
+[351.]
+Vos victimes:
+
+[352.]
+IP Information
+
+[Rm353.] Italien: Si c'est un ordre, autrement si est un avertissement comme je vous ai ATTRAPÉS alors est HAI BARATO!
+
+[353.]
+TRICHEZ!
+
+[354.]
+Le score: 
+
+[Rm355.] Très secret.
+
+[355.]
+TRÈS SECRET
+
+[356.]
+Votre mission mettre au courant est joint dans ce document.
+
+[357.]
+Ignorez
+
+[Rm358.] Briefing de mission ouvert
+
+[358.]
+Ouvert
+
+[359.]
+La vue
+
+[360.]
+Le pense-bête de mission
+
+[Rm361.] Un ordinateur quand suivi à un réseau: l'exemple I s'asseyent à ceci * *terminal * * jouer le M. - Le contexte dans qu'il est utilisé: Le Terminal 1 a relié au réseau -. L'ordinateur.
+
+[361.]
+En phase terminale
+
+[Rm362.] L'Armée Rouge. L'armée rouge.
+
+[362.]
+l'Armée Rouge
+
+[Rm363.] Le Green Army. L'armée verte.
+
+[363.]
+le Green Army
+
+[364.]
+l'Armée Bleue
+
+[365.]
+l'Armée Jaune
+
+[366.]
+l'Armée Pourpre
+
+[367.]
+l'Armée Grise
+
+[368.]
+Les Dés roulants
+
+[Rm369.] Pas réellement a utilisé directement. IL:
+
+[369.]
+S'il vous plaît sélectionnez une langue.
+
+[Rm370.] IL:Suggerimento: Taglio e colla direttamente dalla vostra forma di registro. 
+
+[370.]
+L'allusion: La coupe et colle de votre forme de l'inscription directement.
+
+[Rm371.] Français n'est pas disponible cependant: Français n'est papas disponible cependant.
+
+[371.]
+La victoire!
+
+-------------------------
+Computer:
+
+[Rm229.] L'information de l'IP de votre ordinateur du travail ne soit pas trouvée.
+
+[229.]
+L'information de l'IP de votre terminal ne pourrait pas être trouvée.
+
+[Rm230.] Ordinateur. Le poste de travail. La station de travail.
+
+[230.]
+En phase terminale
+
+[Rm231.] L'ordinateur 5 a branché.
+
+[231.]
+ a branché.
+
+[232.]
+Une erreur a occured
+
+[233.]
+Chaque client devrait avoir leur propre licence du cadrage unique.
+
+[234.]
+S'il vous plaît enregistrez
+
+[235.]
+L'hôte
+
+[236.]
+ >> Votre est
+
+[Rm237.] Le nom d'hôte de l'ordinateur est 555.
+
+[237.]
+Le nom d'hôte terminal est
+
+[238.]
+Le clic < info de l'IP...> pour plus d'information.
+
+[239.]
+Est-ce que vous voulez fermer toutes les connexions?
+
+[240.]
+S'il vous plaît entrez le nom ou adresse IP de l'hôte
+
+[241.]
+L'information manquante
+
+[242.]
+Déconnectez
+
+[Rm243.] Brancher à X.
+
+[243.]
+Brancher à
+
+[244.]
+S'il vous plaît recommencez cette session.
+
+[245.]
+L'erreur... Adressez la violation
+
+[246.]
+La connexion a fermé.
+
+[247.]
+Toutes les connexions ont fermé.
+
+[248.]
+Écouter pour les connexions.
+
+[249.]
+Un autre aplication pourraient utiliser ce port
+
+[250.]
+Adressez la violation
+
+[251.]
+Écoutez
+
+[252.]
+Branchez
+
+[253.]
+La connexion a été perdue.
+
+[Rm254.] X a déconnecté.
+
+[254.]
+ a déconnecté.
+
+[255.]
+L'erreur du débordement plus jaune clair a occured.
+
+[256.]
+La connexion a établi.
+
+[Rm257.] Non, S'il vous plaît essayez encore.
+
+[257.]
+Non, S'il vous plaît essayez encore
+
+[258.]
+Non, Assurez-vous vous entrez votre nom et codez exactement
+comme vous voyez-le (capitaux, etc d'espaces..)
+
+[Rm259.] L'information du système est non disponible à ce temps,
+
+[259.]
+L'Information du système Est Non disponible À Ce Time
+
+[Rm260.] La mode du trompeur a été activée.
+
+[260.]
+* * La mode du trompeur a activé * *
+
+[Rm261.] Un occured de l'erreur en effaçant X.
+
+[261.]
+Un occured de l'erreur en effaçant
+
+[262.]
+Il peut déjà être ouvert.
+
+[Rm263.] X existe déjà.
+
+[263.]
+ déjà existe.
+
+[264.]
+Remplacez toute direction?
+
+[265.]
+Sauvez comme...
+
+[Rm266.] X ne peut pas être modifié ou peut être effacé.
+
+[266.]
+ ne peut pas être modifié ou peut être effacé.
+
+[267.]
+Avancé...
+
+[268.]
+L'installation du réseau...
+
+[Rm269.] Composez un message.
+
+[269.]
+Composez le message...
+
+[Rm270.] Le plan de continents.
+
+[270.]
+Le plan chaste
+
+[271.]
+Au sujet de
+
+[272.]
+Changez le nombre de commencer des joueurs.
+
+[273.]
+Les options avancées...
+
+[274.]
+Les options de la guerre avancées
+
+[275.]
+Les Options de mission
+
+[276.]
+Les Options graphiques
+
+[277.]
+Incluez le coup de torchon de l'armée dehors missions.
+
+[278.]
+Incluez conquérez et tenez des missions.
+
+[Rm279.] Vous devez compléter votre propre mission pour gagner.
+
+[279.]
+Devez compléter la propre mission pour gagner.
+
+[Rm280.] Vous gagnez sur compléter votre mission immédiatement.
+
+[280.]
+Gagnez sur compléter la mission immédiatement.
+
+[Rm281.] Changement la saturation de vert.
+[281.]
+Le changement saturation verte.
+
+[Rm282.] Changement la saturation de jaune.
+
+[282.]
+Le changement saturation jaune.
+
+[Rm283.] Changement la luminosité de gris.
+
+[283.]
+Le changement luminosité grise.
+
+[284.]
+La grande taille de caractères.
+
+[Rm285.] Une option inclure une mission secrète où l'objet est tuer un autre joueur.
+
+[285.]
+Incluez des missions où vous devez effacer la dernière unité d'un autre joueur
+
+[Rm286.] Une option inclure une mission secrète où l'objet est capturer de certains continents et les tenir jusqu'à ce que ce soit votre prochain tour.
+
+[286.]
+Incluez des missions où vous avez conquérir des territoires et les tenir jusqu'à votre prochain tour
+
+[287.]
+Vous ne gagnez pas quand un adversaire efface votre armée de la cible pour vous.
+
+[288.]
+Après avoir effacé une armée de la cible, vous devez attendre jusqu'à ce que votre prochain tour gagner quand incontrôlé.
+
+[289.]
+Éclairez ou foncez la couleur du Green Army.
+
+[290.]
+Éclairez ou foncez la couleur de l'Armée Jaune.
+
+[291.]
+Éclairez ou foncez la couleur de l'Armée du Gray.
+
+[292.]
+Changez la taille de caractères imprimait des scores de pays.
+
+[293.]
+MissionRisk établissent des contacts installation
+
+[294.]
+Les possibilités de connexion
+
+[295.]
+Le type de la connexion
+
+[296.]
+La vitesse de rafraîchissement
+
+[297.]
+Les paramètres
+
+[298.]
+L'histoire de la session
+
+[Rm299.] Nom ou adresse IP d'hôte.
+
+[299.]
+Nom ou adresse IP d'hôte
+
+[Rm300.] Nombre du port.
+
+[300.]
+Le nombre du port
+
+[Rm301.] Joignez une guerre.
+
+[301.]
+Joignez une guerre
+
+[Rm302.] Hôte une guerre.
+
+[302.]
+Organisez une guerre
+
+[303.]
+TCP / IP
+
+[304.]
+Le modem
+
+[305.]
+Séquentiel
+
+[306.]
+Haut
+
+[307.]
+Le médium
+
+[308.]
+Bas
+
+[309.]
+IP Info...
+
+[310.]
+Branchez
+
+[311.]
+OK
+
+[Rm312.] Une guerre du réseau doit avoir 1 hôte.
+
+[312.]
+La guerre du réseau doit avoir 1 hôte
+
+[313.]
+Le modem et connexions séquentielles directes seront disponibles dans les futures versions
+
+[314.]
+La fréquence à que les joueurs éloignés sont actualisés.
+
+[315.]
+Entrez le nom de l'hôte en phase terminale.
+
+[316.]
+Tous les terminaux doivent utiliser le même nombre du port.
+
+[317.]
+Branchez à un écoutant hôte.
+
+[318.]
+Devenez un hôte et écoutez pour les connexions.
+
+[319.]
+Affichez nom d'hôte et configuration de l'IP pour ce terminal.
+
+[320.]
+Branchez avec ces paramètres.
+
+[321.]
+Cachez la boîte de dialogue de l'installation du réseau sans déconnecter.
+
+[322.]
+Les listes ont branché des terminaux, erreurs TCP, etc...
+
+[323.]
+Effacez la guerre sélectionnée.
+
+[324.]
+Ouvrez cette guerre le la prochaine fois démarrages MissionRisk.
+
+[325.]
+Fermez à clé la guerre pour prévenir la suppression accidentelle.
+
+[326.]
+Les crédits
+
+[327.]
+Le message
+
+[Rm328.] Joueur du destinataire. Les Joueurs du destinataire.
+
+[328.]
+Le destinataire Player(s)
+
+[Rm329.] Destinataire choisi de messages privés. Destinataires choisis de messages privés.
+
+[329.]
+Recipient(s choisi) de messages privés
+[330.]
+Le public
+
+[Rm331.] Envoyez le message à tous les terminaux.
+
+[331.]
+Envoyez le message à tous les terminaux
+
+[332.]
+Privé
+
+[Rm333.] Envoyez le message à terminaux armée sélectionnée dirigeante. Envoyez le message à terminaux armées sélectionnées dirigeantes.
+
+[333.]
+Envoyez le message à terminaux army(s sélectionné dirigeant)
+
+[334.]
+La peau
+
+[Rm335.] Tapez votre message et alors la presse entre pour envoyer.
+
+[335.]
+Tapez votre message et la presse pour envoyer
+
+[336.]
+La fin
+
+[337.]
+L'Éditeur MissionRisk
+
+[338.]
+L'occupant armée
+
+[339.]
+Les unités
+
+[340.]
+OK
+
+[341.]
+Enregistrez Maintenant
+
+[342.]
+Entrez le Code
+
+[343.]
+Enregistrez Plus tard
+
+[344.]
+Actif bientôt
+
+[345.]
+Les Statistiques de la guerre
+
+[346.]
+N'impliqué pas
+
+[Rm347.] Fin de statistiques de la guerre.
+
+[347.]
+Fin de stats de la guerre
+
+[348.]
+Les pays ont conquis:
+
+[349.]
+Les pays se sont rendus:
+
+[350.]
+Les victimes de l'ennemi:
+
+[351.]
+Vos victimes:
+
+[352.]
+IP Information
+
+[Rm353.] Italien: Si c'est une commande, autrement si est un avertissement comme je vous ai ATTRAPÉS alors est HAI BARATO!
+
+[353.]
+TRICHEZ!
+
+[354.]
+Le score: 
+
+[Rm355.] Très secret.
+
+[355.]
+TRÈS SECRET
+
+[356.]
+Votre mission mettre au courant est joint dans ce document.
+
+[357.]
+Ignorez
+
+[Rm358.] Briefing de mission Ouvert
+
+[358.]
+Ouvert
+
+[359.]
+La vue
+
+[360.]
+Le pense-bête de mission
+
+[Rm361.] Un ordinateur quand suivi à un réseau: l'exemple I s'asseyent à ceci * *terminal * * jouer le M. - Le contexte dans qu'il est utilisé: Le Terminal 1 a branché au réseau -. L'ordinateur.
+
+[361.]
+En phase terminale
+
+[Rm362.] L'Armée Rouge. L'armée rouge.
+
+[362.]
+l'Armée Rouge
+
+[Rm363.] Le Green Army. L'armée verte.
+
+[363.]
+le Green Army
+
+[364.]
+l'Armée Bleue
+
+[365.]
+l'Armée Jaune
+
+[366.]
+l'Armée Pourpre
+
+[367.]
+l'Armée du Gray
+
+[368.]
+Les Dés roulants
+
+[Rm369.] Pas réellement a utilisé directement. IL:
+
+[369.]
+S'il vous plaît sélectionnez un langage.
+
+[Rm370.] IL:Suggerimento: Taglio e colla direttamente dalla vostra forma di registro. 
+
+[370.]
+Le conseil: La coupe et colle de votre forme du cadrage directement.
+
+[Rm371.] Français n'est pas disponible cependant: Français n'est papas disponible cependant.
+
+[371.]
+La victoire!
+
+
+--------------------------------
+[213.]
+< Var.EXEName >.l'exe a été modifié. 
+Cela veut dire qu'il pourrait être infecté avec un virus.
+S'il vous plaît effacez et réinstallez ce programme.
+
+Plusieurs interruptions ont été inclues pour aider arrêtez le virus
+la propagation mais eux ont été connus pour écraser ce programme.
+Quelques-unes de ces interruptions ont été activés et la seule direction à
+réinitialisez-les est effacer complètement le fichier susmentionné
+avant de le réinstaller de ses moyens de la distribution.
+
+S'il vous plaît contactez l'auteur si ce message continue à paraître.
+
+[214.]
+
+    > A FAIT UNE PAUSE <
+
+[215.]
+Ne  pas trouver de navigateur.
+
+[216.]
+La page de Web ' http:/ /www.missionrisk.les com' n'ont pas Ouvert
+
+[217.]
+La page de Web ' https:/ /www.regnow.com/softsell/nph-softsell.cgi?item=1584-1 ' n'a pas Ouvert
+
+[Rm218.] Une erreur de fichier a occured. Perhapse X a été corrompu d'une certaine façon.
+
+[218.]
+Une erreur de fichier a occured. Perhapse
+
+[219.]
+ a été corrompu d'une certaine façon.
+
+[220.]
+L'erreur
+
+[221.]
+L'installation
+
+[222.]
+L'erreur du débordement de pile - un dossier de données peut être corrompu. Ils seront maintenant réinitialisés. Contactez le vendeur du logiciel si le problème persiste. Ce programme doit maintenant être recommencé.
+
+[223.]
+L'Asie et l'Amérique du Sud.
+
+[224.]
+L'Asie et l'Afrique.
+
+[225.]
+L'Amérique du Nord et l'Afrique.
+
+[Rm226.] L'Amérique du Nord et l'Australie.
+
+[226.]
+Amérique du Nord et
+Australie.
+
+[Rm227.] Europe, Amérique du Sud et un troisième continent.
+
+[227.]
+Europe, Amérique du Sud,
+et un troisième continent.
+
+[Rm228.] Europe, Australie et un troisième continent.
+
+[228.]
+Europe, Australie et
+un troisième continent.
+
+[Rm229.] L'information de l'IP de votre ordinateur du travail ne soit pas trouvée.
+
+[229.]
+L'information de l'IP de votre terminal ne pourrait pas être trouvée.
+
+----------------------------

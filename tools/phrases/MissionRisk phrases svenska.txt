@@ -1,0 +1,2809 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <0> - English]
+"Player"
+
+[Phrase <0> - Swedish]
+"Spelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <1> - English]
+"The Red Army "
+
+[Phrase <1> - Swedish]
+"Den röda armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <2> - English]
+"The Green Army "
+
+[Phrase <2> - Swedish]
+"Den gröna armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <3> - English]
+"The Blue Army "
+
+[Phrase <3> - Swedish]
+"Den blåa armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <4> - English]
+"The Yellow Army "
+
+[Phrase <4> - Swedish]
+"Den gula armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <5> - English]
+"The Purple Army "
+
+[Phrase <5> - Swedish]
+"Den lila armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <6> - English]
+"The Gray Army "
+
+[Phrase <6> - Swedish]
+"Den gråa armén "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <7> - English]
+"Human player"
+
+[Phrase <7> - Swedish]
+"Mänsklig spelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <8> - English]
+"Average computer player"
+
+[Phrase <8> - Swedish]
+"Normal datorspelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <9> - English]
+"Smart computer player"
+
+[Phrase <9> - Swedish]
+"Smart datorspelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <10> - English]
+"Players"
+
+[Phrase <10> - Swedish]
+"Spelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <11> - English]
+"First player"
+
+[Phrase <11> - Swedish]
+"Första spelaren"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <12> - English]
+"Random"
+
+[Phrase <12> - Swedish]
+"Slumpmässig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <13> - English]
+"Player 1"
+
+[Phrase <13> - Swedish]
+"Spelare 1"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <14> - English]
+"Cards"
+
+[Phrase <14> - Swedish]
+"Kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <15> - English]
+"Hidden"
+
+[Phrase <15> - Swedish]
+"Dolda"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <16> - English]
+"None"
+
+[Phrase <16> - Swedish]
+"Inget"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <17> - English]
+"Fixed"
+
+[Phrase <17> - Swedish]
+"Bestämt"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <18> - English]
+"Maximum"
+
+[Phrase <18> - Swedish]
+"Maximum"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <19> - English]
+"War options"
+
+[Phrase <19> - Swedish]
+"Alternativ för krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <20> - English]
+"Missions"
+
+[Phrase <20> - Swedish]
+"Uppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <21> - English]
+"Limit supply lines"
+
+[Phrase <21> - Swedish]
+"Begränsat understöd"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <22> - English]
+"Optimise defence dice"
+
+[Phrase <22> - Swedish]
+"Optimera försvarstärningarna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <23> - English]
+"Fast war"
+
+[Phrase <23> - Swedish]
+"Snabba slag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <24> - English]
+"Fast Dice"
+
+[Phrase <24> - Swedish]
+"Snabba tärningsslag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <25> - English]
+"Border shows player's color"
+
+[Phrase <25> - Swedish]
+"Ramen visar spelarens färg"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <26> - English]
+"&Declare War"
+
+[Phrase <26> - Swedish]
+"Förklara krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <27> - English]
+"&Cancel set up"
+
+[Phrase <27> - Swedish]
+"Avbryt"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <28> - English]
+"Remote player"
+
+[Phrase <28> - Swedish]
+"Fjärrspelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <29> - English]
+"Join &War"
+
+[Phrase <29> - Swedish]
+"Gå med i krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <30> - English]
+"Supply lines"
+
+[Phrase <30> - Swedish]
+"Understöd"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <31> - English]
+"&File"
+
+[Phrase <31> - Swedish]
+"Arkiv"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <32> - English]
+"&New war..."
+
+[Phrase <32> - Swedish]
+"Nytt krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <33> - English]
+"E&xit"
+
+[Phrase <33> - Swedish]
+"Avsluta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <34> - English]
+"MissionRisk Set Up... "
+
+[Phrase <34> - Swedish]
+"MissionRisk inställningar..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <35> - English]
+"MissionRisk - "
+
+[Phrase <35> - Swedish]
+"MissionRisk -  "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <36> - English]
+"Intelligent computer player"
+
+[Phrase <36> - Swedish]
+"Intelligent datorspelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <37> - English]
+"No file name has been specified"
+
+[Phrase <37> - Swedish]
+"Inget filnamn har angivits"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <38> - English]
+"&Options"
+
+[Phrase <38> - Swedish]
+"Alternativ"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <39> - English]
+"Fast &war"
+
+[Phrase <39> - Swedish]
+"Snabbt slag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <40> - English]
+"Fast &dice"
+
+[Phrase <40> - Swedish]
+"Snabba tärningsslag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <41> - English]
+"&Border shows player's color"
+
+[Phrase <41> - Swedish]
+"Ramen visar spelarens färg"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <42> - English]
+"3D displa&y"
+
+[Phrase <42> - Swedish]
+"3D-display"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <43> - English]
+"&Auto scroll"
+
+[Phrase <43> - Swedish]
+"Autoscroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <44> - English]
+" has been deleted or corrupted"
+
+[Phrase <44> - Swedish]
+" har raderats eller förstörts"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <45> - English]
+"Missing file"
+
+[Phrase <45> - Swedish]
+"Fil saknas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <46> - English]
+"Mi&ssions"
+
+[Phrase <46> - Swedish]
+"Uppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <47> - English]
+"&See mission"
+
+[Phrase <47> - Swedish]
+"Se uppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <48> - English]
+" has been corrupted and cannot be opened."
+
+[Phrase <48> - Swedish]
+" har förstörts och kan inte öppnas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <49> - English]
+"&Help"
+
+[Phrase <49> - Swedish]
+"Hjälp"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <50> - English]
+"&Contents..."
+
+[Phrase <50> - Swedish]
+"Innehåll..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <51> - English]
+"&Index..."
+
+[Phrase <51> - Swedish]
+"Index..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <52> - English]
+"&MissionRisk home page..."
+
+[Phrase <52> - Swedish]
+"MissionRisks hemsida... "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <53> - English]
+"MissionRisk &registration"
+
+[Phrase <53> - Swedish]
+"Registrera MissionRisk"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <54> - English]
+"Register MissionRisk &online..."
+
+[Phrase <54> - Swedish]
+"Registrera MissionRisk online..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <55> - English]
+"&Enter registration code..."
+
+[Phrase <55> - Swedish]
+"Ange registreringskod..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <56> - English]
+"File error"
+
+[Phrase <56> - Swedish]
+"Filfel"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <57> - English]
+"There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk."
+
+[Phrase <57> - Swedish]
+"Ett fel uppstod när filen 'Risk44INI.dat' skulle läsas. Antingen saknas den eller så är den förstörd. Var vänlig installera om UppdragsRisk."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <58> - English]
+" Transfer"
+
+[Phrase <58> - Swedish]
+"Förflytta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <59> - English]
+"&Attack"
+
+[Phrase <59> - Swedish]
+"Anfall"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <60> - English]
+"&Move"
+
+[Phrase <60> - Swedish]
+"Flytta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <61> - English]
+"&Pass"
+
+[Phrase <61> - Swedish]
+"Passa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <62> - English]
+"Exchange"
+
+[Phrase <62> - Swedish]
+"Byt in"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <63> - English]
+"Cancel"
+
+[Phrase <63> - Swedish]
+"Avbryt"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <64> - English]
+"attacks"
+
+[Phrase <64> - Swedish]
+"attackerar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <65> - English]
+"<Click defending country>"
+
+[Phrase <65> - Swedish]
+"<Klicka på försvarande land>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <66> - English]
+"has WON THE GAME!"
+
+[Phrase <66> - Swedish]
+"har VUNNIT SPELET"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <67> - English]
+"By occupying and holding"
+
+[Phrase <67> - Swedish]
+"Genom att besätta och hålla"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <68> - English]
+"24 countries."
+
+[Phrase <68> - Swedish]
+"24 länder."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <69> - English]
+"By wiping out "
+
+[Phrase <69> - Swedish]
+"Genom att utplåna "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <70> - English]
+"You have "
+
+[Phrase <70> - Swedish]
+"Du har "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <71> - English]
+" units to place."
+
+[Phrase <71> - Swedish]
+" styrkor att sätta ut"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <72> - English]
+"<Click destination country>"
+
+[Phrase <72> - Swedish]
+"<Klicka på mållandet> "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <73> - English]
+"moves "
+
+[Phrase <73> - Swedish]
+"flyttar "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <74> - English]
+"to "
+
+[Phrase <74> - Swedish]
+"till "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <75> - English]
+"You must wipe out all other players and conquer the world."
+
+[Phrase <75> - Swedish]
+"Du ska utplåna alla andra spelare och erövra världen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <76> - English]
+"Your mission is to wipe out "
+
+[Phrase <76> - Swedish]
+"Ditt uppdrag är att utplåna "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <77> - English]
+"You must conquer Asia and South America and hold them until your next turn."
+
+[Phrase <77> - Swedish]
+"Du ska erövra Asien och Sydamerika och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <78> - English]
+"You must conquer Asia and Africa and hold them until your next turn."
+
+[Phrase <78> - Swedish]
+"Du ska erövra Asien och Afrika och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <79> - English]
+"You must conquer North America and Africa and hold them until your next turn."
+
+[Phrase <79> - Swedish]
+"Du ska erövra Nordamerika och Afrika och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <80> - English]
+"You must conquer North America and Australia and hold them until your next turn."
+
+[Phrase <80> - Swedish]
+"Du ska erövra Nordamerika och Australien och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <81> - English]
+"You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <81> - Swedish]
+"Du ska erövra Europa, Sydamerika och en valfri tredje kontinent och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <82> - English]
+"You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <82> - Swedish]
+"Du ska erövra Europa, Australien och en valfri tredje kontinent och hålla dem till ditt nästa drag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <83> - English]
+"You must occupy any 24 countries and hold them until your next turn."
+
+[Phrase <83> - Swedish]
+"Du ska besätta 24 länder och hålla dem till ditt nästa drag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <84> - English]
+"Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?"
+
+[Phrase <84> - Swedish]
+"Din systempalett bör vara inställd på HIGH COLOR-mode för att visa 3D. Vill du ändå växla till 3D-läge? "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <85> - English]
+"Warning"
+
+[Phrase <85> - Swedish]
+"Varning"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <86> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another 28  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <86> - Swedish]
+"Tack för att du testar MissionRisk v<Var.Maj>.<Var.Min>. Jag hoppas att du gillar att spela.
+
+Var snäll och glöm inte att registrera programmet om du gillar det.
+
+En äldre version av MissionRisk har upptäckts.
+
+Du är härmed tillåten att testa spelet under en ny 28-dagarsperiod som börjar nu.
+
+Vill du läsa MissionRisks hjälpfil?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <87> - English]
+"Welcome to MissionRisk v<Var.Maj>.<Var.Min>"
+
+[Phrase <87> - Swedish]
+"Välkommen till MissionRisk v<Var.Maj>.<Var.Min>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <88> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in 28 days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <88> - Swedish]
+"Tack för att du testar  MissionRisk v<Var.Maj>.<Var.Min>. Jag hoppas att du gillar att spela.
+
+Var snäll och glöm inte att registrera programmet om du gillar det. Evalueringslicensen gäller i 28 dagar från idag.
+
+Du kan fortsätta att spela MissionRisk efter denna period, men då kommer du att bryta mot licensavtalet.
+
+Vill du läsa MissionRisks hjälpfil?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <89> - English]
+"Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details."
+
+[Phrase <89> - Swedish]
+"Ditt system är inte inställt på HIGH COLOR, vilket betyder att MissionRisk bara klarar att visa grafik i 2D.
+
+Om du vill se grafik i 3D, kan du ändra systeminställningarna under Bildskärm i Kontrollpanelen. Läs i Hjälp-filen för mer information. "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <90> - English]
+"The system date has been altered!"
+
+[Phrase <90> - Swedish]
+"Systemdatumet har ändrats!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <91> - English]*
+"MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM."
+
+[Phrase <91> - Swedish]
+"Du har fortfarande inte REGISTRERAT MissionRisk!
+
+VAR VÄNLIG REGISTRERA PROGRAMMET."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <92> - English]
+"Registration has expired."
+
+[Phrase <92> - Swedish]
+"Registreringsperioden har gått ut."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <93> - English]
+"The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <93> - Swedish]
+"Utvärderingsperioden på <Var.Eval> dagar har gått ut. Flera av de viktigaste funktionerna i MissionRisk kommer att sluta fungera inom ett par dagar.
+
+Om du vill fortsätta använda MissionRisk på ett lagligt sätt och med full funktionalitet måste du registrera din kopia genom att betala ett mindre belopp (USD 12) till skaparen. Din registrering kommer att stödja och uppmuntra framtida utveckling av programmet.
+Mer information finns i hjälpfilen.
+
+Du kan registrera online med ditt kreditkort. Vill du registrera programmet nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <94> - English]
+"Notice"
+
+[Phrase <94> - Swedish]
+"Observera"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <95> - English]
+"The <Var.Eval> day evaluation period has lapsed "
+
+[Phrase <95> - Swedish]
+"Utvärderingsperioden på <Var.Eval> dagar har gått ut."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <96> - English]
+"Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <96> - Swedish]
+"Flera av MissionRisks viktigare funktioner har slutat fungera.
+
+Om du vill fortsätta använda MissionRisk på ett lagligt sätt och med full funktionalitet måste du registrera din kopia genom att betala ett mindre belopp (USD 12) till skaparen. Din registrering kommer att stödja och uppmuntra framtida utveckling av programmet.
+Mer information finns i hjälpfilen.
+
+Du kan registrera online med ditt kreditkort. Vill du registrera programmet nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <97> - English]
+" days ago."
+
+[Phrase <97> - Swedish]
+"För *** dagar sedan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <98> - English]
+"PLEASE REGISTER"
+
+[Phrase <98> - Swedish]
+"VAR SNÄLL OCH REGISTRERA PROGRAMMET"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <99> - English]
+"Do you really want to QUIT?"
+
+[Phrase <99> - Swedish]
+"Vill du verkligen SLUTA?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <100> - English]
+"By dominating the world."
+
+[Phrase <100> - Swedish]
+"Genom att dominera världen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <101> - English]
+"with "
+
+[Phrase <101> - Swedish]
+"med "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <102> - English]
+" units."
+
+[Phrase <102> - Swedish]
+" enheter."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <103> - English]
+" unit."
+
+[Phrase <103> - Swedish]
+" enhet."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <104> - English]
+"<Click attacking country>"
+
+[Phrase <104> - Swedish]
+"<Klicka på anfallande land>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <105> - English]
+" unit to place."
+
+[Phrase <105> - Swedish]
+" enhet att placera ut."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <106> - English]
+"moves to "
+
+[Phrase <106> - Swedish]
+"flyttar till "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <107> - English]
+" from"
+
+[Phrase <107> - Swedish]
+" från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <108> - English]
+"<Click source country>"
+
+[Phrase <108> - Swedish]
+"<Klicka på ursprungsland>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <109> - English]
+"<Click attacking country(s)>"
+
+[Phrase <109> - Swedish]
+"<Klicka på anfallande land (länder)>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <110> - English]
+"Retreats 0 units from"
+
+[Phrase <110> - Swedish]
+"Drar tillbaka 0 enheter från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <111> - English]
+"Retreats"
+
+[Phrase <111> - Swedish]
+"Drar tillbaka"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <112> - English]
+" units from"
+
+[Phrase <112> - Swedish]
+" enheter från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <113> - English]
+" unit from"
+
+[Phrase <113> - Swedish]
+" enhet från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <114> - English]
+" units left."
+
+[Phrase <114> - Swedish]
+" enheter kvar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <115> - English]*
+" unit  left."
+
+[Phrase <115> - Swedish]
+" enhet kvar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <116> - English]
+"Belongs to "
+
+[Phrase <116> - Swedish]
+"Tillhör "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <117> - English]
+"which has a value of"
+
+[Phrase <117> - Swedish]
+"som är värt"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <118> - English]
+"Currently occupied by "
+
+[Phrase <118> - Swedish]
+"Hålls för närvarande av "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <119> - English]
+"SPRUNG!"
+
+[Phrase <119> - Swedish]***
+"SPRUNG!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <120> - English]
+"Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <120> - Swedish]
+"Aha! Ertappad med spioneri!
+Du måste vänta tills det är din tur för att få reda på ditt uppdrag!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <121> - English]
+"Stop peeking!"
+
+[Phrase <121> - Swedish]
+"Sluta kika!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <122> - English]
+"NO! My mission!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <122> - Swedish]
+"NEJ! Det är mitt uppdrag!
+Du måste vänta tills det är din tur för att få reda på ditt uppdrag!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <123> - English]
+"Conspiracy"
+
+[Phrase <123> - Swedish]
+"Sammansvärjning"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <124> - English]
+"This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is."
+
+[Phrase <124> - Swedish]
+"Det här är hemligstämplad information. Om jag berättar för dig så måste jag döda dig. Annars kan du vänta tills det är din tur för att få reda på vad ditt eget uppdrag är."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <125> - English]
+"NO!"
+
+[Phrase <125> - Swedish]
+"NEJ!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <126> - English]
+"My mission! I finish it! You just wait until your turn and finish your own mission!"
+
+[Phrase <126> - Swedish]
+"Mitt uppdrag! Jag avslutar det! Du väntar tills det är din tur och avslutar ditt eget uppdrag!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <127> - English]
+"Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!"
+
+[Phrase <127> - Swedish]
+"Spioneri tolereras INTE i krig!
+Dina spioner har alla tillfångatagits och avrättats. De dog långsamt i en av mina många tortyrkamrar. Låt detta bli en varning för dig, ditt avskum! Dina arméer av människor kommer snart att utrotas och vår MissioRisk-värld kommer att bli ett bättre ställer för datorspelare att leva på!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <128> - English]
+"You intolerable species"
+
+[Phrase <128> - Swedish]
+"Du outhärdliga art"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <129> - English]
+"'s turn."
+
+[Phrase <129> - Swedish]
+"s tur."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <130> - English]
+"Checking cards"
+
+[Phrase <130> - Swedish]
+"Kontrollerar kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <131> - English]
+"     YOU MUST
+  TRADE CARDS"
+
+[Phrase <131> - Swedish]
+"    DU MÅSTE
+ BYTA IN KORT"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <132> - English]
+"Trade cards in for"
+
+[Phrase <132> - Swedish]
+"Byta in kort mot"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <133> - English]
+" units?"
+
+[Phrase <133> - Swedish]
+" enheter?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <134> - English]
+"  Re-shuffling cards."
+
+[Phrase <134> - Swedish]
+"  Blandar om korten."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <135> - English]
+"Used risk cards are being collected, re-shuffled and put back in the pack."
+
+[Phrase <135> - Swedish]
+"Använda Risk-kort samlas ihop, blandas och läggs tillbaka i högen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <136> - English]
+"Don't show any more."
+
+[Phrase <136> - Swedish]
+"Visa inte fler gånger."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <137> - English]
+"You need more players than that."
+
+[Phrase <137> - Swedish]
+"Du behöver fler spelare än så."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <138> - English]
+"There are still some countries left."
+
+[Phrase <138> - Swedish]
+"Det finns fortfarande länder kvar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <139> - English]
+"Setting up the board..."
+
+[Phrase <139> - Swedish]
+"Ställer i ordning brädet..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <140> - English]
+"Name"
+
+[Phrase <140> - Swedish]
+"Namn"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <141> - English]
+"Registration code"
+
+[Phrase <141> - Swedish]
+"Registreringskod"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <142> - English]
+"Available wars"
+
+[Phrase <142> - Swedish]
+"Tillgängliga krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <143> - English]
+"Delete"
+
+[Phrase <143> - Swedish]
+"Ta bort"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <144> - English]
+"&Open war..."
+
+[Phrase <144> - Swedish]
+"Öppna krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <145> - English]
+"&Make this the default war"
+
+[Phrase <145> - Swedish]
+"Gör detta till standardkrig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <146> - English]
+"Description"
+
+[Phrase <146> - Swedish]
+"Beskrivning"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <147> - English]
+"Save war as..."
+
+[Phrase <147> - Swedish]
+"Spara krig som..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <148> - English]
+"Title of war"
+
+[Phrase <148> - Swedish]
+"Krigets namn"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <149> - English]
+"&Save"
+
+[Phrase <149> - Swedish]
+"Spara"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <150> - English]
+"Player option box for the "
+
+[Phrase <150> - Swedish]
+"Spelaralternativ för "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <151> - English]
+"Number of countries this army starts with"
+
+[Phrase <151> - Swedish]
+"Antal länder denna armé inleder med"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <152> - English]
+"Increment/decrement starting countries"
+
+[Phrase <152> - Swedish]
+"Öka/minska antalet start-arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <153> - English]
+"Change the number of starting players"
+
+[Phrase <153> - Swedish]
+"Ändra antalet spelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <154> - English]
+"How many players are going to war"
+
+[Phrase <154> - Swedish]
+"Hur många spelare ska kriga"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <155> - English]
+"Random selection of the first player"
+
+[Phrase <155> - Swedish]
+"Välj förste spelare slumpvis"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <156> - English]
+"Player 1 - the red army is the first player"
+
+[Phrase <156> - Swedish]
+"Spelare 1 - den röda armén spelar först"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <157> - English]
+"The cards option box"
+
+[Phrase <157> - Swedish]
+"Kortalternativrutan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <158> - English]
+"Other players cannot see your cards when checked"
+
+[Phrase <158> - Swedish]
+"Andra spelare kan inte se dina kort när detta är markerat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <159> - English]
+"Cards are not issued when checked"
+
+[Phrase <159> - Swedish]
+"Kort ges inte ut om detta är markerat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <160> - English]
+"Value of cards do not change when checked"
+
+[Phrase <160> - Swedish]
+"Värdet på korten ändras inte när detta är markerat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <161> - English]
+"Value of cards increases whith every set turned in"
+
+[Phrase <161> - Swedish]
+"Värdet på korten ökar för varje inbyte"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <162> - English]
+"Sets the maximum card value"
+
+[Phrase <162> - Swedish]
+"Bestämmer kortens maximala värde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <163> - English]
+"The war options box"
+
+[Phrase <163> - Swedish]
+"Krigsalternativrutan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <164> - English]
+"All players are issued with secret missions when checked"
+
+[Phrase <164> - Swedish]
+"Alla spelare får hemliga uppdrag när detta är markerat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <165> - English]
+"Limits army movements"
+
+[Phrase <165> - Swedish]
+"Begränsar trupprörelser"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <166> - English]
+"Look at the attack dice and decide how many defence dice to throw"
+
+[Phrase <166> - Swedish]
+"Titta på anfallstärningarna och avgör hur många försvarstärningar som ska slås"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <167> - English]
+"Speed of computer players"
+
+[Phrase <167> - Swedish]
+"Hastighet på datorspelarna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <168> - English]
+"Speed at which the dice are thrown"
+
+[Phrase <168> - Swedish]
+"Hastighet på tärningsslagen"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <169> - English]
+"Border flashes player's color (can be annoying!)"
+
+[Phrase <169> - Swedish]
+"Ramen blinkar i spelarens färg (kan vara irriterande!)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <170> - English]
+"Start new war with these settings"
+
+[Phrase <170> - Swedish]
+"Inled ett nytt krig med dessa inställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <171> - English]
+"Exit with the previous settings"
+
+[Phrase <171> - Swedish]
+"Gå tillbaka med tidigare inställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <172> - English]
+"&Reshuffle notice"
+
+[Phrase <172> - Swedish]
+"Omblandningsmeddelande"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <173> - English]
+"&Select language..."
+
+[Phrase <173> - Swedish]
+"Välj språk..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <174> - English]
+"Start &turn again"
+
+[Phrase <174> - Swedish]
+"Börja om din tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <175> - English]
+"&Reset war"
+
+[Phrase <175> - Swedish]
+"Återställ krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <176> - English]
+"Capture players' cards when you wipe out their last unit"
+
+[Phrase <176> - Swedish]
+"Erövra spelarens kort när du slår ut deras sista enhet!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <177> - English]
+"Increasing"
+
+[Phrase <177> - Swedish]
+"Ökande"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <178> - English]
+"Capture"
+
+[Phrase <178> - Swedish]
+"Erövra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <179> - English]
+"No supply lines"
+
+[Phrase <179> - Swedish]
+"Inga understödslinjer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <180> - English]
+"No restrictions on army movements"
+
+[Phrase <180> - Swedish]
+"Inga begränsningar i trupprörelser"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <181> - English]
+"Current value: "
+
+[Phrase <181> - Swedish]
+"Nuvarande värde: "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <182> - English]
+"This program is registered to "
+
+[Phrase <182> - Swedish]
+"Detta program är registrerat till "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <183> - English]
+"Thank you for registering."
+
+[Phrase <183> - Swedish]
+"Tack för att du registrerat."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <184> - English]
+"&ALL"
+
+[Phrase <184> - Swedish] ***
+"ALLA"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <185> - English]
+"Copyright(c) 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties."
+
+[Phrase <185> - Swedish]
+"Cpyright(c) 1998-2000 Craig Douglas.
+Varning: Detta program skyddas av kopieringslagar och internationella avtal."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <186> - English]
+"Distribute extra starting units"
+
+[Phrase <186> - Swedish]
+"Sätt ut extra trupper"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <187> - English]
+"Extra starting units are randomly distributed over each players' territories."
+
+[Phrase <187> - Swedish]
+"Extra trupper fördelas slumpvis över vardera spelarens territorier."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <188> - English]
+"Extra units"
+
+[Phrase <188> - Swedish]
+"Extra enheter"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <189> - English]
+" wants to keep going"
+
+[Phrase <189> - Swedish]
+" vill fortsätta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <190> - English]
+" wants to keep the mission a secret!"
+
+[Phrase <190> - Swedish]
+" vill hålla sitt uppdrag hemligt!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <191> - English]
+"Do you really want to quit this war?"
+
+[Phrase <191> - Swedish]
+"Vill du verkligen avsluta det här kriget?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <192> - English]
+"Are you sure you want to delete "
+
+[Phrase <192> - Swedish]
+"Är du säker på att du vill ta bort "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <193> - English]
+"Are you sure?"
+
+[Phrase <193> - Swedish]
+"Är du säker?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <194> - English]
+"Open war"
+
+[Phrase <194> - Swedish]
+"Öppna krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <195> - English]
+"Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?"
+
+[Phrase <195> - Swedish]
+"Tack för att du registrerat MissionRisk.
+
+MissionRisk måste startas om för att
+registreringen skall avslutas.
+Starta om nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <196> - English]*
+"AI interupt request"
+
+[Phrase <196> - Swedish]
+"AI avbrottsförfrågan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <197> - English]
+"Version "
+
+[Phrase <197> - Swedish]
+"Version "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <198> - English]
+"Hi "
+
+[Phrase <198> - Swedish]
+"Hej "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <199> - English]
+"your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file."
+
+[Phrase <199> - Swedish]
+"din gamla MissionRisk-registering har hittats och bekräftats.
+
+Om du har några klagomål eller förslag angående MissionRisk så tveka inte att skicka ett meddelande. Min e-postadress finns i hjälpfilen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <200> - English]
+"&Open"
+
+[Phrase <200> - Swedish]
+"Öppna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <201> - English]
+"&Tool box"
+
+[Phrase <201> - Swedish]
+"Verktygsfält"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <202> - English]
+"New war"
+
+[Phrase <202> - Swedish]
+"Nytt krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <203> - English]
+"Reset war"
+
+[Phrase <203> - Swedish]
+"Börja om krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <204> - English]
+"Open"
+
+[Phrase <204> - Swedish]
+"Öppna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <205> - English]
+"Save"
+
+[Phrase <205> - Swedish]
+"Spara"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <206> - English]
+"Fast war (press + and - to adjust speed)"
+
+[Phrase <206> - Swedish]
+"Snabbt krig (tryck på + och - för att justera hastigheten)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <207> - English]
+"Fast dice (press + and - to adjust speed)"
+
+[Phrase <207> - Swedish]
+"Snabba tärningsslag (tryck på + och - för att justera hastigheten)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <208> - English]
+"Auto scroll"
+
+[Phrase <208> - Swedish]
+"Automatisk scrollning"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <209> - English]
+"Start turn again"
+
+[Phrase <209> - Swedish]
+"Börja om din tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <210> - English]
+"Help"
+
+[Phrase <210> - Swedish]
+"Hjälp"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <211> - English]
+"Please re-enter your MissionRisk registration code."
+
+[Phrase <211> - Swedish]
+"Var vänlig och ange din registreringskod för MissionRisk igen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <212> - English]
+"New version update"
+
+[Phrase <212> - Swedish]
+"Ny versionsuppdatering"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <213> - English]
+"<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing."
+
+[Phrase <213> - Swedish]
+"<Var.EXEName>.exe har ändrats.
+Detta betyder att den kan vara virussmittad.
+Var vänlig ta bort och ominstallera detta program.
+
+Ett antal fällor har installerats för att hjälpa till att förhindra virus-
+spridning men det är känt att dessa kan krascha programmet. En
+del av dessa fällor har löst ut och det enda sättet att återställa
+dem är att helt ta bort den ovannämnda filen innan den ominstalleras
+från dess distributionsmedia.
+
+Var vänlig kontakta programskaparen om detta meddelande fortsätter dyka upp."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <214> - English]
+"
+    > PAUSED <"
+
+[Phrase <214> - Swedish]
+"
+    > PAUSAD <"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <215> - English]
+"Could not find a browser."
+
+[Phrase <215> - Swedish]
+"Kunde inte hitta en web-läsare."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <216> - English]
+"Web Page 'http://www.missionrisk.com' not Opened"
+
+[Phrase <216> - Swedish]
+"Websidan 'http://www.missionrisk.com' har inte öppnats"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <217> - English]
+"Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened"
+
+[Phrase <217> - Swedish]
+"Websidan 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' har inte öppnats"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <218> - English]*
+"A file error has occured. Perhapse "
+
+[Phrase <218> - Swedish]
+"Ett filfel har inträffat. Kanske "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <219> - English]
+" has been corrupted in some way."
+
+[Phrase <219> - Swedish]
+" har förstörts på något sätt."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <220> - English]
+"Error"
+
+[Phrase <220> - Swedish]
+"Fel"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <221> - English]
+"Setup"
+
+[Phrase <221> - Swedish]
+"Inställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <222> - English]
+"Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted."
+
+[Phrase <222> - Swedish]
+"Stackfel - en av datafilerna kan ha förstörts. Dessa initialiseras nu om. Kontakta försäljaren om problemet återstår. Detta program måste nu startas om."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <223> - English]
+"Asia and South America."
+
+[Phrase <223> - Swedish]
+"Asien och Sydamerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <224> - English]
+"Asia and Africa."
+
+[Phrase <224> - Swedish]
+"Asien och Afrika."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <225> - English]
+"North America and Africa."
+
+[Phrase <225> - Swedish]
+"Nordamerika och Afrika."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <226> - English]
+"North America and 
+Australia."
+
+[Phrase <226> - Swedish]
+"Nordamerika och
+Australien."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <227> - English]
+"Europe, South America 
+and a third continent."
+
+[Phrase <227> - Swedish]
+"Europa, Sydamerika
+och en tredje kontinent."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <228> - English]
+"Europe, Australia and 
+a third continent."
+
+[Phrase <228> - Swedish]
+"Europa, Australien och
+en tredje kontinent."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <229> - English]
+"Your terminal's IP information could not be found."
+
+[Phrase <229> - Swedish]
+"Din dators IP-information kunde inte bestämmas."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <230> - English]
+"Terminal "
+
+[Phrase <230> - Swedish]
+"Terminal "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <231> - English]
+" has connected."
+
+[Phrase <231> - Swedish]
+" har anslutit."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <232> - English]
+"An error has occured"
+
+[Phrase <232> - Swedish]
+"Ett fel har inträffat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <233> - English]
+"Each client should have their own unique registration licence."
+
+[Phrase <233> - Swedish]
+"Varje klient skall ha sin egen unika registreringslicens."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <234> - English]
+"Please register"
+
+[Phrase <234> - Swedish]
+"Var snäll och registrera"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <235> - English]
+"Host"
+
+[Phrase <235> - Swedish]
+"Värd"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <236> - English]
+" >> Your are "
+
+[Phrase <236> - Swedish]
+" >> Ditt är"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <237> - English]
+"Terminal Host Name is "
+
+[Phrase <237> - Swedish]
+"Terminalens värdnamn är "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <238> - English]
+"Click <IP info...> for more information."
+
+[Phrase <238> - Swedish]
+"Klicka på <IP-information...> för mer information."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <239> - English]
+"Do you want to close all connections?"
+
+[Phrase <239> - Swedish]
+"Vill du stänga alla anslutningar?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <240> - English]
+"Please enter the name or IP address of the host"
+
+[Phrase <240> - Swedish]
+"Var vänlig ange namn eller IP-adress till värden"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <241> - English]
+"Missing information"
+
+[Phrase <241> - Swedish]
+"Saknar information"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <242> - English]
+"Disconnect"
+
+[Phrase <242> - Swedish]
+"Koppla från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <243> - English]
+"Connecting to "
+
+[Phrase <243> - Swedish]
+"Ansluter till "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <244> - English]
+"Please restart this session."
+
+[Phrase <244> - Swedish]
+"Var vänlig start om sessionen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <245> - English]
+"Error... Address violation"
+
+[Phrase <245> - Swedish]
+"Fel... Adressfel"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <246> - English]
+"Connection closed."
+
+[Phrase <246> - Swedish]
+"Anslutning stängd."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <247> - English]
+"All connections closed."
+
+[Phrase <247> - Swedish]
+"Alla anslutningar stängda."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <248> - English]
+"Listening for connections."
+
+[Phrase <248> - Swedish]
+"Lyssnar efter anslutningar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <249> - English]
+"Another aplication could be using this port"
+
+[Phrase <249> - Swedish]
+"Någon annan applikation kan täknas använda den porten"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <250> - English]
+"Address violation"
+
+[Phrase <250> - Swedish]
+"Adressfel"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <251> - English]
+"Listen"
+
+[Phrase <251> - Swedish]
+"Lyssna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <252> - English]
+"Connect"
+
+[Phrase <252> - Swedish]
+"Anslut"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <253> - English]
+"Connection has been lost."
+
+[Phrase <253> - Swedish]
+"Anslutningen bröts."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <254> - English]
+" has disconnected."
+
+[Phrase <254> - Swedish]
+" har kopplat från."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <255> - English]
+"Buffer overflow error has occured."
+
+[Phrase <255> - Swedish]
+"Ett buffertfel har inträffat."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <256> - English]
+"Connection established."
+
+[Phrase <256> - Swedish]
+"Anslutning upprättad."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <257> - English]
+"No, Please try again"
+
+[Phrase <257> - Swedish]
+"Nej, var vänlig försök igen"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <258> - English]
+"No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)"
+
+[Phrase <258> - Swedish]
+"Nej, kontrollera att du skrivit in namn och kod exakt
+som det står (stora bokstäver, mellanslag etc...)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <259> - English]
+"System Information Is Unavailable At This Time"
+
+[Phrase <259> - Swedish]
+"Systeminformation är inte tillgängligt för tillfället"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <260> - English]
+"** Cheat mode activated **"
+
+[Phrase <260> - Swedish]
+"** Fuskläge aktiverat **"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <261> - English]
+"An error occured while deleting "
+
+[Phrase <261> - Swedish]
+"Ett fel uppstod vid borttagning av "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <262> - English]
+"It might be already opened."
+
+[Phrase <262> - Swedish]
+"Den kan vara öppen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <263> - English]
+" already exists."
+
+[Phrase <263> - Swedish]
+" finns redan."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <264> - English]
+"Overwrite any way?"
+
+[Phrase <264> - Swedish]
+"Skriv över i alla fall?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <265> - English]
+"Save as..."
+
+[Phrase <265> - Swedish]
+"Spara som..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <266> - English]
+" cannot be modified or deleted."
+
+[Phrase <266> - Swedish]
+" kan inte ändras eller tas bort."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <267> - English]
+"&Advanced..."
+
+[Phrase <267> - Swedish]
+"Avancerat..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <268> - English]
+"Networ&k setup..."
+
+[Phrase <268> - Swedish]
+"Nätverksinställningar..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <269> - English]
+"Compose message..."
+
+[Phrase <269> - Swedish]
+"Komponera meddelande..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <270> - English]
+"C&ontinent map"
+
+[Phrase <270> - Swedish]
+"Kontinentkarta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <271> - English]
+"&About"
+
+[Phrase <271> - Swedish]
+"Om"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <272> - English]
+"Change the number of starting players."
+
+[Phrase <272> - Swedish]
+"Ändra antalet spelare."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <273> - English]
+"Advanced options..."
+
+[Phrase <273> - Swedish]
+"Avancerade inställningar..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <274> - English]
+"Advanced war options"
+
+[Phrase <274> - Swedish]
+"Avancerade alternativ för krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <275> - English]
+"Mission Options"
+
+[Phrase <275> - Swedish]
+"Uppdragsinställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <276> - English]
+"Graphics Options"
+
+[Phrase <276> - Swedish]
+"Grafikinställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <277> - English]
+"Include army wipe out missions."
+
+[Phrase <277> - Swedish]
+"Inkludera uppdrag där andra arméer skall utplånas."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <278> - English]
+"Include conquer and hold missions."
+
+[Phrase <278> - Swedish]
+"Inkludera erövra och håll-uppdrag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <279> - English]
+"Must complete own mission to win."
+
+[Phrase <279> - Swedish]
+"Måste avsluta sitt eget uppdrag för att vinna."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <280> - English]
+"Win immediately upon completing mission."
+
+[Phrase <280> - Swedish]
+"Vinn direkt efter avslutat uppdrag."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <281> - English]
+"Change green saturation."
+
+[Phrase <281> - Swedish]
+"Ändra färgmättnad på den gröna färgen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <282> - English]
+"Change yellow saturation."
+
+[Phrase <282> - Swedish]
+"Ändra färgmättnad på den gula färgen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <283> - English]
+"Change gray luminosity."
+
+[Phrase <283> - Swedish]
+"Ändra ljusstyrkan på den gråa färgen."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <284> - English]
+"Large font size."
+
+[Phrase <284> - Swedish]
+"Stora teckensnitt."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <285> - English]
+"Include missions where you have to wipe out the last unit of another player"
+
+[Phrase <285> - Swedish]
+"Ta med uppdrag där du skall slå ut en annan spelares sista styrka"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <286> - English]
+"Include missions where you have to conquer territories and hold them until your next turn"
+
+[Phrase <286> - Swedish]
+"Ta med uppdrag där du ska erövra kontinenter och hålla dem till ditt nästa drag"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <287> - English]
+"You do not win when an opponent wipes out your target army for you"
+
+[Phrase <287> - Swedish]
+"Du vinner inte om en motståndare utplånar den armé du skall slå ut"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <288> - English]
+"After wiping out a target army, you must wait until your next turn to win when unchecked"
+
+[Phrase <288> - Swedish]
+"Efter att ha utplånat den armé du skall slå ut måste du vänta till det är din tur för att vinna om detta inte är markerat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <289> - English]
+"Lighten or darken the color of the Green Army"
+
+[Phrase <289> - Swedish]
+"Gör den gröna armén ljusare eller mörkare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <290> - English]
+"Lighten or darken the color of the Yellow Army"
+
+[Phrase <290> - Swedish]
+"Gör den gula armén ljusare eller mörkare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <291> - English]
+"Lighten or darken the color of the Gray Army"
+
+[Phrase <291> - Swedish]
+"Gör den gråa armén ljusare eller mörkare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <292> - English]
+"Change the font size used to print country scores"
+
+[Phrase <292> - Swedish]
+"Ändra storleken på teckensnittet som anger antalet arméer i länderna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <293> - English]
+"MissionRisk network setup"
+
+[Phrase <293> - Swedish]
+"Nätverksinställningar för MissionRisk"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <294> - English]
+"Connection options"
+
+[Phrase <294> - Swedish]
+"Anslutningsalternativ"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <295> - English]
+"Connection type"
+
+[Phrase <295> - Swedish]
+"Anlutningstyp"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <296> - English]
+"Refresh rate"
+
+[Phrase <296> - Swedish]
+"Uppdateringsfrekvens"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <297> - English]
+"Settings"
+
+[Phrase <297> - Swedish]
+"Inställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <298> - English]
+"Session history"
+
+[Phrase <298> - Swedish]
+"Sessionshistoria"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <299> - English]
+"Name or IP address of host"
+
+[Phrase <299> - Swedish]
+"Värdens namn eller IP-adress"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <300> - English]
+"Port number"
+
+[Phrase <300> - Swedish]
+"Portnummer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <301> - English]
+"Join a war"
+
+[Phrase <301> - Swedish]
+"Gå med i ett krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <302> - English]
+"Host a war"
+
+[Phrase <302> - Swedish]
+"Var värd för ett krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <303> - English]
+"TCP / IP"
+
+[Phrase <303> - Swedish]
+"TCP / IP"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <304> - English]
+"Modem"
+
+[Phrase <304> - Swedish]
+"Modem"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <305> - English]
+"Serial"
+
+[Phrase <305> - Swedish]
+"Seriell"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <306> - English]
+"High"
+
+[Phrase <306> - Swedish]
+"Hög"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <307> - English]
+"Medium"
+
+[Phrase <307> - Swedish]
+"Mellan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <308> - English]
+"Low"
+
+[Phrase <308> - Swedish]
+"Låg"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <309> - English]
+"&IP Info..."
+
+[Phrase <309> - Swedish]
+"IP-information..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <310> - English]
+"&Connect"
+
+[Phrase <310> - Swedish]
+"Anslut"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <311> - English]
+"&OK"
+
+[Phrase <311> - Swedish]
+"OK "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <312> - English]
+"Network war must have 1 host"
+
+[Phrase <312> - Swedish]
+"Nätverkskrig måste ha 1 värd"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <313> - English]
+"Modem and direct serial connections will be available in future versions"
+
+[Phrase <313> - Swedish]
+"Modem och direkt seriell anslutning kommer att finnas i kommande versioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <314> - English]
+"The frequency at which remote players are updated"
+
+[Phrase <314> - Swedish]
+"Frekvensen varmed fjärrspelare uppdateras"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <315> - English]
+"Enter the name of the host terminal"
+
+[Phrase <315> - Swedish]
+"Skriv in värddatorns namn"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <316> - English]
+"All terminals must use the same port number"
+
+[Phrase <316> - Swedish]
+"Alla datorer måste använda samma portnummer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <317> - English]
+"Connect to a listening host"
+
+[Phrase <317> - Swedish]
+"Anslut till en lyssnande värd"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <318> - English]
+"Become a host and listen for connections"
+
+[Phrase <318> - Swedish]
+"Bli värd och lyssna efter anslutningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <319> - English]
+"Display host name and IP configuration for this terminal"
+
+[Phrase <319> - Swedish]
+"Visa värdnamn och IP-konfiguration för denna dator"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <320> - English]
+"Connect with these settings"
+
+[Phrase <320> - Swedish]
+"Anslut med dessa inställningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <321> - English]
+"Hide the network setup dialog box without disconnecting"
+
+[Phrase <321> - Swedish]
+"Dölj nätverksanslutningsdialogrutan utan att koppla från"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <322> - English]
+"Lists connected terminals, TCP errors, etc..."
+
+[Phrase <322> - Swedish]
+"Listar anslutna datorer, TCP-fel etc..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <323> - English]
+"Delete the selected war"
+
+[Phrase <323> - Swedish]
+"Ta bort det markerade kriget"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <324> - English]
+"Open this war the next time MissionRisk starts"
+
+[Phrase <324> - Swedish]
+"Öppna detta krig nästa gång MissionRisk startas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <325> - English]
+"Lock war to prevent accidental deletion"
+
+[Phrase <325> - Swedish]
+"Lås krig för att förhindra oavsiktlig borttagning"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <326> - English]
+"Credits"
+
+[Phrase <326> - Swedish]
+"Tack"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <327> - English]
+"Message"
+
+[Phrase <327> - Swedish]
+"Meddelande"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <328> - English]
+"Recipient Player(s)"
+
+[Phrase <328> - Swedish]
+"Mottagande spelare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <329> - English]
+"Select recipient(s) of private messages"
+
+[Phrase <329> - Swedish]
+"Välj mottagare för privata meddelanden"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <330> - English]
+"Public"
+
+[Phrase <330> - Swedish]
+"Öppet"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <331> - English]
+"Send message to all terminals"
+
+[Phrase <331> - Swedish]
+"Skicka meddelande till alla datorer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <332> - English]
+"Private"
+
+[Phrase <332> - Swedish]
+"Privat"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <333> - English]
+"Send message to terminals controlling selected army(s)"
+
+[Phrase <333> - Swedish]
+"Skicka meddelande till datorerna som kontrollerar vald(a) armé(er)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <334> - English]
+"&Hide"
+
+[Phrase <334> - Swedish]
+"Dölj"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <335> - English]
+"Type your message and press enter to send"
+
+[Phrase <335> - Swedish]
+"Skriv ditt meddelande och tryck på enter för att skicka"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <336> - English]
+"Close"
+
+[Phrase <336> - Swedish]
+"Stäng"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <337> - English]
+"MissionRisk Editor"
+
+[Phrase <337> - Swedish] ***
+"MissionRisks editor"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <338> - English]
+"Occupying army"
+
+[Phrase <338> - Swedish]
+"Ockuperande armé"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <339> - English]
+"Units"
+
+[Phrase <339> - Swedish]
+"Enheter"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <340> - English]
+"OK"
+
+[Phrase <340> - Swedish]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <341> - English]
+"Register Now"
+
+[Phrase <341> - Swedish]
+"Registrera Nu"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <342> - English]
+"Enter Code"
+
+[Phrase <342> - Swedish]
+"Skriv in koden"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <343> - English]
+"Register Later"
+
+[Phrase <343> - Swedish]
+"Registrera senare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <344> - English]
+"Active soon"
+
+[Phrase <344> - Swedish]
+"Snart tillgänglig"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <345> - English]
+"War Statistics"
+
+[Phrase <345> - Swedish]
+"Krigsstatistik"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <346> - English]
+"Not involved"
+
+[Phrase <346> - Swedish]
+"Inte inblandad"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <347> - English]
+"&End of war stats"
+
+[Phrase <347> - Swedish]
+"Krigsslutsstatistik"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <348> - English]
+"Countries conquered:"
+
+[Phrase <348> - Swedish]
+"Erövrade länder:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <349> - English]
+"Countries surrendered:"
+
+[Phrase <349> - Swedish]
+"Förlorade länder:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <350> - English]
+"Enemy casualties:"
+
+[Phrase <350> - Swedish]
+"Fiendeförluster:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <351> - English]
+"Your casualties:"
+
+[Phrase <351> - Swedish]
+"Dina förluster:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <352> - English]
+"IP Information"
+
+[Phrase <352> - Swedish]
+"IP-information"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <353> - English]
+"CHEAT!"
+
+[Phrase <353> - Swedish]
+"FUSK!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <354> - English]
+"Score: "
+
+[Phrase <354> - Swedish]
+"Poäng: "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <355> - English]
+"TOP SECRET"
+
+[Phrase <355> - Swedish]
+"HEMLIGT"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <356> - English]
+"Your mission briefing is enclosed in this document."
+
+[Phrase <356> - Swedish]
+"Din uppdragsbeskrivning finns i detta dokument"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <357> - English]
+"Ignore"
+
+[Phrase <357> - Swedish]
+"Ignorera"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <358> - English]
+"Open"
+
+[Phrase <358> - Swedish]
+"Öppna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <359> - English]
+"&View"
+
+[Phrase <359> - Swedish]
+"Visa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <360> - English]
+"&Mission reminder"
+
+[Phrase <360> - Swedish]
+"Uppdragspåminnelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <361> - English]
+"Terminal"
+
+[Phrase <361> - Swedish]
+"Dator"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <362> - English]
+"the Red Army"
+
+[Phrase <362> - Swedish]
+"den Röda Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <363> - English]
+"the Green Army"
+
+[Phrase <363> - Swedish]
+"den Gröna Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <364> - English]
+"the Blue Army"
+
+[Phrase <364> - Swedish]
+"den Blåa Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <365> - English]
+"the Yellow Army"
+
+[Phrase <365> - Swedish]
+"den Gula Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <366> - English]
+"the Purple Army"
+
+[Phrase <366> - Swedish]
+"den Lila Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <367> - English]
+"the Gray Army"
+
+[Phrase <367> - Swedish]
+"den Gråa Armén"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <368> - English]
+"Rolling Dice"
+
+[Phrase <368> - Swedish]
+"Rullande tärningar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <369> - English]
+""
+
+[Phrase <369> - Swedish]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <370> - English]
+""
+
+[Phrase <370> - Swedish]
+""
+
+
+
+Countries:
+Alaska
+Alberta
+Quebec
+Ontario
+Northwest Territory
+Eastern USA
+Western USA
+Central America
+Venezuela*
+Peru
+Argentina
+Brazil
+Greenland
+Iceland
+Great Britain
+Northern Europe
+Western Europe
+Southern Europe
+Scandinavia
+Ukraine
+Egypt
+Northern Africa
+Congo
+East Africa
+South Africa
+Madagascar
+Ural
+Siberia
+Irkutsk
+Yakutsk
+Kamchatka
+Japan
+Mongolia
+China
+India
+Siam
+Afghanistan
+Middle East
+Indonesia
+New Guinea
+Eastern Australia
+Western Australia
+
+North America
+South America
+Europe
+Africa
+Asia
+Australia
+
+
+Länder:
+Alaska
+Alberta
+Quebec
+Ontario
+Nordvästra territoriet
+Östra USA
+Västra USA
+Centralamerika
+Venezuela
+Peru
+Argentina
+Brasilien
+Grönland
+Island
+Storbritannien
+Nordeuropa
+Västeuropa
+Sydeuropa
+Skandinavien
+Ukraina
+Egypten
+Nordafrika
+Kongo
+Östafrika
+Sydafrika
+Madagaskar
+Ural
+Sibirien
+Irkutsk
+Yakutsk
+Kamtjatka
+Japan
+Mongoliet
+Kina
+Indien
+Siam
+Afghanistan
+Mellanöstern
+Indonesien
+Nya Guinea
+Östaustralien
+Västaustralien
+
+Nordamerika
+Sydamerika
+Europa
+Afrika
+Asien
+Australien

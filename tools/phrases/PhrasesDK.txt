@@ -1,0 +1,3302 @@
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <0> - English]
+"Player"
+
+[Phrase <0> - Translation]
+"Spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <1> - English]
+"The Red Army "
+
+[Phrase <1> - Translation]
+"Den røde hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <2> - English]
+"The Green Army "
+
+[Phrase <2> - Translation]
+"Den grønne hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+
+[Phrase <3> - English]
+"The Blue Army "
+
+[Phrase <3> - Translation]
+"Den blå hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <4> - English]
+"The Yellow Army "
+
+[Phrase <4> - Translation]
+"Den gule hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <5> - English]
+"The Purple Army "
+
+[Phrase <5> - Translation]
+"Den lilla hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <6> - English]
+"The Gray Army "
+
+[Phrase <6> - Translation]
+"Den grå hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <7> - English]
+"Human player"
+
+[Phrase <7> - Translation]
+"Menneske"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 8: " Italian: Giocatoore computer: intelligenza media -Fra: L'ordinateur: l'intelligence moyenne."
+
+[Phrase <8> - English]
+"Average computer player"
+
+[Phrase <8> - Translation]
+"Computer (normal)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 9: " Italian: Giocatore computer: molto intelligente -Fra: L'ordinateur: la haute intelligence."
+
+[Phrase <9> - English]
+"Smart computer player"
+
+[Phrase <9> - Translation]
+"Computer (smart)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <10> - English]
+"Players"
+
+[Phrase <10> - Translation]
+"Spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <11> - English]
+"First player"
+
+[Phrase <11> - Translation]
+"Første spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <12> - English]
+"Random"
+
+[Phrase <12> - Translation]
+"Tilfældig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <13> - English]
+"Player 1"
+
+[Phrase <13> - Translation]
+"Spiller 1"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <14> - English]
+"Cards"
+
+[Phrase <14> - Translation]
+"Kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <15> - English]
+"Hidden"
+
+[Phrase <15> - Translation]
+"Skjul kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <16> - English]
+"None"
+
+[Phrase <16> - Translation]
+"Ingen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 17: " Fixed cards."
+
+[Phrase <17> - English]
+"Fixed"
+
+[Phrase <17> - Translation]
+"Uændret"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 18: " Maximum value."
+
+[Phrase <18> - English]
+"Maximum"
+
+[Phrase <18> - Translation]
+"Maksimalt"        Remark: "**** IF IT'S TOO LONG USE 'Maks.'"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <19> - English]
+"War options"
+
+[Phrase <19> - Translation]
+"Opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 20: "Available missions."
+
+[Phrase <20> - English]
+"Missions"
+
+[Phrase <20> - Translation]
+"Missioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <21> - English]
+"Limit supply lines"
+
+[Phrase <21> - Translation]
+"Begrænset flytning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <22> - English]
+"Optimise defence dice"
+
+[Phrase <22> - Translation]
+"Optimalt forsvar"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <23> - English]
+"Fast war"
+
+[Phrase <23> - Translation]
+"Hurtig krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <24> - English]
+"Fast Dice"
+
+[Phrase <24> - Translation]
+"Hurtige terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 25: "Frame shows color of player:French:Couleur de joueur des spectacles de frontière"
+
+[Phrase <25> - English]
+"Border shows player's color"
+
+[Phrase <25> - Translation]
+"Kant viser spillers farve"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <26> - English]
+"Declare War"
+
+[Phrase <26> - Translation]
+"Erklær krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <27> - English]
+"Cancel set up"
+
+[Phrase <27> - Translation]
+"Fortryd"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <28> - English]
+"Remote player"
+
+[Phrase <28> - Translation]
+"Netværksspiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <29> - English]
+"Join War"
+
+[Phrase <29> - Translation]
+"Deltag i krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <30> - English]
+"Supply lines"
+
+[Phrase <30> - Translation]
+"Ubegrænset flytning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <31> - English]
+"File"
+
+[Phrase <31> - Translation]
+"Filer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <32> - English]
+"New war..."
+
+[Phrase <32> - Translation]
+"Ny krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <33> - English]
+"Exit"
+
+[Phrase <33> - Translation]
+"Afslut"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 34: "Initialize MissionRisk."
+
+[Phrase <34> - English]
+"MissionRisk Set Up... "
+
+[Phrase <34> - Translation]
+"MissionRisk opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 35: "Spanish:Misión Riesgo -"
+
+[Phrase <35> - English]
+"MissionRisk - "
+
+[Phrase <35> - Translation]
+"MissionRisk -"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 36: "French:Computer: Intelligent"
+
+[Phrase <36> - English]
+"Intelligent computer player"
+
+[Phrase <36> - Translation]
+"Intelligent computer spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <37> - English]
+"No file name has been specified"
+
+[Phrase <37> - Translation]
+"Uspecificeret filnavn"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <38> - English]
+"Options"
+
+[Phrase <38> - Translation]
+"Funktioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <39> - English]
+"Fast war"
+
+[Phrase <39> - Translation]
+"Hurtig krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <40> - English]
+"Fast dice"
+
+[Phrase <40> - Translation]
+"Hurtige terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <41> - English]
+"Border shows player's color"
+
+[Phrase <41> - Translation]
+"Kant viser spillers farve"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <42> - English]
+"3D display"
+
+[Phrase <42> - Translation]
+"3D display"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 43: "Scroll automatically."
+
+[Phrase <43> - English]
+"Auto scroll"
+
+[Phrase <43> - Translation]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 44: "The file has been deleted or corrupted."
+
+[Phrase <44> - English]
+" has been deleted or corrupted"
+
+[Phrase <44> - Translation]
+" er blevet slettet eller virker ikke."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <45> - English]
+"Missing file"
+
+[Phrase <45> - Translation]
+"Manglende fil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <46> - English]
+"Missions"
+
+[Phrase <46> - Translation]
+"Missioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <47> - English]
+"See mission"
+
+[Phrase <47> - Translation]
+"Se mission"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 48: "File has been corrupted and cannot be opened."
+
+[Phrase <48> - English]
+" has been corrupted and cannot be opened."
+
+[Phrase <48> - Translation]
+" virker ikke og kan ikke åbnes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <49> - English]
+"Help"
+
+[Phrase <49> - Translation]
+"Hjælp"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <50> - English]
+"Contents..."
+
+[Phrase <50> - Translation]
+"Indhold..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <51> - English]
+"Index..."
+
+[Phrase <51> - Translation]
+"Indeks..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <52> - English]
+"MissionRisk home page..."
+
+[Phrase <52> - Translation]
+"MissionRisk hjemmeside..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <53> - English]
+"MissionRisk registration"
+
+[Phrase <53> - Translation]
+"MissionRisk registrering"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <54> - English]
+"Register MissionRisk online..."
+
+[Phrase <54> - Translation]
+"Registrer MissionRisk online..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <55> - English]
+"Enter registration code..."
+
+[Phrase <55> - Translation]
+"Indtast registreringskode..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <56> - English]
+"File error"
+
+[Phrase <56> - Translation]
+"Der opstod en fejl ved læsning af en fil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <57> - English]
+"There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk."
+
+[Phrase <57> - Translation]
+"Der opstod en fejl ved læsning af filen 'Risk44INI.dat'. Den mangler, eller også er der en fejl i den. Installer spillet igen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 58: " Transfer units"
+
+[Phrase <58> - English]
+" Transfer"
+
+[Phrase <58> - Translation]
+" Overfør"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <59> - English]
+"Attack"
+
+[Phrase <59> - Translation]
+"Angrib"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <60> - English]
+"Move"
+
+[Phrase <60> - Translation]
+"Flyt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <61> - English]
+"Pass"
+
+[Phrase <61> - Translation]
+"Færdig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <62> - English]
+"Exchange"
+
+[Phrase <62> - Translation]
+"Byt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <63> - English]
+"Cancel"
+
+[Phrase <63> - Translation]
+"Fortryd"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 64: "X attacks Y."
+
+[Phrase <64> - English]
+"attacks"
+
+[Phrase <64> - Translation]
+"angriber"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <65> - English]
+"<Click defending country>"
+
+[Phrase <65> - Translation]
+"<Vælg modstander>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 66: "X has WON THE GAME!"
+
+[Phrase <66> - English]
+"has WON THE GAME!"
+
+[Phrase <66> - Translation]
+"har VUNDET!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 67: "By occupying and holding X."
+
+[Phrase <67> - English]
+"By occupying and holding"
+
+[Phrase <67> - Translation]
+"Ved at besætte og holde"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 68: "By occupying and holding 24 countries."
+
+[Phrase <68> - English]
+"24 countries."
+
+[Phrase <68> - Translation]
+"24 lande."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 69: "By wiping out X."
+
+[Phrase <69> - English]
+"By wiping out "
+
+[Phrase <69> - Translation]
+"Ved at udrydde "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 70: "You have X units to place."
+
+[Phrase <70> - English]
+"You have "
+
+[Phrase <70> - Translation]
+"Du skal placere "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <71> - English]
+" units to place."
+
+[Phrase <71> - Translation]
+" arméer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <72> - English]
+"<Click destination country>"
+
+[Phrase <72> - Translation]
+"<Vælg destination>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 73: "X moves to Y."
+
+[Phrase <73> - English]
+"moves "
+
+[Phrase <73> - Translation]
+"flytter "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <74> - English]
+"to "
+
+[Phrase <74> - Translation]
+"til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <75> - English]
+"You must wipe out all other players and conquer the world."
+
+[Phrase <75> - Translation]
+"Du skal udrydde alle andre spillere og erobre verden."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 76: "Your mission is to wipe out X."
+
+[Phrase <76> - English]
+"Your mission is to wipe out "
+
+[Phrase <76> - Translation]
+"Du skal udrydde "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <77> - English]
+"You must conquer Asia and South America and hold them until your next turn."
+
+[Phrase <77> - Translation]
+"Du skal erobre Asien og Sydamerika, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <78> - English]
+"You must conquer Asia and Afrika and hold them until your next turn."
+
+[Phrase <78> - Translation]
+"Du skal erobre Asien og Afrika, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <79> - English]
+"You must conquer North America and Africa and hold them until your next turn."
+
+[Phrase <79> - Translation]
+"Du skal erobre Nordamerika og Afrika, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <80> - English]
+"You must conquer North America and Australia and hold them until your next turn."
+
+[Phrase <80> - Translation]
+"Du skal erobre Nordamerika og Australien, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <81> - English]
+"You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <81> - Translation]
+"Du skal erobre Europa, Sydamerika og et 3. kontinent efter eget valg, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <82> - English]
+"You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <82> - Translation]
+"Du skal erobre Europa, Australien og et 3. kontinent efter eget valg, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <83> - English]
+"You must occupy any 24 countries and hold them until your next turn."
+
+[Phrase <83> - Translation]
+"Du skal erobre 24 lande lande, og holde dem en runde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <84> - English]
+"Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?"
+
+[Phrase <84> - Translation]
+"Din computer skal være sat til ægte farver. Vil du stadig skifte til 3D display?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <85> - English]
+"Warning"
+
+[Phrase <85> - Translation]
+"Advarsel"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <86> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another <Var.Eval>  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <86> - Translation]
+"Tak fordi du vil prøve MissionRisk v<Var.Maj>.<Var.Min>. Jeg håber at du vil nyde det.
+
+Husk at registrere spillet, hvis du kan lide det.
+
+En ældre version af MissionRisk er blevet fundet.
+
+Du får hermed en ny <Var.Eval> dages periode til at prøve spillet, som starter nu.
+
+Vil du se MissionRisk hjælp?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <87> - English]
+"Welcome to MissionRisk v<Var.Maj>.<Var.Min>"
+
+[Phrase <87> - Translation]
+"Velkommen til MissionRisk v<Var.Maj>.<Var.Min>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <88> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in <Var.Eval> days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <88> - Translation]
+"Tak fordi du vil prøve MissionRisk v<Var.Maj>.<Var.Min>. Jeg håber at du vil nyde det.
+
+Husk at registrere spillet, hvis du kan lide det. Din periode udløber om <Var.Eval> dage.
+
+Du vil stadig kunne spille risk efter denne periode, men du vil bryde loven hvis du gør!
+
+Vil du se MissionRisk hjælp?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <89> - English]
+"Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details."
+
+[Phrase <89> - Translation]
+"Din computer er ikke sat til ægte farver, hvilket betyder at MissionRisk ikke kan spilles i 3D.
+
+Hvis du vil spille spillet i 3D, skal du skifte indstillinger for din skærm i kontrolpanelet. Se hjælp for mere information."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <90> - English]
+"The system date has been altered."
+
+[Phrase <90> - Translation]
+"Computerens dato er blevet ændret."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <91> - English]
+"MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM."
+
+[Phrase <91> - Translation]
+"MissionRisk er stadig ikke registreret!
+
+VÆR VENLIG AT REGISTRERE PROGRAMMET NU."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <92> - English]
+"Registration has expired."
+
+[Phrase <92> - Translation]
+"Din registrering er udløbet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <93> - English]
+"The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <93> - Translation]
+"Evalueringsperioden på <Var.Evar> dage er udløbet. Flere funktioner i MissionRisk vil snart blive deaktiveret.
+
+Hvis du stadig vil benytte MissionRisk legalt og med fuld funktionalitet skal du registrere det. Det koster kun 12$. Din registrering vil hjælpe med til at sikre en videre udvikling af spillet.
+Du kan finde mere information under hjælp.
+
+Du kan registrere online med dit visa kort, eller via check. Vil du registrere nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <94> - English]
+"Notice"
+
+[Phrase <94> - Translation]
+"Bemærk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <95> - English]
+"The <Var.Eval> day evaluation period has lapsed."
+
+[Phrase <95> - Translation]
+"Evalueringsperioden på <Var.Eval> dage er udløbet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <96> - English]
+"Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <96> - Translation]
+"Flere funktioner i MissionRisk er blevet deaktiveret.
+
+Hvis du stadig vil benytte MissionRisk legalt og med fuld funktionalitet skal du registrere det. Det koster kun 12$. Din registrering vil hjælpe med til at sikre en videre udvikling af spillet.
+Du kan finde mere information under hjælp.
+
+Du kan registrere online med dit visa kort, eller via check. Vil du registrere nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 97: "28days ago. French: il y a 28 jours."
+
+[Phrase <97> - English]
+" days ago."
+
+[Phrase <97> - Translation]
+" dage siden."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <98> - English]
+"PLEASE REGISTER"
+
+[Phrase <98> - Translation]
+"VÆR VENLIG AT REGISTRER"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 99: "Terminate the program?"
+
+[Phrase <99> - English]
+"Do you really want to QUIT?"
+
+[Phrase <99> - Translation]
+"Vil du virkelig afslutte?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <100> - English]
+"By dominating the world."
+
+[Phrase <100> - Translation]
+" Ved at erobre verden."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 101: "Attack X with 5 units."
+
+[Phrase <101> - English]
+"with "
+
+[Phrase <101> - Translation]
+"med "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <102> - English]
+" units."
+
+[Phrase <102> - Translation]
+" arméer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 103: "Attack X with 1 unit."
+
+[Phrase <103> - English]
+" unit."
+
+[Phrase <103> - Translation]
+" armé."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <104> - English]
+"<Click attacking country>"
+
+[Phrase <104> - Translation]
+"<Vælg angribende land>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 105: "You have 1 unit to place."
+
+[Phrase <105> - English]
+" unit to place."
+
+[Phrase <105> - Translation]
+" armé der skal placeres."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 106: "X moves to Y."
+
+[Phrase <106> - English]
+"moves to "
+
+[Phrase <106> - Translation]
+"flytter til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 107: "X moves to Y from Z."
+
+[Phrase <107> - English]
+" from"
+
+[Phrase <107> - Translation]
+" fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 108: "Click starting territory. Click initial territory. Click initial country."
+
+[Phrase <108> - English]
+"<Click source country>"
+
+[Phrase <108> - Translation]
+"<Vælg kilde>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 109: "Click attacking countries. Click attacking country. Click attacking territory."
+
+[Phrase <109> - English]
+"<Click attacking country(s)>"
+
+[Phrase <109> - Translation]
+"<Vælg angribende land(e)>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <110> - English]
+"Retreats 0 units from"
+
+[Phrase <110> - Translation]
+"Fjerner 0 arméer fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <111> - English]
+"Retreats"
+
+[Phrase <111> - Translation]
+"Fjerner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 112: "X retreats 5 units from Y."
+
+[Phrase <112> - English]
+" units from"
+
+[Phrase <112> - Translation]
+" arméer fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 113: "X retreats 1 unit from Y."
+
+[Phrase <113> - English]
+" unit from"
+
+[Phrase <113> - Translation]
+" armé fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 114: "X has 5 units left."
+
+[Phrase <114> - English]
+" units left."
+
+[Phrase <114> - Translation]
+" arméer tilbage."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 115: "X has 1 unit left."
+
+[Phrase <115> - English]
+" unit  left."
+
+[Phrase <115> - Translation]
+" armé tilbage."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 116: "X belongs to Y, which has a value of 5 units."
+
+[Phrase <116> - English]
+"Belongs to "
+
+[Phrase <116> - Translation]
+"Tilhører "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <117> - English]
+"which has a value of"
+
+[Phrase <117> - Translation]
+"som har en værdi af"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 118: "Currently occupied by X."
+
+[Phrase <118> - English]
+"Currently occupied by "
+
+[Phrase <118> - Translation]
+"Tilhører i øjeblikket "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <119> - English]
+"SPRUNG!"
+
+[Phrase <119> - Translation]
+"Afsløret! Du kan ikke se andres mission."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <120> - English]
+"Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <120> - Translation]
+"Snyder!
+Du må vente til det bliver din tur før du kan læse din mission."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <121> - English]
+"Stop peeking!"
+
+[Phrase <121> - Translation]
+"Hold nu op med at kigge!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <122> - English]
+"NO! My mission!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <122> - Translation]
+"Slap nu af!
+Du må vente til det bliver din tur før du kan læse din mission."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <123> - English]
+"Conspiracy"
+
+[Phrase <123> - Translation]
+"Sammensværgelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <124> - English]
+"This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is."
+
+[Phrase <124> - Translation]
+"Dette er yderst hemmeligt. Jeg kunne fortælle dig det, men så bliver jeg nød til at slå dig ihjel. Du kunne også vente med at se din mission til det bliver din tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <125> - English]
+"NO!"
+
+[Phrase <125> - Translation]
+"NEJ!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <126> - English]
+"My mission! I finish it! You just wait until your turn and finish your own mission!"
+
+[Phrase <126> - Translation]
+"Det er MIN mission! Vent til det bliver din tur. Så kan du se din EGEN mission"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <127> - English]
+"Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!"
+
+[Phrase <127> - Translation]
+"Dine spioner er blevet opdaget. Vent til det bliver din tur!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <128> - English]
+"You intolerable species"
+
+[Phrase <128> - Translation]
+"Snyder!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 129: "X's turn."
+
+[Phrase <129> - English]
+"'s turn."
+
+[Phrase <129> - Translation]
+"s tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 130: "Controlling cards. Viewing cards. Looking at cards."
+
+[Phrase <130> - English]
+"Checking cards"
+
+[Phrase <130> - Translation]
+"Checker kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 131: "You must trade cards.You must exchange cards."
+
+[Phrase <131> - English]
+"     YOU MUST
+  TRADE CARDS"
+
+[Phrase <131> - Translation]
+"DU SKAL
+BYTTE KORT"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 132: "Swap cards for 5 units?"
+
+[Phrase <132> - English]
+"Trade cards in for"
+
+[Phrase <132> - Translation]
+"Vil du bytte disse kort til"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <133> - English]
+" units?"
+
+[Phrase <133> - Translation]
+" arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <134> - English]
+"  Re-shuffling cards."
+
+[Phrase <134> - Translation]
+" Blander kort."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <135> - English]
+"Used risk cards are being collected, re-shuffled and put back in the pack."
+
+[Phrase <135> - Translation]
+"Brugte kort samles ind og blandes igen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 136: "Don't show this message any more."
+
+[Phrase <136> - English]
+"Don't show any more."
+
+[Phrase <136> - Translation]
+"Vis ikke igen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <137> - English]
+"You need more players than that."
+
+[Phrase <137> - Translation]
+"Der skal være flere spillere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <138> - English]
+"There are still some countries left."
+
+[Phrase <138> - Translation]
+"Der er stadig lande tilbage."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <139> - English]
+"Setting up the board..."
+
+[Phrase <139> - Translation]
+"Fordeler lande..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <140> - English]
+"Name"
+
+[Phrase <140> - Translation]
+"Navn"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <141> - English]
+"Registration code"
+
+[Phrase <141> - Translation]
+"Registreringskode"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 142: "Available scenarios."
+
+[Phrase <142> - English]
+"Available wars"
+
+[Phrase <142> - Translation]
+"Vælg krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <143> - English]
+"Delete"
+
+[Phrase <143> - Translation]
+"Slet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 144: "Open scenario"
+
+[Phrase <144> - English]
+"Open war..."
+
+[Phrase <144> - Translation]
+"Åben krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <145> - English]
+"Make this the default war"
+
+[Phrase <145> - Translation]
+"Gør dette til standard krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <146> - English]
+"Description"
+
+[Phrase <146> - Translation]
+"Beskrivelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 147: "Save scenario as..."
+
+[Phrase <147> - English]
+"Save war as..."
+
+[Phrase <147> - Translation]
+"Gem krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 148: "Title of scenario."
+
+[Phrase <148> - English]
+"Title of war"
+
+[Phrase <148> - Translation]
+"Krigens titel"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <149> - English]
+"Save"
+
+[Phrase <149> - Translation]
+"Gem"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 150: "Player option box for the Red army. Player option box for the Green army."
+
+[Phrase <150> - English]
+"Player option box for the "
+
+[Phrase <150> - Translation]
+"Vælg spiller til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 151: "Number of territories that this army starts with."
+
+[Phrase <151> - English]
+"Number of countries this army starts with"
+
+[Phrase <151> - Translation]
+"Antal lande hver hær starter med"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 152: "Increase starting countries. Decrease starting countries."
+
+[Phrase <152> - English]
+"Increment/decrement starting countries"
+
+[Phrase <152> - Translation]
+"Hæv/sænk antal lande"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <153> - English]
+"Change the number of starting players"
+
+[Phrase <153> - Translation]
+"Antal startende spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <154> - English]
+"How many players are going to war"
+
+[Phrase <154> - Translation]
+"Antal spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <155> - English]
+"Random selection of the first player"
+
+[Phrase <155> - Translation]
+"Tilfældigt valg af første spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <156> - English]
+"Player 1 - the red army is the first player"
+
+[Phrase <156> - Translation]
+"Spiller 1 (den røde hær) starter"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <157> - English]
+"The cards option box"
+
+[Phrase <157> - Translation]
+"Opsætning af kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 158: "Other players cannot see your cards when selected."
+
+[Phrase <158> - English]
+"Other players cannot see your cards when checked"
+
+[Phrase <158> - Translation]
+"Andre spillere kan ikke se dine kort når de bliver checket"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 159: "Cards are not issued when selected."
+
+[Phrase <159> - English]
+"Cards are not issued when checked"
+
+[Phrase <159> - Translation]
+"Kort har ingen værdi"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 160: "Value of cards do not change when selected."
+
+[Phrase <160> - English]
+"Value of cards do not change when checked"
+
+[Phrase <160> - Translation]
+"Korts værdi er fastsat"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <161> - English]
+"Value of cards increases whith every set turned in"
+
+[Phrase <161> - Translation]
+"Stigende værdi"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <162> - English]
+"Sets the maximum card value"
+
+[Phrase <162> - Translation]
+"Den maksimale værdi for kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <163> - English]
+"The war options box"
+
+[Phrase <163> - Translation]
+"Opsætning af krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 164: "All players are issued with secret missions when selected."
+
+[Phrase <164> - English]
+"All players are issued with secret missions when checked"
+
+[Phrase <164> - Translation]
+"Alle spillere får en mission når denne funktion er valgt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 165: "Limit army movements."
+
+[Phrase <165> - English]
+"Limits army movements"
+
+[Phrase <165> - Translation]
+"Begræns mulighederne for at flytte arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <166> - English]
+"Look at the attack dice and decide how many defence dice to throw"
+
+[Phrase <166> - Translation]
+"Beslut om der skal forsvares med en eller to terninger ud fra angrebets terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 167: "The speed of the computer players."
+
+[Phrase <167> - English]
+"Speed of computer players"
+
+[Phrase <167> - Translation]
+"Computers fart"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <168> - English]
+"Speed at which the dice are thrown"
+
+[Phrase <168> - Translation]
+"Terningernes fart"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 169: "Border indicates player's color. This can be annoying!"
+
+[Phrase <169> - English]
+"Border flashes player's color (can be annoying!)"
+
+[Phrase <169> - Translation]
+"Ramme blinker i spillerens farve"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <170> - English]
+"Start new war with these settings"
+
+[Phrase <170> - Translation]
+"Start ny krig med denne opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <171> - English]
+"Exit with the previous settings"
+
+[Phrase <171> - Translation]
+"Afbryd opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <172> - English]
+"Reshuffle notice"
+
+[Phrase <172> - Translation]
+"Gør opmærksom på blanding af kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <173> - English]
+"Select language..."
+
+[Phrase <173> - Translation]
+"Vælg sprog..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 174: "Replay last turn."
+
+[Phrase <174> - English]
+"Start turn again"
+
+[Phrase <174> - Translation]
+"Genstart tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 175: "Reset the scenario."
+
+[Phrase <175> - English]
+"Reset war"
+
+[Phrase <175> - Translation]
+"Genstart krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <176> - English]
+"Capture players’ cards when you wipe out their last unit"
+
+[Phrase <176> - Translation]
+"Overtag modstanders kort når du udrydder ham"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <177> - English]
+"Increasing"
+
+[Phrase <177> - Translation]
+"Stigende"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <178> - English]
+"Capture"
+
+[Phrase <178> - Translation]
+"Overtag kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <179> - English]
+"No supply lines"
+
+[Phrase <179> - Translation]
+"En flytning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 180: "No restrictions are placed on army movements."
+
+[Phrase <180> - English]
+"No restrictions on army movements"
+
+[Phrase <180> - Translation]
+"Ingen restrektioner på flytning af arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 181: "Value of cards:"
+
+[Phrase <181> - English]
+"Current value: "
+
+[Phrase <181> - Translation]
+"Nuværende værdi:"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 182: "This program is registered to X."
+
+[Phrase <182> - English]
+"This program is registered to "
+
+[Phrase <182> - Translation]
+"Dette program er registreret til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 183: "Thank you for registering Missionrisk."
+
+[Phrase <183> - English]
+"Thank you for registering."
+
+[Phrase <183> - Translation]
+"Tak fordi du registrerede MissionRisk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 184: "Transfer ALL units. French: Toutes les"
+
+[Phrase <184> - English]
+"ALL"
+
+[Phrase <184> - Translation]
+"Alle"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <185> - English]
+"Copyright© 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties."
+
+[Phrase <185> - Translation]
+"Copyright© 1998-2000 Craig Douglas.
+Advarsel: Dette computerprogrem er beskyttet af copyright loven og internationale aftaler."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <186> - English]
+"Distribute extra starting units"
+
+[Phrase <186> - Translation]
+"Distribuer ekstra arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <187> - English]
+"Extra starting units are randomly distributed over each players' territories."
+
+[Phrase <187> - Translation]
+"Ekstra arméer distribueres tilfældigt til hver spiller."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <188> - English]
+"Extra units"
+
+[Phrase <188> - Translation]
+"Ekstra arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 189: "X wants to keep going."
+
+[Phrase <189> - English]
+" wants to keep going"
+
+[Phrase <189> - Translation]
+" vil fortsætte"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 190: "X wants to keep the mission a secret!"
+
+[Phrase <190> - English]
+" wants to keep the mission a secret!"
+
+[Phrase <190> - Translation]
+" vil ikke afsløre sin mission!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 191: "Quit this scenario?"
+
+[Phrase <191> - English]
+"Do you really want to quit this war?"
+
+[Phrase <191> - Translation]
+"Vil du virkelig afslutte denne krig?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 192: "Do you relly want to delete X?"
+
+[Phrase <192> - English]
+"Are you sure you want to delete "
+
+[Phrase <192> - Translation]
+"Vil du virkelig slette "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 193: "Are you serious?"
+
+[Phrase <193> - English]
+"Are you sure?"
+
+[Phrase <193> - Translation]
+"Er du sikker?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <194> - English]
+"Open war"
+
+[Phrase <194> - Translation]
+"Åben krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <195> - English]
+"Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?"
+
+[Phrase <195> - Translation]
+"Tak fordi du valgte at registrere MissionRisk.
+
+MissionRisk skal genstartes for
+at afslutte registreringsprocessen.
+Genstart nu?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <196> - English]
+"AI interupt request"
+
+[Phrase <196> - Translation]
+"AI interupt request"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 197: "Version 2.5."
+
+[Phrase <197> - English]
+"Version "
+
+[Phrase <197> - Translation]
+"Version "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 198: "Hi X."
+
+[Phrase <198> - English]
+"Hi "
+
+[Phrase <198> - Translation]
+"Goddag "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 199: "Your previous MissionRisk registration has been found and validated."
+
+[Phrase <199> - English]
+"your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file."
+
+[Phrase <199> - Translation]
+"Din tidligere MissionRisk registrering er blevet fundet.
+
+Hvis du har foreslag til forbedringer eller klager, så send en e-mail. Adressen finder du i hjælp."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <200> - English]
+"Open"
+
+[Phrase <200> - Translation]
+"Åben"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <201> - English]
+"Tool box"
+
+[Phrase <201> - Translation]
+"Værktøjslinje"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <202> - English]
+"New war"
+
+[Phrase <202> - Translation]
+"Ny krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <203> - English]
+"Reset war"
+
+[Phrase <203> - Translation]
+"Genstart krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <204> - English]
+"Open"
+
+[Phrase <204> - Translation]
+"Åben"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <205> - English]
+"Save"
+
+[Phrase <205> - Translation]
+"Gem"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 206: "Fast war. Press + and - to adjust speed."
+
+[Phrase <206> - English]
+"Fast war (press + and - to adjust speed)"
+
+[Phrase <206> - Translation]
+"Hurtig krig (juster farten med + og -)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 207: "Fast dice. Press + and - to adjust speed."
+
+[Phrase <207> - English]
+"Fast dice (press + and - to adjust speed)"
+
+[Phrase <207> - Translation]
+"Hurtige terninger (juster fart med + og -)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <208> - English]
+"Auto scroll"
+
+[Phrase <208> - Translation]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 209: "Replay last turn."
+
+[Phrase <209> - English]
+"Start turn again"
+
+[Phrase <209> - Translation]
+"Genstart tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <210> - English]
+"Help"
+
+[Phrase <210> - Translation]
+"Hjælp"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <211> - English]
+"Please re-enter your MissionRisk registration code."
+
+[Phrase <211> - Translation]
+"Vær venlig at indtaste din registreringskode igen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <212> - English]
+"New version update"
+
+[Phrase <212> - Translation]
+"Ny version"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <213> - English]
+"<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing."
+
+[Phrase <213> - Translation]
+"<Var.EXEName>.exe has been modified.
+Dette betyder at den kan være ramt af virus.
+Slet og geninstaller dette program.
+
+En række fælder er inkluderet i programmet til at fange virus,
+men de kan også blive aktiveret af andre årsager. En eller flere
+af disse fælder er blevet aktiveret. Den eneste måde man kan 
+komme over dette problem er ved at slette ovenstående fil før 
+en geninstallation foretages.
+
+Vær venlig at kontakt udvikleren hvis problemet fortsætter."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <214> - English]
+"
+    > PAUSED <"
+
+[Phrase <214> - Translation]
+"
+    > PAUSE <"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <215> - English]
+"Could not find a browser."
+
+[Phrase <215> - Translation]
+"Kan ikke finde en browser."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <216> - English]
+"Web Page 'http://www.missionrisk.com' not Opened"
+
+[Phrase <216> - Translation]
+"Hjemmeside 'http://www.missionrisk.com' blev ikke åbnet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <217> - English]
+"Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened"
+
+[Phrase <217> - Translation]
+"Hjemmesiden 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' blev ikke åbnet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 218: "A file error has occured. Perhaps X has been corrupted in some way."
+
+[Phrase <218> - English]
+"A file error has occured. Perhaps "
+
+[Phrase <218> - Translation]
+"En fil fejl er forekommet. Filen "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <219> - English]
+" has been corrupted in some way."
+
+[Phrase <219> - Translation]
+" virker ikke."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <220> - English]
+"Error"
+
+[Phrase <220> - Translation]
+"Fejl"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <221> - English]
+"Setup"
+
+[Phrase <221> - Translation]
+"Opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <222> - English]
+"Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted."
+
+[Phrase <222> - Translation]
+"Hukommelsesfejl - der er fejl i en data fil. Den vil nu blive geninstalleret. Genstart spillet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <223> - English]
+"Asia and South America."
+
+[Phrase <223> - Translation]
+"Asien og Sydamerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <224> - English]
+"Asia and Africa."
+
+[Phrase <224> - Translation]
+"Asien og Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <225> - English]
+"North America and Africa."
+
+[Phrase <225> - Translation]
+"Nordamerika og Afrika."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 226: "North America and Australia."
+
+[Phrase <226> - English]
+"North America and 
+Australia."
+
+[Phrase <226> - Translation]
+"Nordamerika og
+Australien."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 227: "Europe, South America and a third continent."
+
+[Phrase <227> - English]
+"Europe, South America 
+and a third continent."
+
+[Phrase <227> - Translation]
+"Europa, Sydamerika
+og et 3. land."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 228: "Europe, Australia and a third continent."
+
+[Phrase <228> - English]
+"Europe, Australia and 
+a third continent."
+
+[Phrase <228> - Translation]
+"Europa, Australien og
+et 3. land."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 229: "The IP information of your work computer not be found."
+
+[Phrase <229> - English]
+"Your terminal's IP information could not be found."
+
+[Phrase <229> - Translation]
+"Din computers IP information kunne ikke findes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 230: "Computer. Work station. Workstation."
+
+[Phrase <230> - English]
+"Terminal "
+
+[Phrase <230> - Translation]
+"Computer "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 231: "Computer 5 has connected."
+
+[Phrase <231> - English]
+" has connected."
+
+[Phrase <231> - Translation]
+" har forbindelse."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <232> - English]
+"An error has occured"
+
+[Phrase <232> - Translation]
+"En fejl har fundet sted"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <233> - English]
+"Each client should have their own unique registration licence."
+
+[Phrase <233> - Translation]
+"Hver klient skal have deres eget unikke registreringsnummer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <234> - English]
+"Please register"
+
+[Phrase <234> - Translation]
+"Registrer dette program"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <235> - English]
+"Host"
+
+[Phrase <235> - Translation]
+"Vært"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <236> - English]
+" >> Your are "
+
+[Phrase <236> - Translation]
+" >> Du er "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 237: "The computer's Host Name is 555."
+
+[Phrase <237> - English]
+"Terminal Host Name is "
+
+[Phrase <237> - Translation]
+"Computerens vært navn er "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <238> - English]
+"Click <IP info...> for more information."
+
+[Phrase <238> - Translation]
+"Klik <IP info...> for mere information."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <239> - English]
+"Do you want to close all connections?"
+
+[Phrase <239> - Translation]
+"Vil du lukke for alle forbindelser?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <240> - English]
+"Please enter the name or IP address of the host"
+
+[Phrase <240> - Translation]
+"Skriv navn eller IP adressen på værten"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <241> - English]
+"Missing information"
+
+[Phrase <241> - Translation]
+"Manglende information"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <242> - English]
+"Disconnect"
+
+[Phrase <242> - Translation]
+"Afbryd"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 243: "Connecting to X."
+
+[Phrase <243> - English]
+"Connecting to "
+
+[Phrase <243> - Translation]
+"Etablerer forbindelse til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <244> - English]
+"Please restart this session."
+
+[Phrase <244> - Translation]
+"Genstart denne funktion."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <245> - English]
+"Error... Address violation"
+
+[Phrase <245> - Translation]
+"Fejl... Ugyldig adresse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <246> - English]
+"Connection closed."
+
+[Phrase <246> - Translation]
+"Forbindelse lukket."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <247> - English]
+"All connections closed."
+
+[Phrase <247> - Translation]
+"Alle forbindelser lukket."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <248> - English]
+"Listening for connections."
+
+[Phrase <248> - Translation]
+"Lytter efter forbindelser."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <249> - English]
+"Another aplication could be using this port"
+
+[Phrase <249> - Translation]
+"Et andet program kunne benytte denne port"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <250> - English]
+"Address violation"
+
+[Phrase <250> - Translation]
+"Ugyldig adresse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <251> - English]
+"Listen"
+
+[Phrase <251> - Translation]
+"Åben forbindelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <252> - English]
+"Connect"
+
+[Phrase <252> - Translation]
+"Tilslut"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <253> - English]
+"Connection has been lost."
+
+[Phrase <253> - Translation]
+"Forbindelsen er blevet tabt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 254: "X has disconnected."
+
+[Phrase <254> - English]
+" has disconnected."
+
+[Phrase <254> - Translation]
+" har afbrudt forbindelsen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 255: "The buffer is too full."
+
+[Phrase <255> - English]
+"Buffer overflow error has occured."
+
+[Phrase <255> - Translation]
+"Buffer overflow fejl har indtruffet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <256> - English]
+"Connection established."
+
+[Phrase <256> - Translation]
+"Forbindelse etableret"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 257: "No, Please try again."
+
+[Phrase <257> - English]
+"No, Please try again"
+
+[Phrase <257> - Translation]
+"Nej. Prøv igen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <258> - English]
+"No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)"
+
+[Phrase <258> - Translation]
+"Nej. Skriv navn og kode præcist som du ser den.
+Dvs. med store bogstaver og mellemrum m.m."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 259: "System information is unavailable at this time."
+
+[Phrase <259> - English]
+"System Information Is Unavailable At This Time"
+
+[Phrase <259> - Translation]
+"Computer information er ikke tilgængelig på nuværende tidspunkt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 260: " Cheat mode has been activated."
+
+[Phrase <260> - English]
+"** Cheat mode activated **"
+
+[Phrase <260> - Translation]
+"** Snyd er aktiveret **"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 261: "An error occured while deleting X."
+
+[Phrase <261> - English]
+"An error occured while deleting "
+
+[Phrase <261> - Translation]
+"Der opstod en fejl under sletning af "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <262> - English]
+"It might be already opened."
+
+[Phrase <262> - Translation]
+"Er måske allerede åbnet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 263: "X already exists."
+
+[Phrase <263> - English]
+" already exists."
+
+[Phrase <263> - Translation]
+" findes allerede."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <264> - English]
+"Overwrite any way?"
+
+[Phrase <264> - Translation]
+"Overskriv?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <265> - English]
+"Save as..."
+
+[Phrase <265> - Translation]
+"Gem som..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 266: "X cannot be modified or deleted."
+
+[Phrase <266> - English]
+" cannot be modified or deleted."
+
+[Phrase <266> - Translation]
+" kan ikke overskrives eller slettes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <267> - English]
+"Advanced..."
+
+[Phrase <267> - Translation]
+"Avanceret..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <268> - English]
+"Network setup..."
+
+[Phrase <268> - Translation]
+"Netværk opsætning..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 269: "Compose a message."
+
+[Phrase <269> - English]
+"Compose message..."
+
+[Phrase <269> - Translation]
+"Skriv besked..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 270: "The map of continents."
+
+[Phrase <270> - English]
+"Continent map"
+
+[Phrase <270> - Translation]
+"Kontinent kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 271: "Information"
+
+[Phrase <271> - English]
+"About"
+
+[Phrase <271> - Translation]
+"Om MissionRisk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 272: "Change the number of players."
+
+[Phrase <272> - English]
+"Change the number of starting players."
+
+[Phrase <272> - Translation]
+"Skift antal startende spillere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <273> - English]
+"Advanced options..."
+
+[Phrase <273> - Translation]
+"Avanceret opsætning..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <274> - English]
+"Advanced war options"
+
+[Phrase <274> - Translation]
+"Avanceret krigsopsætning..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <275> - English]
+"Mission Options"
+
+[Phrase <275> - Translation]
+"Mission opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <276> - English]
+"Graphics Options"
+
+[Phrase <276> - Translation]
+"Grafik opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <277> - English]
+"Include army wipe out missions."
+
+[Phrase <277> - Translation]
+"Inkluder 'udryd hær' missioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <278> - English]
+"Include conquer and hold missions."
+
+[Phrase <278> - Translation]
+"Inkluder 'erobre og hold' missioner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 279: "You must complete your own mission to win."
+
+[Phrase <279> - English]
+"Must complete own mission to win."
+
+[Phrase <279> - Translation]
+"Skal selv afslutte mission."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 280: "You win immediately upon completing your mission."
+
+[Phrase <280> - English]
+"Win immediately upon completing mission."
+
+[Phrase <280> - Translation]
+"Vind straks."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 281: "Change the saturation of green."
+
+[Phrase <281> - English]
+"Change green saturation."
+
+[Phrase <281> - Translation]
+"Skift grøn farve."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 282: "Change the saturation of yellow."
+
+[Phrase <282> - English]
+"Change yellow saturation."
+
+[Phrase <282> - Translation]
+"Skift gul farve."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 283: "Change the luminosity of gray."
+
+[Phrase <283> - English]
+"Change gray luminosity."
+
+[Phrase <283> - Translation]
+"Skift grå farve"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <284> - English]
+"Large font size."
+
+[Phrase <284> - Translation]
+"Fed skrifttype."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 285: "An option to include a secret mission, where the object is to kill another player."
+
+[Phrase <285> - English]
+"Include missions where you have to wipe out the last unit of another player"
+
+[Phrase <285> - Translation]
+"Inkluder missioner hvor man skal udrydde en anden hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 286: "An option to include a secret mission, where the object is to capture certain continents and hold them until it is your next turn."
+
+[Phrase <286> - English]
+"Include missions where you have to conquer territories and hold them until your next turn"
+
+[Phrase <286> - Translation]
+"Inkluder missioner hvor man skal erobre kontinenter og holde dem en tur"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <287> - English]
+"You do not win when an opponent wipes out your target army for you."
+
+[Phrase <287> - Translation]
+"Du vinder ikke, når en anden hær udrydder den hær du skal udrydde."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <288> - English]
+"After wiping out a target army, you must wait until your next turn to win when unchecked."
+
+[Phrase <288> - Translation]
+"Man skal ikke vente en runde efter udsletning af anden hær."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <289> - English]
+"Lighten or darken the color of the Green Army."
+
+[Phrase <289> - Translation]
+"Gør den grønne farve lysere eller mørkere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <290> - English]
+"Lighten or darken the color of the Yellow Army."
+
+[Phrase <290> - Translation]
+"Gør den gule farve lysere eller mørkere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <291> - English]
+"Lighten or darken the color of the Gray Army."
+
+[Phrase <291> - Translation]
+"Gør den grå farve lysere eller mørkere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <292> - English]
+"Change the font size used to print country scores."
+
+[Phrase <292> - Translation]
+"Gør skrifttypen, som viser antal arméer, fed."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <293> - English]
+"MissionRisk network setup"
+
+[Phrase <293> - Translation]
+"MissionRisk netværk opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <294> - English]
+"Connection options"
+
+[Phrase <294> - Translation]
+"Forbindelse opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <295> - English]
+"Connection type"
+
+[Phrase <295> - Translation]
+"Forbindelse type"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <296> - English]
+"Refresh rate"
+
+[Phrase <296> - Translation]
+"Opdateringshastighed"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <297> - English]
+"Settings"
+
+[Phrase <297> - Translation]
+"Opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <298> - English]
+"Session history"
+
+[Phrase <298> - Translation]
+"Forbindelsens historie"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 299: "Name or IP address of host."
+
+[Phrase <299> - English]
+"Name or IP address of host"
+
+[Phrase <299> - Translation]
+"Navn eller IP adresse på vært"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 300: "Port number."
+
+[Phrase <300> - English]
+"Port number"
+
+[Phrase <300> - Translation]
+"Port nummer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 301: "Join a war."
+
+[Phrase <301> - English]
+"Join a war"
+
+[Phrase <301> - Translation]
+"Gå i anden krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 302: "Host a war."
+
+[Phrase <302> - English]
+"Host a war"
+
+[Phrase <302> - Translation]
+"Start en krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <303> - English]
+"TCP / IP"
+
+[Phrase <303> - Translation]
+"TCP / IP"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <304> - English]
+"Modem"
+
+[Phrase <304> - Translation]
+"Modem"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <305> - English]
+"Serial"
+
+[Phrase <305> - Translation]
+"Serial"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <306> - English]
+"High"
+
+[Phrase <306> - Translation]
+"Høj"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <307> - English]
+"Medium"
+
+[Phrase <307> - Translation]
+"Mellem"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <308> - English]
+"Low"
+
+[Phrase <308> - Translation]
+"Lav"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <309> - English]
+"IP Info..."
+
+[Phrase <309> - Translation]
+"IP Info..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <310> - English]
+"Connect"
+
+[Phrase <310> - Translation]
+"Åben forbindelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <311> - English]
+"OK"
+
+[Phrase <311> - Translation]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 312: "A network war must have 1 host."
+
+[Phrase <312> - English]
+"Network war must have 1 host"
+
+[Phrase <312> - Translation]
+"Netværk krig skal have en vært"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <313> - English]
+""
+
+[Phrase <313> - Translation]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <314> - English]
+"The frequency at which remote players are updated."
+
+[Phrase <314> - Translation]
+"Hvor ofte andre spillere skal opdateres."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <315> - English]
+"Enter the name of the host terminal."
+
+[Phrase <315> - Translation]
+"Skriv navnet på værten"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <316> - English]
+"All terminals must use the same port number."
+
+[Phrase <316> - Translation]
+"Alle computere skal bruge det samme port nummer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <317> - English]
+"Connect to a listening host."
+
+[Phrase <317> - Translation]
+"Opret forbindelse til en vært."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <318> - English]
+"Become a host and listen for connections."
+
+[Phrase <318> - Translation]
+"Bliv vært og åben forbindelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <319> - English]
+"Display host name and IP configuration for this terminal."
+
+[Phrase <319> - Translation]
+"Vis vært navn og IP konfiguration for denne computer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <320> - English]
+"Connect with these settings"
+
+[Phrase <320> - Translation]
+"Opret forbindelse med denne opsætning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <321> - English]
+"Hide the network setup dialog box without disconnecting."
+
+[Phrase <321> - Translation]
+"Skjul denne dialog boks uden at lukke forbindelsen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <322> - English]
+"Lists connected terminals, TCP errors, etc..."
+
+[Phrase <322> - Translation]
+"Viser hvilke computere der har fået forbindelse m.m."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <323> - English]
+"Delete the selected war."
+
+[Phrase <323> - Translation]
+"Slet den valgte krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <324> - English]
+"Open this war the next time MissionRisk starts."
+
+[Phrase <324> - Translation]
+"Åben denne krig næste gang MissionRisk starter."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <325> - English]
+"Lock war to prevent accidental deletion."
+
+[Phrase <325> - Translation]
+"Lås denne krig, for at undgå utilsigtet sletning."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <326> - English]
+"Credits"
+
+[Phrase <326> - Translation]
+"Lavet af"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <327> - English]
+"Message"
+
+[Phrase <327> - Translation]
+"Besked"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 328: "Recipient Player. Recipient Players."
+
+[Phrase <328> - English]
+"Recipient Player(s)"
+
+[Phrase <328> - Translation]
+"Modtager(e)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 329: "Select recipient of private messages. Select recipients of private messages."
+
+[Phrase <329> - English]
+"Select recipient(s) of private messages"
+
+[Phrase <329> - Translation]
+"Vælg hvilke spillere der skal modtage beskeden"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <330> - English]
+"Public"
+
+[Phrase <330> - Translation]
+"Til alle"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 331: "Send message to all terminals."
+
+[Phrase <331> - English]
+"Send message to all terminals"
+
+[Phrase <331> - Translation]
+"Skriv besked til alle spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <332> - English]
+"Private"
+
+[Phrase <332> - Translation]
+"Privat"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 333: "Send message to terminals controlling selected army. Send message to terminals controlling selected armies."
+
+[Phrase <333> - English]
+"Send message to terminals controlling selected army(s)"
+
+[Phrase <333> - Translation]
+"Send besked til de valgte hære"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <334> - English]
+"Hide"
+
+[Phrase <334> - Translation]
+"Skjul"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 335: "Type your message and then press enter to send."
+
+[Phrase <335> - English]
+"Type your message and press enter to send"
+
+[Phrase <335> - Translation]
+"Skriv besked og tryp 'enter' for at sende den"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <336> - English]
+"Close"
+
+[Phrase <336> - Translation]
+"Luk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <337> - English]
+"MissionRisk Editor"
+
+[Phrase <337> - Translation]
+"MissionRisk Editor"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <338> - English]
+"Occupying army"
+
+[Phrase <338> - Translation]
+"Indtaget af"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <339> - English]
+"Units"
+
+[Phrase <339> - Translation]
+"arméer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <340> - English]
+"OK"
+
+[Phrase <340> - Translation]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <341> - English]
+"Register Now"
+
+[Phrase <341> - Translation]
+"Registrer nu"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <342> - English]
+"Enter Code"
+
+[Phrase <342> - Translation]
+"Indtast kode"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <343> - English]
+"Register Later"
+
+[Phrase <343> - Translation]
+"Registrer senere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <344> - English]
+"Active soon"
+
+[Phrase <344> - Translation]
+"Snart aktiv"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <345> - English]
+"War Statistics"
+
+[Phrase <345> - Translation]
+"Statestik"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <346> - English]
+"Not involved"
+
+[Phrase <346> - Translation]
+"Ikke involveret"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 347: "End of war statistics."
+
+[Phrase <347> - English]
+"End of war stats"
+
+[Phrase <347> - Translation]
+"Afsluttende statestik"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <348> - English]
+"Countries conquered:"
+
+[Phrase <348> - Translation]
+"Lande erobret"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <349> - English]
+"Countries surrendered:"
+
+[Phrase <349> - Translation]
+"Lande tabt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <350> - English]
+"Enemy casualties:"
+
+[Phrase <350> - Translation]
+"Arméer dræbt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <351> - English]
+"Your casualties:"
+
+[Phrase <351> - Translation]
+"Arméer tabt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <352> - English]
+"IP Information"
+
+[Phrase <352> - Translation]
+"IP information"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 353: " Italian: If it's a command, otherwise if is a warning like I CAUGHT YOU then is HAI BARATO!"
+
+[Phrase <353> - English]
+"CHEAT!"
+
+[Phrase <353> - Translation]
+"SNYD!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <354> - English]
+"Score: "
+
+[Phrase <354> - Translation]
+"Point: "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 355: "Ultra secret."
+
+[Phrase <355> - English]
+"TOP SECRET"
+
+[Phrase <355> - Translation]
+"YDERST HEMMELIGT"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <356> - English]
+"Your mission briefing is enclosed in this document."
+
+[Phrase <356> - Translation]
+"Din mission er inkluderet i dette dokument."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <357> - English]
+"Ignore"
+
+[Phrase <357> - Translation]
+"Ignorer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 358: " Open mission briefing"
+
+[Phrase <358> - English]
+"Open"
+
+[Phrase <358> - Translation]
+"Åben"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <359> - English]
+"View"
+
+[Phrase <359> - Translation]
+"Vis"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <360> - English]
+"Mission reminder"
+
+[Phrase <360> - Translation]
+"Mission reminder"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 361: "A computer when connected to a network: example -I sit at this **terminal** to play MR- The context that it is used in: -Terminal 1 has connected to the network-. Computer."
+
+[Phrase <361> - English]
+"Terminal"
+
+[Phrase <361> - Translation]
+"computer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 362: "The Red Army. The red army."
+
+[Phrase <362> - English]
+"the Red Army"
+
+[Phrase <362> - Translation]
+"den røde hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 363: "The Green Army. The green army."
+
+[Phrase <363> - English]
+"the Green Army"
+
+[Phrase <363> - Translation]
+"den grønne hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <364> - English]
+"the Blue Army"
+
+[Phrase <364> - Translation]
+"den blå hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <365> - English]
+"the Yellow Army"
+
+[Phrase <365> - Translation]
+"den gule hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <366> - English]
+"the Purple Army"
+
+[Phrase <366> - Translation]
+"den lilla hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <367> - English]
+"the Gray Army"
+
+[Phrase <367> - Translation]
+"den grønne hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <368> - English]
+"Rolling Dice"
+
+[Phrase <368> - Translation]
+"Animerede terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 369: "Not actually used directly. IT:"
+
+[Phrase <369> - English]
+"Please select a language."
+
+[Phrase <369> - Translation]
+"Vælg et sprog"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 370: " IT:Suggerimento: Taglio e colla direttamente dalla vostra forma di registro."
+
+[Phrase <370> - English]
+"Hint: Cut and paste directly from your registration form."
+
+[Phrase <370> - Translation]
+"Tip: Kopier og sæt ind fra din registreringsform"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <371> - English]
+"Victory!"
+
+[Phrase <371> - Translation]
+"Sejer!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <372> - English]
+"Alaska"
+
+[Phrase <372> - Translation]
+"Alaska"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <373> - English]
+"Northwest Territory"
+
+[Phrase <373> - Translation]
+"Nordvest teritoriet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <374> - English]
+"Greenland"
+
+[Phrase <374> - Translation]
+"Grønland"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <375> - English]
+"Alberta"
+
+[Phrase <375> - Translation]
+"Alberta"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <376> - English]
+"Ontario"
+
+[Phrase <376> - Translation]
+"Ontario"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <377> - English]
+"Quebec"
+
+[Phrase <377> - Translation]
+"Quebec"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <378> - English]
+"Western United States"
+
+[Phrase <378> - Translation]
+"Vestlige USA"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <379> - English]
+"Eastern United States"
+
+[Phrase <379> - Translation]
+"Østlige USA"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <380> - English]
+"Central America"
+
+[Phrase <380> - Translation]
+"Central Amerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <381> - English]
+"Venezuela"
+
+[Phrase <381> - Translation]
+"Venezuela"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <382> - English]
+"Peru"
+
+[Phrase <382> - Translation]
+"Peru"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <383> - English]
+"Brazil"
+
+[Phrase <383> - Translation]
+"Brasilien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <384> - English]
+"Argentina"
+
+[Phrase <384> - Translation]
+"Argentina"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <385> - English]
+"Iceland"
+
+[Phrase <385> - Translation]
+"Island"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <386> - English]
+"Great Britain"
+
+[Phrase <386> - Translation]
+"Storbritanien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <387> - English]
+"Scandinavia"
+
+[Phrase <387> - Translation]
+"Skandinavien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <388> - English]
+"Northern Europe"
+
+[Phrase <388> - Translation]
+"Nordeuropa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <389> - English]
+"Western Europe"
+
+[Phrase <389> - Translation]
+"Vesteuropa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <390> - English]
+"Southern Europe"
+
+[Phrase <390> - Translation]
+"Sydeuropa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <391> - English]
+"Ukraine"
+
+[Phrase <391> - Translation]
+"Ukraine"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <392> - English]
+"North Africa"
+
+[Phrase <392> - Translation]
+"Nordafrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <393> - English]
+"Egypt"
+
+[Phrase <393> - Translation]
+"Egypten"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <394> - English]
+"East Africa"
+
+[Phrase <394> - Translation]
+"Østafrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <395> - English]
+"Congo"
+
+[Phrase <395> - Translation]
+"Congo"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <396> - English]
+"South Africa"
+
+[Phrase <396> - Translation]
+"Sydafrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <397> - English]
+"Madagascar"
+
+[Phrase <397> - Translation]
+"Madagascar"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <398> - English]
+"Middle East"
+
+[Phrase <398> - Translation]
+"Middeløsten"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <399> - English]
+"Afghanistan"
+
+[Phrase <399> - Translation]
+"Afganistan"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <400> - English]
+"India"
+
+[Phrase <400> - Translation]
+"Indien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <401> - English]
+"Siam"
+
+[Phrase <401> - Translation]
+"Siam"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <402> - English]
+"Siberia"
+
+[Phrase <402> - Translation]
+"Siberien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <403> - English]
+"Ural"
+
+[Phrase <403> - Translation]
+"Ural"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <404> - English]
+"China"
+
+[Phrase <404> - Translation]
+"Kina"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <405> - English]
+"Mongolia"
+
+[Phrase <405> - Translation]
+"Mongoliet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <406> - English]
+"Irkutsk"
+
+[Phrase <406> - Translation]
+"Irkutsk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <407> - English]
+"Yakutsk"
+
+[Phrase <407> - Translation]
+"Yakutsk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <408> - English]
+"Japan"
+
+[Phrase <408> - Translation]
+"Japan"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <409> - English]
+"Kamchatka"
+
+[Phrase <409> - Translation]
+"Kamchatka"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <410> - English]
+"Indonesia"
+
+[Phrase <410> - Translation]
+"Indonesien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <411> - English]
+"Western Australia"
+
+[Phrase <411> - Translation]
+"Vestlige Australien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <412> - English]
+"New Guinea"
+
+[Phrase <412> - Translation]
+"Ny Guinea"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <413> - English]
+"Eastern Australia"
+
+[Phrase <413> - Translation]
+"Østlige Australien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <414> - English]
+"North America"
+
+[Phrase <414> - Translation]
+"Nordamerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <415> - English]
+"South America"
+
+[Phrase <415> - Translation]
+"Sydamerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <416> - English]
+"Europe"
+
+[Phrase <416> - Translation]
+"Europa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <417> - English]
+"Africa"
+
+[Phrase <417> - Translation]
+"Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <418> - English]
+"Asia"
+
+[Phrase <418> - Translation]
+"Asien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <419> - English]
+"Australia"
+
+[Phrase <419> - Translation]
+"Australien"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <420> - English]
+""
+
+[Phrase <420> - Translation]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <421> - English]
+""
+
+[Phrase <421> - Translation]
+""
+

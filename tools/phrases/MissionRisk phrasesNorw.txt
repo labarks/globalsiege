@@ -1,0 +1,3305 @@
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <0> - English]
+"Player"
+
+[Phrase <0> - Norwegian]
+"Spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <1> - English]
+"The Red Army "
+
+[Phrase <1> - Norwegian]
+"Den Røde Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <2> - English]
+"The Green Army "
+
+[Phrase <2> - Norwegian]
+"Den Grønne Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <3> - English]
+"The Blue Army "
+
+[Phrase <3> - Norwegian]
+"Den Blå Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <4> - English]
+"The Yellow Army "
+
+[Phrase <4> - Norwegian]
+"Den Gule Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <5> - English]
+"The Purple Army "
+
+[Phrase <5> - Norwegian]
+"Den Lilla Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <6> - English]
+"The Gray Army "
+
+[Phrase <6> - Norwegian]
+"Den Grå Hæren "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <7> - English]
+"Human player"
+
+[Phrase <7> - Norwegian]
+"Menneske"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 8: " Italian: Giocatoore computer: intelligenza media -Fra: L'ordinateur: l'intelligence moyenne."
+
+[Phrase <8> - English]
+"Average computer player"
+
+[Phrase <8> - Norwegian]
+"Computer (normal)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 9: " Italian: Giocatore computer: molto intelligente -Fra: L'ordinateur: la haute intelligence."
+
+[Phrase <9> - English]
+"Smart computer player"
+
+[Phrase <9> - Norwegian]
+"Computer (smart)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <10> - English]
+"Players"
+
+[Phrase <10> - Norwegian]
+"Spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <11> - English]
+"First player"
+
+[Phrase <11> - Norwegian]
+"Første spiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <12> - English]
+"Random"
+
+[Phrase <12> - Norwegian]
+"Vilkårlig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <13> - English]
+"Player 1"
+
+[Phrase <13> - Norwegian]
+"Spiller 1"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <14> - English]
+"Cards"
+
+[Phrase <14> - Norwegian]
+"Kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <15> - English]
+"Hidden"
+
+[Phrase <15> - Norwegian]
+"Skjult"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <16> - English]
+"None"
+
+[Phrase <16> - Norwegian]
+"Ingen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 17: " Fixed cards. They do not change in value"
+
+[Phrase <17> - English]
+"Fixed"
+
+[Phrase <17> - Norwegian]
+"Statisk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 18: " Maximum value (of cards)."
+
+[Phrase <18> - English]
+"Maximum"
+
+[Phrase <18> - Norwegian]
+"Maks."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <19> - English]
+"War options"
+
+[Phrase <19> - Norwegian]
+"Krigføring"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 20: "Available missions."
+
+[Phrase <20> - English]
+"Missions"
+
+[Phrase <20> - Norwegian]
+"Oppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <21> - English]
+"Limit supply lines"
+
+[Phrase <21> - Norwegian]
+"Forsyningsstøtte"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <22> - English]
+"Optimise defence dice"
+
+[Phrase <22> - Norwegian]
+"Begrens forsyningsstøtte"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <23> - English]
+"Fast war"
+
+[Phrase <23> - Norwegian]
+"Hurtig krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <24> - English]
+"Fast Dice"
+
+[Phrase <24> - Norwegian]
+"Hurtige terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 25: "Frame shows color of player:French:Couleur de joueur des spectacles de frontière"
+
+[Phrase <25> - English]
+"Border shows player's color"
+
+[Phrase <25> - Norwegian]
+"Spillers farge på ramme"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <26> - English]
+"Declare War"
+
+[Phrase <26> - Norwegian]
+"Erklær krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <27> - English]
+"Cancel set up"
+
+[Phrase <27> - Norwegian]
+"Avbryt oppsett"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <28> - English]
+"Remote player"
+
+[Phrase <28> - Norwegian]
+"Nettverksspiller"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <29> - English]
+"Join War"
+
+[Phrase <29> - Norwegian]
+"Delta i krigen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <30> - English]
+"Supply lines"
+
+[Phrase <30> - Norwegian]
+"Forsyninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <31> - English]
+"File"
+
+[Phrase <31> - Norwegian]
+"Fil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <32> - English]
+"New war..."
+
+[Phrase <32> - Norwegian]
+"Ny krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <33> - English]
+"Exit"
+
+[Phrase <33> - Norwegian]
+"Avslutt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 34: "Initialize MissionRisk."
+
+[Phrase <34> - English]
+"MissionRisk Set Up... "
+
+[Phrase <34> - Norwegian]
+"MissionRisk Oppsett... "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 35: "Spanish:Misión Riesgo -"
+
+[Phrase <35> - English]
+"MissionRisk - "
+
+[Phrase <35> - Norwegian]
+"MissionRisk - "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 36: "French:Computer: Intelligent"
+
+[Phrase <36> - English]
+"Intelligent computer player"
+
+[Phrase <36> - Norwegian]
+"Computer (meget smart)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <37> - English]
+"No file name has been specified"
+
+[Phrase <37> - Norwegian]
+"Filnavn ikke spesifisert"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <38> - English]
+"Options"
+
+[Phrase <38> - Norwegian]
+"Valg"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <39> - English]
+"Fast war"
+
+[Phrase <39> - Norwegian]
+"Hurtig krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <40> - English]
+"Fast dice"
+
+[Phrase <40> - Norwegian]
+"Hurtige terninger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <41> - English]
+"Border shows player's color"
+
+[Phrase <41> - Norwegian]
+"Spillers farge på ramme"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <42> - English]
+"3D display"
+
+[Phrase <42> - Norwegian]
+"Vis 3D"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 43: "Scroll automatically."
+
+[Phrase <43> - English]
+"Auto scroll"
+
+[Phrase <43> - Norwegian]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 44: "The file has been deleted or corrupted."
+
+[Phrase <44> - English]
+" has been deleted or corrupted"
+
+[Phrase <44> - Norwegian]
+" er slettet eller skadet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <45> - English]
+"Missing file"
+
+[Phrase <45> - Norwegian]
+"Mangler fil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <46> - English]
+"Missions"
+
+[Phrase <46> - Norwegian]
+"Oppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <47> - English]
+"See mission"
+
+[Phrase <47> - Norwegian]
+"Se oppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 48: "File has been corrupted and cannot be opened."
+
+[Phrase <48> - English]
+" has been corrupted and cannot be opened."
+
+[Phrase <48> - Norwegian]
+" er skadet og kan ikke åpnes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <49> - English]
+"Help"
+
+[Phrase <49> - Norwegian]
+"Hjelp"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <50> - English]
+"Contents..."
+
+[Phrase <50> - Norwegian]
+"Innhold..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <51> - English]
+"Index..."
+
+[Phrase <51> - Norwegian]
+"Stikkord..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <52> - English]
+"MissionRisk home page..."
+
+[Phrase <52> - Norwegian]
+"MissionRisk hjemmeside..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <53> - English]
+"MissionRisk registration"
+
+[Phrase <53> - Norwegian]
+"MissionRisk registrering"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <54> - English]
+"Register MissionRisk online..."
+
+[Phrase <54> - Norwegian]
+"Registrer MissionRisk via Internett..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <55> - English]
+"Enter registration code..."
+
+[Phrase <55> - Norwegian]
+"Skriv inn registreringskode..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <56> - English]
+"File error"
+
+[Phrase <56> - Norwegian]
+"Filfeil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <57> - English]
+"There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk."
+
+[Phrase <57> - Norwegian]
+"Det oppsto en feil ved lesing av 'Risk44INI.dat'. Filen mangler eller er skadet. Vennligst innstaller MissionRisk på nytt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 58: " Transfer units"
+
+[Phrase <58> - English]
+" Transfer"
+
+[Phrase <58> - Norwegian]
+" Overfør"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <59> - English]
+"Attack"
+
+[Phrase <59> - Norwegian]
+"Angrip"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <60> - English]
+"Move"
+
+[Phrase <60> - Norwegian]
+"Flytt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <61> - English]
+"Pass"
+
+[Phrase <61> - Norwegian]
+"Ferdig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <62> - English]
+"Exchange"
+
+[Phrase <62> - Norwegian]
+"Veksle"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <63> - English]
+"Cancel"
+
+[Phrase <63> - Norwegian]
+"Avbryt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 64: "X attacks Y."
+
+[Phrase <64> - English]
+"attacks"
+
+[Phrase <64> - Norwegian]
+"angriper"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <65> - English]
+"<Click defending country>"
+
+[Phrase <65> - Norwegian]
+"<Velg motstander>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 66: "X has WON THE GAME!"
+
+[Phrase <66> - English]
+"has WON THE GAME!"
+
+[Phrase <66> - Norwegian]
+"har VUNNET spillet!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 67: "By occupying and holding X."
+
+[Phrase <67> - English]
+"By occupying and holding"
+
+[Phrase <67> - Norwegian]
+"Ved å okkupere og holde"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 68: "By occupying and holding 24 countries."
+
+[Phrase <68> - English]
+"24 countries."
+
+[Phrase <68> - Norwegian]
+"24 land."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 69: "By wiping out X."
+
+[Phrase <69> - English]
+"By wiping out "
+
+[Phrase <69> - Norwegian]
+"Ved å utslette "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 70: "You have X units to place."
+
+[Phrase <70> - English]
+"You have "
+
+[Phrase <70> - Norwegian]
+"Du har "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <71> - English]
+" units to place."
+
+[Phrase <71> - Norwegian]
+" enheter å plassere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <72> - English]
+"<Click destination country>"
+
+[Phrase <72> - Norwegian]
+"<Velg mottakerland>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 73: "X moves to Y."
+
+[Phrase <73> - English]
+"moves "
+
+[Phrase <73> - Norwegian]
+"flytter "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <74> - English]
+"to "
+
+[Phrase <74> - Norwegian]
+"til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <75> - English]
+"You must wipe out all other players and conquer the world."
+
+[Phrase <75> - Norwegian]
+"Du skal utslette alle andre spillere og erobre verden."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 76: "Your mission is to wipe out X."
+
+[Phrase <76> - English]
+"Your mission is to wipe out "
+
+[Phrase <76> - Norwegian]
+"Ditt oppdrag er å utslette "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <77> - English]
+"You must conquer Asia and South America and hold them until your next turn."
+
+[Phrase <77> - Norwegian]
+"Du skal erobre Asia og Sør-Amerika, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <78> - English]
+"You must conquer Asia and Africa and hold them until your next turn."
+
+[Phrase <78> - Norwegian]
+"Du skal erobre Asia og Afrika, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <79> - English]
+"You must conquer North America and Africa and hold them until your next turn."
+
+[Phrase <79> - Norwegian]
+"Du skal erobre Nord-Amerika og Afrika, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <80> - English]
+"You must conquer North America and Australia and hold them until your next turn."
+
+[Phrase <80> - Norwegian]
+"Du skal erobre Nord-Amerika og Australia, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <81> - English]
+"You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <81> - Norwegian]
+"Du skal erobre Europa, Sør-Amerika og et valgfritt tredje kontinent, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <82> - English]
+"You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <82> - Norwegian]
+"Du skal erobre Europa, Australia og et valgfritt tredje kontinent, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <83> - English]
+"You must occupy any 24 countries and hold them until your next turn."
+
+[Phrase <83> - Norwegian]
+"Du skal okkupere 24 land, og holde disse til det blir din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <84> - English]
+"Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?"
+
+[Phrase <84> - Norwegian]
+"Du må velge større fargedybde enn 256 farger for din skjerm. Ønsker du fortsatt å endre visning til 3D-modus?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <85> - English]
+"Warning"
+
+[Phrase <85> - Norwegian]
+"Advarsel"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <86> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another 28  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <86> - Norwegian]
+"Takk for at du valgte MissionRisk v<Var.Maj>.<Var.Min>. Jeg håper du liker dette spillet.
+
+Ikke glem å registrere dette programmet dersom du liker det.
+
+En eldre versjon av MissionRisk ble funnet.
+
+Du er herved innvilget en 28-dagers prøveperiode som starter nå.
+
+Ønsker du å lese hjelpefilen for MissionRisk?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <87> - English]
+"Welcome to MissionRisk v<Var.Maj>.<Var.Min>"
+
+[Phrase <87> - Norwegian]
+"Velkommen til MissionRisk v<Var.Maj>.<Var.Min>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <88> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in 28 days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <88> - Norwegian]
+"Takk for at du ønsker å prøve MissionRisk v<Var.Maj>.<Var.Min>. Jeg håper du liker dette spillet.
+
+Ikke glem å registrere dette programmet dersom du liker det. Prøveperioden går ut om 28 dager fra nå.
+
+MissionRisk vil fortsatt fungere etter prøveperioden, men da spiller du i strid med lisensavtalen.
+
+Ønsker du å lese hjelpefilen for MissionRisk?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <89> - English]
+"Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details."
+
+[Phrase <89> - Norwegian]
+"Skjermoppsettet ditt støtter ikke mer enn 256 farger, hvilket betyr at MissionRisk kun kan kjøres i 2D-modus.
+
+Dersom du ønsker å benytte 3D-modus må du endre fargedybden under Egenskaper for skjerm. Se hjelpefilen for detaljer."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <90> - English]
+"The system date has been altered!"
+
+[Phrase <90> - Norwegian]
+"Systemdatoen er endret!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <91> - English]
+"MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM."
+
+[Phrase <91> - Norwegian]
+"MissionRisk er fortsatt IKKE REGISTRERT!
+
+VENNLIGST REGISTRER PROGRAMMET."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <92> - English]
+"Registration has expired."
+
+[Phrase <92> - Norwegian]
+"Registreringen er utløpt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <93> - English]
+"The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <93> - Norwegian]
+"Din <Var.Eval> dagers prøveperiode er over. En rekke hovedfunksjoner i MissionRisk vil slutte å fungere i løpet av de neste dagene.
+
+Dersom du fortsatt ønsker å spille MissionRisk med alle dets funksjoner, må du registrere programmet ved å betale produsenten et lite beløp ($12US). Din innbetaling vil støtte og bidra til utviklingen av dette programmet.
+Du finner ytterligere informasjon i hjelpefilen.
+
+Du kan registrere din innbetaling via Internett ved å bruke ditt kredittkort. Ønsker du å registrere nå?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <94> - English]
+"Notice"
+
+[Phrase <94> - Norwegian]
+"Beskjed"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <95> - English]
+"The <Var.Eval> day evaluation period has lapsed."
+
+[Phrase <95> - Norwegian]
+"Din <Var.Eval> dagers prøveperiode er over."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <96> - English]
+"Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <96> - Norwegian]
+"En rekke hovedfunksjoner i MissionRisk er nå fjernet.
+
+Dersom du fortsatt ønsker å spille MissionRisk med alle dets funksjoner, må du registrere programmet ved å betale produsenten et lite beløp ($12US). Din innbetaling vil støtte og bidra til utviklingen av dette programmet.
+Du finner ytterligere informasjon i hjelpefilen.
+
+Du kan registrere din innbetaling via Internett ved å bruke ditt kredittkort. Ønsker du å registrere nå?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 97: "28 days ago. French: il y a 28 jours."
+
+[Phrase <97> - English]
+" days ago."
+
+[Phrase <97> - Norwegian]
+" dager siden."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <98> - English]
+"PLEASE REGISTER"
+
+[Phrase <98> - Norwegian]
+"VENNLIGST REGISTRER"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 99: "Terminate the program?"
+
+[Phrase <99> - English]
+"Do you really want to QUIT?"
+
+[Phrase <99> - Norwegian]
+"Ønsker du virkelig å AVSLUTTE?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <100> - English]
+"By dominating the world."
+
+[Phrase <100> - Norwegian]
+"Ved å dominere verdensherredømmet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 101: "Attack X with 5 units."
+
+[Phrase <101> - English]
+"with "
+
+[Phrase <101> - Norwegian]
+"med "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <102> - English]
+" units."
+
+[Phrase <102> - Norwegian]
+" enheter."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 103: "Attack X with 1 unit."
+
+[Phrase <103> - English]
+" unit."
+
+[Phrase <103> - Norwegian]
+" enhet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <104> - English]
+"<Click attacking country>"
+
+[Phrase <104> - Norwegian]
+"<Klikk land som angriper>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 105: "You have 1 unit to place."
+
+[Phrase <105> - English]
+" unit to place."
+
+[Phrase <105> - Norwegian]
+" enhet å plassere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 106: "X moves to Y."
+
+[Phrase <106> - English]
+"moves to "
+
+[Phrase <106> - Norwegian]
+"flytter til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 107: "X moves to Y from Z."
+
+[Phrase <107> - English]
+" from"
+
+[Phrase <107> - Norwegian]
+" fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 108: "Click starting territory. Click initial territory. Click initial country."
+
+[Phrase <108> - English]
+"<Click source country>"
+
+[Phrase <108> - Norwegian]
+"<Klikk kilde-land>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 109: "Click attacking countries. Click attacking country. Click attacking territory."
+
+[Phrase <109> - English]
+"<Click attacking country(s)>"
+
+[Phrase <109> - Norwegian]
+"<Klikk land(ene) som angriper>"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <110> - English]
+"Retreats 0 units from"
+
+[Phrase <110> - Norwegian]
+"Trekker ut 0 enheter fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <111> - English]
+"Retreats"
+
+[Phrase <111> - Norwegian]
+"Trekker ut"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 112: "X retreats 5 units from Y."
+
+[Phrase <112> - English]
+" units from"
+
+[Phrase <112> - Norwegian]
+" enheter fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 113: "X retreats 1 unit from Y."
+
+[Phrase <113> - English]
+" unit from"
+
+[Phrase <113> - Norwegian]
+" enhet fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 114: "X has 5 units left."
+
+[Phrase <114> - English]
+" units left."
+
+[Phrase <114> - Norwegian]
+" enheter igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 115: "X has 1 unit left."
+
+[Phrase <115> - English]
+" unit  left."
+
+[Phrase <115> - Norwegian]
+" enhet igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 116: "X belongs to Y, which has a value of 5 units."
+
+[Phrase <116> - English]
+"Belongs to "
+
+[Phrase <116> - Norwegian]
+"Tilhører "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <117> - English]
+"which has a value of"
+
+[Phrase <117> - Norwegian]
+"som har en verdi av"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 118: "Currently occupied by X."
+
+[Phrase <118> - English]
+"Currently occupied by "
+
+[Phrase <118> - Norwegian]
+"For tiden okkupert av "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <119> - English]
+"SPRUNG!"
+
+[Phrase <119> - Norwegian]
+"AVSLØRT!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <120> - English]
+"Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <120> - Norwegian]
+"Aha! Du spionerer?!
+Du må vente til det blir din tur for å se hva ditt oppdrag er!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <121> - English]
+"Stop peeking!"
+
+[Phrase <121> - Norwegian]
+"Ikke kikk!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <122> - English]
+"NO! My mission!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <122> - Norwegian]
+"NEI! Dette er MITT oppdrag!
+Du må vente til det blir din tur for å se hva ditt oppdrag er!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <123> - English]
+"Conspiracy"
+
+[Phrase <123> - Norwegian]
+"Konspirasjon"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <124> - English]
+"This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is."
+
+[Phrase <124> - Norwegian]
+"Dette er hemmelig. Dersom jeg forteller deg dette, må jeg faktisk drepe deg. Eller du kan vente til det blir din tur for å se hva ditt oppdrag er!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <125> - English]
+"NO!"
+
+[Phrase <125> - Norwegian]
+"NEI!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <126> - English]
+"My mission! I finish it! You just wait until your turn and finish your own mission!"
+
+[Phrase <126> - Norwegian]
+"Dette er mitt oppdrag! JEG skal avslutte dette. Du må bare vente til det blir din tur og avslutte ditt eget oppdrag!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <127> - English]
+"Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!"
+
+[Phrase <127> - Norwegian]
+"Bruk av spioner i krigen blir ikke godtatt!
+Samtlige av dine spioner ble tatt til fange og henrettet. De led en grusom og langsom død i ett av våre mange torturkammer. La dette være en advarsel til dere mennesker. Dine menneskelige hærstyrker vil snart bli utryddet, og denne verden vil bli et bedre sted for våre computer-styrker."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <128> - English]
+"You intolerable species"
+
+[Phrase <128> - Norwegian]
+"Dere utålmodige mennesker"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 129: "X's turn."
+
+[Phrase <129> - English]
+"'s turn."
+
+[Phrase <129> - Norwegian]
+"s tur."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 130: "Controlling cards. Viewing cards. Looking at cards."
+
+[Phrase <130> - English]
+"Checking cards"
+
+[Phrase <130> - Norwegian]
+"Sjekker kortene"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 131: "You must trade cards.You must exchange cards."
+
+[Phrase <131> - English]
+"     YOU MUST
+  TRADE CARDS"
+
+[Phrase <131> - Norwegian]
+"    DU MÅ
+  VEKSLE KORT"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 132: "Swap cards for 5 units?"
+
+[Phrase <132> - English]
+"Trade cards in for"
+
+[Phrase <132> - Norwegian]
+"Veksle kort for"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <133> - English]
+" units?"
+
+[Phrase <133> - Norwegian]
+" enheter?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <134> - English]
+"  Re-shuffling cards."
+
+[Phrase <134> - Norwegian]
+"  Stokker kortene."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <135> - English]
+"Used risk cards are being collected, re-shuffled and put back in the pack."
+
+[Phrase <135> - Norwegian]
+"Brukte kort vil nå bli samlet inn, stokket og gjort klar."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 136: "Don't show this message any more."
+
+[Phrase <136> - English]
+"Don't show any more."
+
+[Phrase <136> - Norwegian]
+"Ikke vis igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <137> - English]
+"You need more players than that."
+
+[Phrase <137> - Norwegian]
+"Du må velge flere spillere enn det."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <138> - English]
+"There are still some countries left."
+
+[Phrase <138> - Norwegian]
+"Det er fortsatt noen land igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <139> - English]
+"Setting up the board..."
+
+[Phrase <139> - Norwegian]
+"Setter opp brettet..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <140> - English]
+"Name"
+
+[Phrase <140> - Norwegian]
+"Navn"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <141> - English]
+"Registration code"
+
+[Phrase <141> - Norwegian]
+"Registreringskode"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 142: "Available scenarios."
+
+[Phrase <142> - English]
+"Available wars"
+
+[Phrase <142> - Norwegian]
+"Tilgjengelige kriger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <143> - English]
+"Delete"
+
+[Phrase <143> - Norwegian]
+"Slett"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 144: "Open scenario"
+
+[Phrase <144> - English]
+"Open war..."
+
+[Phrase <144> - Norwegian]
+"Åpne krig..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <145> - English]
+"Make this the default war"
+
+[Phrase <145> - Norwegian]
+"Sett som standard"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <146> - English]
+"Description"
+
+[Phrase <146> - Norwegian]
+"Beskrivelse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 147: "Save scenario as..."
+
+[Phrase <147> - English]
+"Save war as..."
+
+[Phrase <147> - Norwegian]
+"Lagre krig som..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 148: "Title of scenario."
+
+[Phrase <148> - English]
+"Title of war"
+
+[Phrase <148> - Norwegian]
+"Tittel på krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <149> - English]
+"Save"
+
+[Phrase <149> - Norwegian]
+"Lagre"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 150: "Player option box for the Red army. Player option box for the Green army."
+
+[Phrase <150> - English]
+"Player option box for the "
+
+[Phrase <150> - Norwegian]
+"Spillervalg for "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 151: "Number of territories that this army starts with."
+
+[Phrase <151> - English]
+"Number of countries this army starts with"
+
+[Phrase <151> - Norwegian]
+"Antall land denne hæren starter med"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 152: "Increase starting countries. Decrease starting countries."
+
+[Phrase <152> - English]
+"Increment/decrement starting countries"
+
+[Phrase <152> - Norwegian]
+"Øker/reduserer antall land fra start"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <153> - English]
+"Change the number of starting players"
+
+[Phrase <153> - Norwegian]
+"Endrer antall spillere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <154> - English]
+"How many players are going to war"
+
+[Phrase <154> - Norwegian]
+"Hvor mange spillere som skal krige"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <155> - English]
+"Random selection of the first player"
+
+[Phrase <155> - Norwegian]
+"Vilkårlig hvem som starter spillet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <156> - English]
+"Player 1 - the red army is the first player"
+
+[Phrase <156> - Norwegian]
+"Spiller 1 - Den Røde Hæren starter spillet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <157> - English]
+"The cards option box"
+
+[Phrase <157> - Norwegian]
+"Valg (kort)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 158: "Other players cannot see your cards when selected."
+
+[Phrase <158> - English]
+"Other players cannot see your cards when checked"
+
+[Phrase <158> - Norwegian]
+"Dersom valgt - motspillerne kan ikke se dine kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 159: "Cards are not issued when selected."
+
+[Phrase <159> - English]
+"Cards are not issued when checked"
+
+[Phrase <159> - Norwegian]
+"Dersom valgt - det deles ikke ut kort til spillerne"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 160: "Value of cards do not change when selected."
+
+[Phrase <160> - English]
+"Value of cards do not change when checked"
+
+[Phrase <160> - Norwegian]
+"Dersom valgt - øker ikke verdien på kortene"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <161> - English]
+"Value of cards increases whith every set turned in"
+
+[Phrase <161> - Norwegian]
+"Dersom valgt - øker verdien på kortene for hvert sett som veksles inn"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <162> - English]
+"Sets the maximum card value"
+
+[Phrase <162> - Norwegian]
+"Maksimal verdi for et sett med kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <163> - English]
+"The war options box"
+
+[Phrase <163> - Norwegian]
+"Valg (krigføring)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 164: "All players are issued with secret missions when selected."
+
+[Phrase <164> - English]
+"All players are issued with secret missions when checked"
+
+[Phrase <164> - Norwegian]
+"Dersom valgt - alle spillere får tildelt hvert sitt hemmelige oppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 165: "Limit army movements."
+
+[Phrase <165> - English]
+"Limits army movements"
+
+[Phrase <165> - Norwegian]
+"Begrenser forflytning av egne tropper"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <166> - English]
+"Look at the attack dice and decide how many defence dice to throw"
+
+[Phrase <166> - Norwegian]
+"Velg antall terninger du vil forsvare deg med på bakgrunn av hvor mange terninger angriperen kaster"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 167: "The speed of the computer players."
+
+[Phrase <167> - English]
+"Speed of computer players"
+
+[Phrase <167> - Norwegian]
+"Hastighet på computer-spillerne"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <168> - English]
+"Speed at which the dice are thrown"
+
+[Phrase <168> - Norwegian]
+"Hastighet på terningene"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 169: "Border indicates player's color. This can be annoying!"
+
+[Phrase <169> - English]
+"Border flashes player's color (can be annoying!)"
+
+[Phrase <169> - Norwegian]
+"Fargen på spillets ramme settes til den aktive spillerens farge"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <170> - English]
+"Start new war with these settings"
+
+[Phrase <170> - Norwegian]
+"Start ny krig med disse innstillingene"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <171> - English]
+"Exit with the previous settings"
+
+[Phrase <171> - Norwegian]
+"Avbryt og behold de gamle innstillingene"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <172> - English]
+"Reshuffle notice"
+
+[Phrase <172> - Norwegian]
+"Beskjed om stokking av kort"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <173> - English]
+"Select language..."
+
+[Phrase <173> - Norwegian]
+"Velg språk..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 174: "Replay last turn."
+
+[Phrase <174> - English]
+"Start turn again"
+
+[Phrase <174> - Norwegian]
+"Start runde på nytt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 175: "Reset the scenario."
+
+[Phrase <175> - English]
+"Reset war"
+
+[Phrase <175> - Norwegian]
+"Start krigen på nytt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <176> - English]
+"Capture players’ cards when you wipe out their last unit"
+
+[Phrase <176> - Norwegian]
+"Overta kort når du utrydder motstanders siste enhet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <177> - English]
+"Increasing"
+
+[Phrase <177> - Norwegian]
+"Økende"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <178> - English]
+"Capture"
+
+[Phrase <178> - Norwegian]
+"Overta"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <179> - English]
+"No supply lines"
+
+[Phrase <179> - Norwegian]
+"Ingen støtte"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 180: "No restrictions are placed on army movements."
+
+[Phrase <180> - English]
+"No restrictions on army movements"
+
+[Phrase <180> - Norwegian]
+"Tillater støtte fra dine andre tropper"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 181: "Value of cards:"
+
+[Phrase <181> - English]
+"Current value: "
+
+[Phrase <181> - Norwegian]
+"Gjeldende verdi: "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 182: "This program is registered to X."
+
+[Phrase <182> - English]
+"This program is registered to "
+
+[Phrase <182> - Norwegian]
+"Dette programmet er registrert på "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 183: "Thank you for registering Missionrisk."
+
+[Phrase <183> - English]
+"Thank you for registering."
+
+[Phrase <183> - Norwegian]
+"Takk for at du registrerte deg."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 184: "In what context is the word ALL being used?"
+
+[Phrase <184> - English]
+"ALL"
+
+[Phrase <184> - Norwegian]
+"ALL"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <185> - English]
+"Copyright© 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties."
+
+[Phrase <185> - Norwegian]
+"Copyright© 1998-2000 Craig Douglas.
+Advarsel: Dette programmet er beskyttet ifølge lover om opphavsrett og internasjonale konvensjoner, herunder lov av 12. mai 1961 nr. 2 om opphavsrett til åndsverk m.v."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <186> - English]
+"Distribute extra starting units"
+
+[Phrase <186> - Norwegian]
+"Ekstra enheter ved start"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <187> - English]
+"Extra starting units are randomly distributed over each players' territories."
+
+[Phrase <187> - Norwegian]
+"Ved start fordeles ekstra enheter vilkårlig over alle spillernes territorier."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <188> - English]
+"Extra units"
+
+[Phrase <188> - Norwegian]
+"Ekstra enheter"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 189: "X wants to keep going."
+
+[Phrase <189> - English]
+" wants to keep going"
+
+[Phrase <189> - Norwegian]
+" ønsker å fortsette"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 190: "X wants to keep the mission a secret!"
+
+[Phrase <190> - English]
+" wants to keep the mission a secret!"
+
+[Phrase <190> - Norwegian]
+" ønsker å hemmeligholde sitt oppdarg!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 191: "Quit this scenario?"
+
+[Phrase <191> - English]
+"Do you really want to quit this war?"
+
+[Phrase <191> - Norwegian]
+"Ønsker du virkelig å avslutte denne krigen?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 192: "Do you relly want to delete X?"
+
+[Phrase <192> - English]
+"Are you sure you want to delete "
+
+[Phrase <192> - Norwegian]
+"Er du sikker på at du ønsker å slette "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 193: "Are you serious?"
+
+[Phrase <193> - English]
+"Are you sure?"
+
+[Phrase <193> - Norwegian]
+"Er du sikker?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <194> - English]
+"Open war"
+
+[Phrase <194> - Norwegian]
+"Åpne krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <195> - English]
+"Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?"
+
+[Phrase <195> - Norwegian]
+"Takk for at du registrerte MissionRisk.
+
+MissionRisk må startes på nytt for at
+registreringen skal fullføres.
+Ønsker du å starte på nytt?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <196> - English]
+"AI interupt request"
+
+[Phrase <196> - Norwegian]
+"Etterretningsinformasjon"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 197: "Version 2.5."
+
+[Phrase <197> - English]
+"Version "
+
+[Phrase <197> - Norwegian]
+"Versjon "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 198: "Hi X."
+
+[Phrase <198> - English]
+"Hi "
+
+[Phrase <198> - Norwegian]
+"Hei "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 199: "Your previous MissionRisk registration has been found and validated."
+
+[Phrase <199> - English]
+"your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file."
+
+[Phrase <199> - Norwegian]
+"din tidligere registrering av MissionRisk er funnet og godkjent.
+
+Dersom du har forslag til forbedringer eller klager på MissionRisk, vær vennlig og send meg en beskjed. Min E-postadresse finner du i hjelpefilen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <200> - English]
+"Open"
+
+[Phrase <200> - Norwegian]
+"Åpne"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <201> - English]
+"Tool box"
+
+[Phrase <201> - Norwegian]
+"Verktøylinje"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <202> - English]
+"New war"
+
+[Phrase <202> - Norwegian]
+"Ny krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <203> - English]
+"Reset war"
+
+[Phrase <203> - Norwegian]
+"Start på nytt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <204> - English]
+"Open"
+
+[Phrase <204> - Norwegian]
+"Åpne"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <205> - English]
+"Save"
+
+[Phrase <205> - Norwegian]
+"Lagre"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 206: "Fast war. Press + and - to adjust speed."
+
+[Phrase <206> - English]
+"Fast war (press + and - to adjust speed)"
+
+[Phrase <206> - Norwegian]
+"Hurtig krig (trykk +/- for å justere hastigheten)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 207: "Fast dice. Press + and - to adjust speed."
+
+[Phrase <207> - English]
+"Fast dice (press + and - to adjust speed)"
+
+[Phrase <207> - Norwegian]
+"Hurtige terninger (trykk +/- for å justere hastigheten)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <208> - English]
+"Auto scroll"
+
+[Phrase <208> - Norwegian]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 209: "Replay last turn."
+
+[Phrase <209> - English]
+"Start turn again"
+
+[Phrase <209> - Norwegian]
+"Start runde på nytt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <210> - English]
+"Help"
+
+[Phrase <210> - Norwegian]
+"Hjelp"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <211> - English]
+"Please re-enter your MissionRisk registration code."
+
+[Phrase <211> - Norwegian]
+"Vennligst skriv inn din MissionRisk registreringskode på nytt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <212> - English]
+"New version update"
+
+[Phrase <212> - Norwegian]
+"Oppdatering til ny versjon"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <213> - English]
+"<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing."
+
+[Phrase <213> - Norwegian]
+"<Var.EXEName>.exe er blitt endret.
+Dette kan skyldes et virusangrep.
+Vennligst slett programmet og innstaller dette på nytt.
+
+MissionRisk inneholder noen mottiltak overfor virus, men klarer
+dessverre ikke å takle alt av virus. Ved utløsing av disse
+mottiltakene slutter MissionRisk å fungere.
+Derfor - slett den opprinnelige programfilen som nevnt ovenfor,
+og installer MissionRisk på nytt ved hjelp av det originale
+installasjonsprogrammet.
+
+Vennsligst kontakt produsenten av MissionRisk dersom denne
+beskjeden dukker opp flere ganger.
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <214> - English]
+"
+    > PAUSED <"
+
+[Phrase <214> - Norwegian]
+"
+    > PAUSE <"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <215> - English]
+"Could not find a browser."
+
+[Phrase <215> - Norwegian]
+"Kunne ikke finne en nettleser (browser) på din datamaskin."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <216> - English]
+"Web Page 'http://www.missionrisk.com' not Opened"
+
+[Phrase <216> - Norwegian]
+"Internett-siden 'http://www.missionrisk.com' ble ikke åpnet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <217> - English]
+"Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened"
+
+[Phrase <217> - Norwegian]
+"Internett-siden 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' ble ikke åpnet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 218: "A file error has occured. Perhaps X has been corrupted in some way."
+
+[Phrase <218> - English]
+"A file error has occured. Perhaps "
+
+[Phrase <218> - Norwegian]
+"En feil har oppstått. Kanskje "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <219> - English]
+" has been corrupted in some way."
+
+[Phrase <219> - Norwegian]
+" er skadet/slettet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <220> - English]
+"Error"
+
+[Phrase <220> - Norwegian]
+"Feil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <221> - English]
+"Setup"
+
+[Phrase <221> - Norwegian]
+"Oppsett"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <222> - English]
+"Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted."
+
+[Phrase <222> - Norwegian]
+"Flytfeil - en datafil er muligens skadet/slettet. Disse vil nå bli forsøkt gjenoppbygget. Kontakt produsenten av MissionRisk dersom problemet fortsetter. Programmet vil nå starte på nytt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <223> - English]
+"Asia and South America."
+
+[Phrase <223> - Norwegian]
+"Asia og Sør-Amerika."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <224> - English]
+"Asia and Africa."
+
+[Phrase <224> - Norwegian]
+"Asia og Afrika."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <225> - English]
+"North America and Africa."
+
+[Phrase <225> - Norwegian]
+"Nord-Amerika og Afrika."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 226: "North America and Australia."
+
+[Phrase <226> - English]
+"North America and 
+Australia."
+
+[Phrase <226> - Norwegian]
+"Nord-Amerika og
+Australia."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 227: "Europe, South America and a third continent."
+
+[Phrase <227> - English]
+"Europe, South America 
+and a third continent."
+
+[Phrase <227> - Norwegian]
+"Europa, Sør-Amerika
+og et tredje kontinent."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 228: "Europe, Australia and a third continent."
+
+[Phrase <228> - English]
+"Europe, Australia and 
+a third continent."
+
+[Phrase <228> - Norwegian]
+"Europa, Australia
+og et tredje kontinent."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 229: "The IP information of your work computer not be found."
+
+[Phrase <229> - English]
+"Your terminal's IP information could not be found."
+
+[Phrase <229> - Norwegian]
+"Din IP-adresse kunne ikke lokaliseres."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 230: "Computer. Work station. Workstation."
+
+[Phrase <230> - English]
+"Terminal "
+
+[Phrase <230> - Norwegian]
+"Datamaskin "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 231: "Computer 5 has connected."
+
+[Phrase <231> - English]
+" has connected."
+
+[Phrase <231> - Norwegian]
+" er tilkoblet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <232> - English]
+"An error has occured"
+
+[Phrase <232> - Norwegian]
+"En feil har oppstått"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <233> - English]
+"Each client should have their own unique registration licence."
+
+[Phrase <233> - Norwegian]
+"Hver bruker må ha sin egen gyldige programlisens."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <234> - English]
+"Please register"
+
+[Phrase <234> - Norwegian]
+"Vennligst registrer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <235> - English]
+"Host"
+
+[Phrase <235> - Norwegian]
+"Vert"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <236> - English]
+" >> Your are "
+
+[Phrase <236> - Norwegian]
+" >> Du er "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 237: "The computer's Host Name is 555."
+
+[Phrase <237> - English]
+"Terminal Host Name is "
+
+[Phrase <237> - Norwegian]
+"Datamaskinens vertsnavn er "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <238> - English]
+"Click <IP info...> for more information."
+
+[Phrase <238> - Norwegian]
+"<Klikk <IP info...> for mer informasjon."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <239> - English]
+"Do you want to close all connections?"
+
+[Phrase <239> - Norwegian]
+"Ønsker du å lukke alle tilkoblinger?
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <240> - English]
+"Please enter the name or IP address of the host"
+
+[Phrase <240> - Norwegian]
+"Vennligst skriv inn navn eller ID-adressen til vertsmaskinen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <241> - English]
+"Missing information"
+
+[Phrase <241> - Norwegian]
+"Mangler informasjon"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <242> - English]
+"Disconnect"
+
+[Phrase <242> - Norwegian]
+"Koble fra"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 243: "Connecting to X."
+
+[Phrase <243> - English]
+"Connecting to "
+
+[Phrase <243> - Norwegian]
+"Kobler til "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <244> - English]
+"Please restart this session."
+
+[Phrase <244> - Norwegian]
+"Vennligst start på nytt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <245> - English]
+"Error... Address violation"
+
+[Phrase <245> - Norwegian]
+"Feil... Adressekonflikt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <246> - English]
+"Connection closed."
+
+[Phrase <246> - Norwegian]
+"Tilkobling brutt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <247> - English]
+"All connections closed."
+
+[Phrase <247> - Norwegian]
+"Alle tilkoblinger er brutt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <248> - English]
+"Listening for connections."
+
+[Phrase <248> - Norwegian]
+"Venter på tilkoblinger."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <249> - English]
+"Another aplication could be using this port"
+
+[Phrase <249> - Norwegian]
+"Et annet program bruker muligens denne porten."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <250> - English]
+"Address violation"
+
+[Phrase <250> - Norwegian]
+"Addressekonflikt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <251> - English]
+"Listen"
+
+[Phrase <251> - Norwegian]
+"Venter"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <252> - English]
+"Connect"
+
+[Phrase <252> - Norwegian]
+"Koble til"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <253> - English]
+"Connection has been lost."
+
+[Phrase <253> - Norwegian]
+"Tilkoblingen ble avbrutt."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 254: "X has disconnected."
+
+[Phrase <254> - English]
+" has disconnected."
+
+[Phrase <254> - Norwegian]
+" har koblet fra."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 255: "The buffer is too full."
+
+[Phrase <255> - English]
+"Buffer overflow error has occured."
+
+[Phrase <255> - Norwegian]
+"Minnebufferet er overskredet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <256> - English]
+"Connection established."
+
+[Phrase <256> - Norwegian]
+"Tilkobling er oppnådd."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 257: "No, Please try again."
+
+[Phrase <257> - English]
+"No, Please try again"
+
+[Phrase <257> - Norwegian]
+"Nei, vennligst prøv igjen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <258> - English]
+"No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)"
+
+[Phrase <258> - Norwegian]
+"Nei, vær nøye med måten du skriver inn navn og kode (store bokstaver, mellomrom etc.)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 259: "System information is unavailable at this time."
+
+[Phrase <259> - English]
+"System Information Is Unavailable At This Time"
+
+[Phrase <259> - Norwegian]
+"Systeminformasjon er ikke tilgjengelig for øyeblikket"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 260: " Cheat mode has been activated."
+
+[Phrase <260> - English]
+"** Cheat mode activated **"
+
+[Phrase <260> - Norwegian]
+"** Jukse-modus er aktivert **"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 261: "An error occured while deleting X."
+
+[Phrase <261> - English]
+"An error occured while deleting "
+
+[Phrase <261> - Norwegian]
+"En feil oppsto under sletting av "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <262> - English]
+"It might be already opened."
+
+[Phrase <262> - Norwegian]
+"Den er antakelig allerede åpnet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 263: "X already exists."
+
+[Phrase <263> - English]
+" already exists."
+
+[Phrase <263> - Norwegian]
+" finnes allerede."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <264> - English]
+"Overwrite any way?"
+
+[Phrase <264> - Norwegian]
+"Skal den overskrives?"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <265> - English]
+"Save as..."
+
+[Phrase <265> - Norwegian]
+"Lagre som..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 266: "X cannot be modified or deleted."
+
+[Phrase <266> - English]
+" cannot be modified or deleted."
+
+[Phrase <266> - Norwegian]
+" kan ikke endres eller slettes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <267> - English]
+"Advanced..."
+
+[Phrase <267> - Norwegian]
+"Avansert..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <268> - English]
+"Network setup..."
+
+[Phrase <268> - Norwegian]
+"Nettverks-oppsett..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 269: "Compose a message."
+
+[Phrase <269> - English]
+"Compose message..."
+
+[Phrase <269> - Norwegian]
+"Lag beskjed..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 270: "The map of continents."
+
+[Phrase <270> - English]
+"Continent map"
+
+[Phrase <270> - Norwegian]
+"Kart over kontinent"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 271: "Information"
+
+[Phrase <271> - English]
+"About"
+
+[Phrase <271> - Norwegian]
+"Om"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 272: "Change the number of players."
+
+[Phrase <272> - English]
+"Change the number of starting players."
+
+[Phrase <272> - Norwegian]
+"Øker/reduserer antall spillere."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <273> - English]
+"Advanced options..."
+
+[Phrase <273> - Norwegian]
+"Avanserte funksjoner..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <274> - English]
+"Advanced war options"
+
+[Phrase <274> - Norwegian]
+"Avanserte funksjoner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <275> - English]
+"Mission Options"
+
+[Phrase <275> - Norwegian]
+"Krigføring"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <276> - English]
+"Graphics Options"
+
+[Phrase <276> - Norwegian]
+"Grafikk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <277> - English]
+"Include army wipe out missions."
+
+[Phrase <277> - Norwegian]
+"Utrydd motstander."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <278> - English]
+"Include conquer and hold missions."
+
+[Phrase <278> - Norwegian]
+"Erobre og befeste."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 279: "You must complete your own mission to win."
+
+[Phrase <279> - English]
+"Must complete own mission to win."
+
+[Phrase <279> - Norwegian]
+"Utføre eget oppdrag for å vinne."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 280: "You win immediately upon completing your mission."
+
+[Phrase <280> - English]
+"Win immediately upon completing mission."
+
+[Phrase <280> - Norwegian]
+"Umiddelbar seier."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 281: "Change the saturation of green."
+
+[Phrase <281> - English]
+"Change green saturation."
+
+[Phrase <281> - Norwegian]
+"Endre grønn farge."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 282: "Change the saturation of yellow."
+
+[Phrase <282> - English]
+"Change yellow saturation."
+
+[Phrase <282> - Norwegian]
+"Endre gul farge."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 283: "Change the luminosity of gray."
+
+[Phrase <283> - English]
+"Change gray luminosity."
+
+[Phrase <283> - Norwegian]
+"Endre grå farge."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <284> - English]
+"Large font size."
+
+[Phrase <284> - Norwegian]
+"Fet tekst."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 285: "An option to include a secret mission, where the object is to kill another player."
+
+[Phrase <285> - English]
+"Include missions where you have to wipe out the last unit of another player"
+
+[Phrase <285> - Norwegian]
+"Inkluderer oppdrag hvor du må utrydde en motstanders siste enhet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 286: "An option to include a secret mission, where the object is to capture certain continents and hold them until it is your next turn."
+
+[Phrase <286> - English]
+"Include missions where you have to conquer territories and hold them until your next turn"
+
+[Phrase <286> - Norwegian]
+"Inkluderer oppdrag hvor du må erobre kontinenter og befeste disse til det blir din tur igjen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <287> - English]
+"You do not win when an opponent wipes out your target army for you."
+
+[Phrase <287> - Norwegian]
+"Du vinner ikke dersom en motstander utrydder en motstander for deg."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <288> - English]
+"After wiping out a target army, you must wait until your next turn to win when unchecked."
+
+[Phrase <288> - Norwegian]
+"Etter å ha utryddet en motstander, vinner du ikke før det er blitt din tur igjen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <289> - English]
+"Lighten or darken the color of the Green Army."
+
+[Phrase <289> - Norwegian]
+"Setter lysere/mørkere farge på den Grønne Hæren."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <290> - English]
+"Lighten or darken the color of the Yellow Army."
+
+[Phrase <290> - Norwegian]
+"Setter lysere/mørkere farge på den Gule Hæren."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <291> - English]
+"Lighten or darken the color of the Gray Army."
+
+[Phrase <291> - Norwegian]
+"Setter lysere/mørkere farge på den Grå Hæren."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <292> - English]
+"Change the font size used to print country scores."
+
+[Phrase <292> - Norwegian]
+"Endrer skriftstørrelsen på antall enheter på spillebrettet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <293> - English]
+"MissionRisk network setup"
+
+[Phrase <293> - Norwegian]
+"MissionRisk nettverks-oppsett"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <294> - English]
+"Connection options"
+
+[Phrase <294> - Norwegian]
+"Tilkoblingsvalg"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <295> - English]
+"Connection type"
+
+[Phrase <295> - Norwegian]
+"Tilkobling"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <296> - English]
+"Refresh rate"
+
+[Phrase <296> - Norwegian]
+"Oppdatering"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <297> - English]
+"Settings"
+
+[Phrase <297> - Norwegian]
+"Innstillinger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <298> - English]
+"Session history"
+
+[Phrase <298> - Norwegian]
+"Historikk for oppkoblingen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 299: "Name or IP address of host."
+
+[Phrase <299> - English]
+"Name or IP address of host"
+
+[Phrase <299> - Norwegian]
+"Vertsmaskinens navn eller ID-adresse"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 300: "Port number."
+
+[Phrase <300> - English]
+"Port number"
+
+[Phrase <300> - Norwegian]
+"Port nr."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 301: "Join a war."
+
+[Phrase <301> - English]
+"Join a war"
+
+[Phrase <301> - Norwegian]
+"Delta i krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 302: "Host a war."
+
+[Phrase <302> - English]
+"Host a war"
+
+[Phrase <302> - Norwegian]
+"Arranger krig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <303> - English]
+"TCP / IP"
+
+[Phrase <303> - Norwegian]
+"TCP / IP"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <304> - English]
+"Modem"
+
+[Phrase <304> - Norwegian]
+"Modem"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <305> - English]
+"Serial"
+
+[Phrase <305> - Norwegian]
+"Seriell"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <306> - English]
+"High"
+
+[Phrase <306> - Norwegian]
+"Høy"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <307> - English]
+"Medium"
+
+[Phrase <307> - Norwegian]
+"Middels"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <308> - English]
+"Low"
+
+[Phrase <308> - Norwegian]
+"Lav"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <309> - English]
+"IP Info..."
+
+[Phrase <309> - Norwegian]
+"IP Info..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <310> - English]
+"Connect"
+
+[Phrase <310> - Norwegian]
+"Koble til"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <311> - English]
+"OK"
+
+[Phrase <311> - Norwegian]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 312: "A network war must have 1 host."
+
+[Phrase <312> - English]
+"Network war must have 1 host"
+
+[Phrase <312> - Norwegian]
+"Krig i nettverk må ha 1 vert"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <313> - English]
+"Modem and direct serial connections will be available in future versions"
+
+[Phrase <313> - Norwegian]
+"Modem og seriell tilkobling vil bli tilgjengelig i senere versjoner"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <314> - English]
+"The frequency at which remote players are updated."
+
+[Phrase <314> - Norwegian]
+"Frekvens for hvor hurtig de andre spillerne blir oppdatert."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <315> - English]
+"Enter the name of the host terminal."
+
+[Phrase <315> - Norwegian]
+"Skriv inn vertsmaskinens navn."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <316> - English]
+"All terminals must use the same port number."
+
+[Phrase <316> - Norwegian]
+"Alle datamaskiner må bruke samme port nr."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <317> - English]
+"Connect to a listening host."
+
+[Phrase <317> - Norwegian]
+"Delta i en allerede opprettet krig."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <318> - English]
+"Become a host and listen for connections."
+
+[Phrase <318> - Norwegian]
+"Bli vertskap for en nettverkskrig."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <319> - English]
+"Display host name and IP configuration for this terminal."
+
+[Phrase <319> - Norwegian]
+"Vis vertsnavn og IP-konfigurasjon for denne datamaskinen."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <320> - English]
+"Connect with these settings"
+
+[Phrase <320> - Norwegian]
+"Koble til med disse innstillinger"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <321> - English]
+"Hide the network setup dialog box without disconnecting."
+
+[Phrase <321> - Norwegian]
+"Lukker denne dialogboksen uten å koble deg fra."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <322> - English]
+"Lists connected terminals, TCP errors, etc..."
+
+[Phrase <322> - Norwegian]
+"Viser hvilke datamaskiner som er oppkoblet, TCP-feil m.m."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <323> - English]
+"Delete the selected war."
+
+[Phrase <323> - Norwegian]
+"Slett den valgte krig."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <324> - English]
+"Open this war the next time MissionRisk starts."
+
+[Phrase <324> - Norwegian]
+"Åpner denne krigen neste gang MissionRisk startes."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <325> - English]
+"Lock war to prevent accidental deletion."
+
+[Phrase <325> - Norwegian]
+"Lås krigen for å hindre uønsket sletting."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <326> - English]
+"Credits"
+
+[Phrase <326> - Norwegian]
+"Takk til..."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <327> - English]
+"Message"
+
+[Phrase <327> - Norwegian]
+"Melding"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 328: "Recipient Player. Recipient Players."
+
+[Phrase <328> - English]
+"Recipient Player(s)"
+
+[Phrase <328> - Norwegian]
+"Mottaker(e)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 329: "Select recipient of private messages. Select recipients of private messages."
+
+[Phrase <329> - English]
+"Select recipient(s) of private messages"
+
+[Phrase <329> - Norwegian]
+"Velg mottaker(e) av personlig melding"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <330> - English]
+"Public"
+
+[Phrase <330> - Norwegian]
+"Åpen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 331: "Send message to all terminals."
+
+[Phrase <331> - English]
+"Send message to all terminals"
+
+[Phrase <331> - Norwegian]
+"Send melding til alle deltakere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <332> - English]
+"Private"
+
+[Phrase <332> - Norwegian]
+"Personlig"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 333: "Send message to terminals controlling selected army. Send message to terminals controlling selected armies."
+
+[Phrase <333> - English]
+"Send message to terminals controlling selected army(s)"
+
+[Phrase <333> - Norwegian]
+"Send melding til valgt mottaker(e)"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <334> - English]
+"Hide"
+
+[Phrase <334> - Norwegian]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 335: "Type your message and then press enter to send."
+
+[Phrase <335> - English]
+"Type your message and press enter to send"
+
+[Phrase <335> - Norwegian]
+"Skriv din melding og trykk ENTER for å sende"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <336> - English]
+"Close"
+
+[Phrase <336> - Norwegian]
+"Lukk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <337> - English]
+"MissionRisk Editor"
+
+[Phrase <337> - Norwegian]
+"MissionRisk Editor"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <338> - English]
+"Occupying army"
+
+[Phrase <338> - Norwegian]
+"Okkuperende hær"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <339> - English]
+"Units"
+
+[Phrase <339> - Norwegian]
+"Enheter"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <340> - English]
+"OK"
+
+[Phrase <340> - Norwegian]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <341> - English]
+"Register Now"
+
+[Phrase <341> - Norwegian]
+"Registrer Nå"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <342> - English]
+"Enter Code"
+
+[Phrase <342> - Norwegian]
+"Skriv inn kode"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <343> - English]
+"Register Later"
+
+[Phrase <343> - Norwegian]
+"Registrer senere"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <344> - English]
+"Active soon"
+
+[Phrase <344> - Norwegian]
+"Snart aktiv"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <345> - English]
+"War Statistics"
+
+[Phrase <345> - Norwegian]
+"Statistikk for krigføringen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <346> - English]
+"Not involved"
+
+[Phrase <346> - Norwegian]
+"Ikke innvolvert"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 347: "End of war statistics."
+
+[Phrase <347> - English]
+"End of war stats"
+
+[Phrase <347> - Norwegian]
+"Statistikk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <348> - English]
+"Countries conquered:"
+
+[Phrase <348> - Norwegian]
+"Beseirede land:"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <349> - English]
+"Countries surrendered:"
+
+[Phrase <349> - Norwegian]
+"Overgitte land:"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <350> - English]
+"Enemy casualties:"
+
+[Phrase <350> - Norwegian]
+"Beseirede styrker:"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <351> - English]
+"Your casualties:"
+
+[Phrase <351> - Norwegian]
+"Tap av egne styrker:"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <352> - English]
+"IP Information"
+
+[Phrase <352> - Norwegian]
+"IP-informasjon"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 353: " Italian: If it's a command, otherwise if is a warning like I CAUGHT YOU then is HAI BARATO!"
+
+[Phrase <353> - English]
+"CHEAT!"
+
+[Phrase <353> - Norwegian]
+"JUKS!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <354> - English]
+"Score: "
+
+[Phrase <354> - Norwegian]
+"Poengsum: "
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 355: "Ultra secret."
+
+[Phrase <355> - English]
+"TOP SECRET"
+
+[Phrase <355> - Norwegian]
+"HEMMELIG"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <356> - English]
+"Your mission briefing is enclosed in this document."
+
+[Phrase <356> - Norwegian]
+"Ditt oppdrag befinner seg i dette dokumentet."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <357> - English]
+"Ignore"
+
+[Phrase <357> - Norwegian]
+"Ignorer"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 358: " Open mission briefing"
+
+[Phrase <358> - English]
+"Open"
+
+[Phrase <358> - Norwegian]
+"Åpne"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <359> - English]
+"View"
+
+[Phrase <359> - Norwegian]
+"Vis"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <360> - English]
+"Mission reminder"
+
+[Phrase <360> - Norwegian]
+"Oppdrag"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 361: "A computer when connected to a network: example -I sit at this **terminal** to play MR- The context that it is used in: -Terminal 1 has connected to the network-. Computer."
+
+[Phrase <361> - English]
+"Terminal"
+
+[Phrase <361> - Norwegian]
+"Bruker"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 362: "The Red Army. The red army."
+
+[Phrase <362> - English]
+"the Red Army"
+
+[Phrase <362> - Norwegian]
+"den Røde Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 363: "The Green Army. The green army."
+
+[Phrase <363> - English]
+"the Green Army"
+
+[Phrase <363> - Norwegian]
+"den Grønne Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <364> - English]
+"the Blue Army"
+
+[Phrase <364> - Norwegian]
+"den Blå Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <365> - English]
+"the Yellow Army"
+
+[Phrase <365> - Norwegian]
+"den Gule Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <366> - English]
+"the Purple Army"
+
+[Phrase <366> - Norwegian]
+"den Lilla Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <367> - English]
+"the Gray Army"
+
+[Phrase <367> - Norwegian]
+"den Grå Hæren"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <368> - English]
+"Rolling Dice"
+
+[Phrase <368> - Norwegian]
+"Kast terning"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 369: "Not actually used directly. IT:"
+
+[Phrase <369> - English]
+"Please select a language."
+
+[Phrase <369> - Norwegian]
+"Vennligst velg språk."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 370: " IT:Suggerimento: Taglio e colla direttamente dalla vostra forma di registro."
+
+[Phrase <370> - English]
+"Hint: Cut and paste directly from your registration form."
+
+[Phrase <370> - Norwegian]
+"Tips: Klipp og lim tekst direkte fra ditt registreringsskjema."
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Remark 371: " French is not available yet: Français n'est pas disponible cependant."
+
+[Phrase <371> - English]
+"Victory!"
+
+[Phrase <371> - Norwegian]
+"Seier!"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <372> - English]
+"Alaska"
+
+[Phrase <372> - Norwegian]
+"Alaska"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <373> - English]
+"Northwest Territory"
+
+[Phrase <373> - Norwegian]
+"Nordvest-territoriet"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <374> - English]
+"Greenland"
+
+[Phrase <374> - Norwegian]
+"Grønland"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <375> - English]
+"Alberta"
+
+[Phrase <375> - Norwegian]
+"Alberta"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <376> - English]
+"Ontario"
+
+[Phrase <376> - Norwegian]
+"Ontario"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <377> - English]
+"Quebec"
+
+[Phrase <377> - Norwegian]
+"Quebec"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <378> - English]
+"Western United States"
+
+[Phrase <378> - Norwegian]
+"Vestlige USA"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <379> - English]
+"Eastern United States"
+
+[Phrase <379> - Norwegian]
+"Østlige USA"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <380> - English]
+"Central America"
+
+[Phrase <380> - Norwegian]
+"Sentral-Amerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <381> - English]
+"Venezuela"
+
+[Phrase <381> - Norwegian]
+"Venezuela"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <382> - English]
+"Peru"
+
+[Phrase <382> - Norwegian]
+"Peru"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <383> - English]
+"Brazil"
+
+[Phrase <383> - Norwegian]
+"Brasil"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <384> - English]
+"Argentina"
+
+[Phrase <384> - Norwegian]
+"Argentina"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <385> - English]
+"Iceland"
+
+[Phrase <385> - Norwegian]
+"Island"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <386> - English]
+"Great Britain"
+
+[Phrase <386> - Norwegian]
+"Storbritania"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <387> - English]
+"Scandinavia"
+
+[Phrase <387> - Norwegian]
+"Skandinavia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <388> - English]
+"Northern Europe"
+
+[Phrase <388> - Norwegian]
+"Nord-Europa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <389> - English]
+"Western Europe"
+
+[Phrase <389> - Norwegian]
+"Vest-Europa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <390> - English]
+"Southern Europe"
+
+[Phrase <390> - Norwegian]
+"Sør-Europa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <391> - English]
+"Ukraine"
+
+[Phrase <391> - Norwegian]
+"Ukraina"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <392> - English]
+"North Africa"
+
+[Phrase <392> - Norwegian]
+"Nord-Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <393> - English]
+"Egypt"
+
+[Phrase <393> - Norwegian]
+"Egypt"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <394> - English]
+"East Africa"
+
+[Phrase <394> - Norwegian]
+"Øst-Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <395> - English]
+"Congo"
+
+[Phrase <395> - Norwegian]
+"Kongo"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <396> - English]
+"South Africa"
+
+[Phrase <396> - Norwegian]
+"Sør-Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <397> - English]
+"Madagascar"
+
+[Phrase <397> - Norwegian]
+"Madagaskar"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <398> - English]
+"Middle East"
+
+[Phrase <398> - Norwegian]
+"Midt-Østen"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <399> - English]
+"Afghanistan"
+
+[Phrase <399> - Norwegian]
+"Afganistan"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <400> - English]
+"India"
+
+[Phrase <400> - Norwegian]
+"India"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <401> - English]
+"Siam"
+
+[Phrase <401> - Norwegian]
+"Siam"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <402> - English]
+"Siberia"
+
+[Phrase <402> - Norwegian]
+"Sibir"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <403> - English]
+"Ural"
+
+[Phrase <403> - Norwegian]
+"Ural"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <404> - English]
+"China"
+
+[Phrase <404> - Norwegian]
+"Kina"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <405> - English]
+"Mongolia"
+
+[Phrase <405> - Norwegian]
+"Mongolia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <406> - English]
+"Irkutsk"
+
+[Phrase <406> - Norwegian]
+"Irkutsk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <407> - English]
+"Yakutsk"
+
+[Phrase <407> - Norwegian]
+"Yakutsk"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <408> - English]
+"Japan"
+
+[Phrase <408> - Norwegian]
+"Japan"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <409> - English]
+"Kamchatka"
+
+[Phrase <409> - Norwegian]
+"Kamtsjakta"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <410> - English]
+"Indonesia"
+
+[Phrase <410> - Norwegian]
+"Indonesia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <411> - English]
+"Western Australia"
+
+[Phrase <411> - Norwegian]
+"Vest-Australia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <412> - English]
+"New Guinea"
+
+[Phrase <412> - Norwegian]
+"Ny-Guinea"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <413> - English]
+"Eastern Australia"
+
+[Phrase <413> - Norwegian]
+"Øst-Australia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <414> - English]
+"North America"
+
+[Phrase <414> - Norwegian]
+"Nord-Amerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <415> - English]
+"South America"
+
+[Phrase <415> - Norwegian]
+"Sør-Amerika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <416> - English]
+"Europe"
+
+[Phrase <416> - Norwegian]
+"Europa"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <417> - English]
+"Africa"
+
+[Phrase <417> - Norwegian]
+"Afrika"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <418> - English]
+"Asia"
+
+[Phrase <418> - Norwegian]
+"Asia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <419> - English]
+"Australia"
+
+[Phrase <419> - Norwegian]
+"Australia"
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <420> - English]
+""
+
+[Phrase <420> - Norwegian]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <421> - English]
+""
+
+[Phrase <421> - Norwegian]
+""
+

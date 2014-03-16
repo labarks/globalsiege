@@ -1,0 +1,2710 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <0> - English]
+"Player"
+
+[Phrase <0> - Italian]
+"Giocatore"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <1> - English]
+"The Red Army "
+
+[Phrase <1> - Italian]
+"Armate rosse "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <2> - English]
+"The Green Army "
+
+[Phrase <2> - Italian]
+"Armate verdi "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <3> - English]
+"The Blue Army "
+
+[Phrase <3> - Italian]
+"Armate blu "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <4> - English]
+"The Yellow Army "
+
+[Phrase <4> - Italian]
+"Armate gialle "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <5> - English]
+"The Purple Army "
+
+[Phrase <5> - Italian]
+"Armate viola "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <6> - English]
+"The Gray Army "
+
+[Phrase <6> - Italian]
+"Armate grigie "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <7> - English]
+"Human player"
+
+[Phrase <7> - Italian]
+"Giocatore umano"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <8> - English]
+"Average computer player"
+
+[Phrase <8> - Italian]
+"Giocatore computer: intelligenza media"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <9> - English]
+"Smart computer player"
+
+[Phrase <9> - Italian]
+"Giocatore computer: molto intelligente"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <10> - English]
+"Players"
+
+[Phrase <10> - Italian]
+"Giocatori"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <11> - English]
+"First player"
+
+[Phrase <11> - Italian]
+"Primo giocatore"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <12> - English]
+"Random"
+
+[Phrase <12> - Italian]
+"Casuale"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <13> - English]
+"Player 1"
+
+[Phrase <13> - Italian]
+"Giocatore 1"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <14> - English]
+"Cards"
+
+[Phrase <14> - Italian]
+"Carte"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <15> - English]
+"Hidden"
+
+[Phrase <15> - Italian]
+"Nascoste"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <16> - English]
+"None"
+
+[Phrase <16> - Italian]
+"Nessuna"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <17> - English]
+"Fixed"
+
+[Phrase <17> - Italian]
+"Fisso" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <18> - English]
+"Maximum"
+
+[Phrase <18> - Italian]
+"Valore Massimo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <19> - English]
+"War options"
+
+[Phrase <19> - Italian]
+"Opzioni"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <20> - English]
+"Missions"
+
+[Phrase <20> - Italian]
+"Obiettivi"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <21> - English]
+"Limit supply lines"
+
+[Phrase <21> - Italian]
+"Limita i rifornimenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <22> - English]
+"Optimise defence dice"
+
+[Phrase <22> - Italian]
+"Ottimizza i dadi di difesa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <23> - English]
+"Fast war"
+
+[Phrase <23> - Italian]
+"Guerra veloce"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <24> - English]
+"Fast Dice"
+
+[Phrase <24> - Italian]
+"Dadi veloci"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <25> - English]
+"Border shows player's color"
+
+[Phrase <25> - Italian]
+"Il bordo mostra il giocatore di turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <26> - English]
+"&Declare War"
+
+[Phrase <26> - Italian]
+"&Dichiara guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <27> - English]
+"&Cancel set up"
+
+[Phrase <27> - Italian]
+"&Cancella il
+set up"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <28> - English]
+"Remote player"
+
+[Phrase <28> - Italian]
+"Giocatore remoto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <29> - English]
+"Join &War"
+
+[Phrase <29> - Italian]
+"Unisciti alla &Guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <30> - English]
+"Supply lines"
+
+[Phrase <30> - Italian]
+"Rifornimenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <31> - English]
+"&File"
+
+[Phrase <31> - Italian]
+"&File"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <32> - English]
+"&New war..."
+
+[Phrase <32> - Italian]
+"&Nuova partita..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <33> - English]
+"E&xit"
+
+[Phrase <33> - Italian]
+"&Esci"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <34> - English]
+"MissionRisk Set Up... "
+
+[Phrase <34> - Italian]
+"Inizializzazione di MissionRisk "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <35> - English]
+"MissionRisk - "
+
+[Phrase <35> - Italian]
+"MissionRisk - "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <36> - English]
+"Intelligent computer player"
+
+[Phrase <36> - Italian]
+"Giocatore computer intelligente"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <37> - English]
+"No file name has been specified"
+
+[Phrase <37> - Italian]
+"Nessun nome file e' stato specificato" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <38> - English]
+"&Options"
+
+[Phrase <38> - Italian]
+"&Opzioni"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <39> - English]
+"Fast &war"
+
+[Phrase <39> - Italian]
+"Guerra &veloce"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <40> - English]
+"Fast &dice"
+
+[Phrase <40> - Italian]
+"&Dadi veloci"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <41> - English]
+"&Border shows player's color"
+
+[Phrase <41> - Italian]
+"&Bordo mostra il giocatore di turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <42> - English]
+"3D displa&y"
+
+[Phrase <42> - Italian]
+"Displa&y 3D"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <43> - English]
+"&Auto scroll"
+
+[Phrase <43> - Italian]
+"&Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <44> - English]
+" has been deleted or corrupted"
+
+[Phrase <44> - Italian]
+" e' stato cancellato o danneggiato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <45> - English]
+"Missing file"
+
+[Phrase <45> - Italian]
+"File mancante"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <46> - English]
+"Mi&ssions"
+
+[Phrase <46> - Italian]
+"Ob&iettivi"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <47> - English]
+"&See mission"
+
+[Phrase <47> - Italian]
+"&Guarda l'obiettivo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <48> - English]
+" has been corrupted and cannot be opened."
+
+[Phrase <48> - Italian]
+" e' danneggiato e non puo' essere aperto." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <49> - English]
+"&Help"
+
+[Phrase <49> - Italian]
+"&Aiuto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <50> - English]
+"&Contents..."
+
+[Phrase <50> - Italian]
+"&Guida..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <51> - English]
+"&Index..."
+
+[Phrase <51> - Italian]
+"&Indice..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <52> - English]
+"&MissionRisk home page..."
+
+[Phrase <52> - Italian]
+"&MissionRisk: home page..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <53> - English]
+"MissionRisk &registration"
+
+[Phrase <53> - Italian]
+"MissionRisk: &registrazione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <54> - English]
+"Register MissionRisk &online..."
+
+[Phrase <54> - Italian]
+"Registra MissionRisk &online..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <55> - English]
+"&Enter registration code..."
+
+[Phrase <55> - Italian]
+"Inserisci il &codice di registrazione..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <56> - English]
+"File error"
+
+[Phrase <56> - Italian]
+"Errore nel file"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <57> - English]
+"There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk."
+
+[Phrase <57> - Italian]
+"Si e' verificato un errore leggendo il file 'Risk44INI.dat'. E' mancante o danneggiato. Per favore reinstalla MissionRisk."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <58> - English]
+" Transfer"
+
+[Phrase <58> - Italian]
+"Trasferisci"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <59> - English]
+"&Attack"
+
+[Phrase <59> - Italian]
+"&Attacca"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <60> - English]
+"&Move"
+
+[Phrase <60> - Italian]
+"Spo&sta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <61> - English]
+"&Pass"
+
+[Phrase <61> - Italian]
+"&Passa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <62> - English]
+"Exchange"
+
+[Phrase <62> - Italian]
+"Scambia"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <63> - English]
+"Cancel"
+
+[Phrase <63> - Italian]
+"Annulla"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <64> - English]
+"attacks"
+
+[Phrase <64> - Italian]
+"attacca"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <65> - English]
+"<Click defending country>"
+
+[Phrase <65> - Italian]
+"<Clicca sul territorio in difesa>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <66> - English]
+"has WON THE GAME!"
+
+[Phrase <66> - Italian]
+"ha VINTO LA PARTITA!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <67> - English]
+"By occupying and holding"
+
+[Phrase <67> - Italian]
+"occupando e tenendo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <68> - English]
+"24 countries."
+
+[Phrase <68> - Italian]
+"24 territori."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <69> - English]
+"By wiping out "
+
+[Phrase <69> - Italian]
+"distruggendo "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <70> - English]
+"You have "
+
+[Phrase <70> - Italian]
+"Devi mettere "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <71> - English]
+" units to place."
+
+[Phrase <71> - Italian]
+" unita'."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <72> - English]
+"<Click destination country>"
+
+[Phrase <72> - Italian]
+"<Clicca il territorio di destinazione>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <73> - English]
+"moves "
+
+[Phrase <73> - Italian]
+"sposta "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <74> - English]
+"to "
+
+[Phrase <74> - Italian]
+"in "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <75> - English]
+"You must wipe out all other players and conquer the world."
+
+[Phrase <75> - Italian]
+"Devi distruggere gli altri giocatori e conquistare il mondo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <76> - English]
+"Your mission is to wipe out "
+
+[Phrase <76> - Italian]
+"Il tuo obiettivo è distruggere "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <77> - English]
+"You must conquer Asia and South America and hold them until your next turn."
+
+[Phrase <77> - Italian]
+"Devi conquistare Asia e Sud America e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <78> - English]
+"You must conquer Asia and Africa and hold them until your next turn."
+
+[Phrase <78> - Italian]
+"Devi conquistare Asia e Africa e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <79> - English]
+"You must conquer North America and Africa and hold them until your next turn."
+
+[Phrase <79> - Italian]
+"Devi conquistare Nord America e Africa e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <80> - English]
+"You must conquer North America and Australia and hold them until your next turn."
+
+[Phrase <80> - Italian]
+"Devi conquistare Nord America e Australia e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <81> - English]
+"You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <81> - Italian]
+"Devi conquistare Europa, Sud America e un terzo continente e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <82> - English]
+"You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <82> - Italian]
+"Devi conquistare Europa, Australia e un terzo continente e tenerle per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <83> - English]
+"You must occupy any 24 countries and hold them until your next turn."
+
+[Phrase <83> - Italian]
+"Devi occupare 24 territori e tenerli per un turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <84> - English]
+"Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?"
+
+[Phrase <84> - Italian]
+"Per avere gli effetti 3D, bisogna settare la pallete di colori in HIGH COLOR. Continuo cambiando in questa modalita'?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <85> - English]
+"Warning"
+
+[Phrase <85> - Italian]
+"Attenzione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <86> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another 28  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <86> - Italian]
+"Grazie per aver provato MissionRisk <Var.Maj>.<Var.Min>. Spero che ti sia piaciuto giocarci.
+
+Ricordati di registrare questo programma se ti piace.
+
+E' stata individuata una vecchia versione di MissionRisk.
+
+Ti verra' garantita una licenza di altri 28 giorni a partire da ora.
+
+Vuoi vedere il file di Help di MissionRisk?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <87> - English]
+"Welcome to MissionRisk v<Var.Maj>.<Var.Min>"
+
+[Phrase <87> - Italian]
+"Benvenuti a MissionRisk v<Var.Maj>.<Var.Min>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <88> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in 28 days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <88> - Italian]
+"Grazie per aver provato MissionRisk <Var.Maj>.<Var.Min>. Spero che ti sia piaciuto giocarci.
+
+Ricordati di registrare questo programma se ti piace. La licenza di valutazione terminera' tra 28 giorni da ora.
+
+MissionRisk continuera' a funzionare dopo questo periodo, sebbene non registrato ufficialmente.
+
+Vuoi vedere il file di Help di MissionRisk?" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <89> - English]
+"Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details."
+
+[Phrase <89> - Italian]
+"La tua tavolozza dei colori non e' settata per i HI COLOR, il che significa che MissionRisk può creare effetti solo 2D.
+
+Se vuoi il rendering 3D, devi cambiare il settaggio della tavolozza dei colori in pannello di controllo|schermo. Guarda il file di help per maggiori dettagli."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <90> - English]
+"The system date has been altered!"
+
+[Phrase <90> - Italian]
+"La data di sistema e' stata reimpostata!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <91> - English]
+"MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM."
+
+[Phrase <91> - Italian]
+"MissionRisk non e' ancora registrato!
+
+PER FAVORE REGISTRA QUESTO PROGRAMMA."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <92> - English]
+"Registration has expired."
+
+[Phrase <92> - Italian]
+"La registrazione e' scaduta."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <93> - English]
+"The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <93> - Italian]
+"Il periodo di valutazione di <Var.Eval> giorni e' terminato. Molte funzioni di MissionRisk saranno disabilitate nei prossimi giorni.
+
+Per continuare a usare MissionRisk legalmente e al  massimo delle funzionalita', devi registrare la tua copia pagando una piccola somma all'autore.
+Trovi tutte le informazioni nel file di help.
+
+Puoi registrarti online con la tua carta di credito. Vuoi registrarti ora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <94> - English]
+"Notice"
+
+[Phrase <94> - Italian]
+"Avviso"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <95> - English]
+"The <Var.Eval> day evaluation period has lapsed "
+
+[Phrase <95> - Italian]
+"Il periodo di valutazione e' terminato "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <96> - English]
+"Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <96> - Italian]
+"Molte funzioni di MissionRisk saranno disabilitate.
+
+Per continuare a usare MissionRisk legalmente e al  massimo delle funzionalita', devi registrare la tua copia pagando una piccola somma all'autore
+Trovi tutte le informazioni ne file di help.
+
+Puoi registrarti online con la tua carta di credito. Vuoi registrarti ora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <97> - English]
+" days ago."
+
+[Phrase <97> - Italian]
+" giorni fa."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <98> - English]
+"PLEASE REGISTER"
+
+[Phrase <98> - Italian]
+"PER FAVORE REGISTRA IL PROGRAMMA"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <99> - English]
+"Do you really want to QUIT?"
+
+[Phrase <99> - Italian]
+"Terminare questo programma?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <100> - English]
+"By dominating the world."
+
+[Phrase <100> - Italian]
+"Dominando il mondo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <101> - English]
+"with "
+
+[Phrase <101> - Italian]
+"con "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <102> - English]
+" units."
+
+[Phrase <102> - Italian]
+" unita'."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <103> - English]
+" unit."
+
+[Phrase <103> - Italian]
+" unita'."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <104> - English]
+"<Click attacking country>"
+
+[Phrase <104> - Italian]
+"<Clicca sul territorio attaccante>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <105> - English]
+" unit to place."
+
+[Phrase <105> - Italian]
+" unita'."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <106> - English]
+"moves to "
+
+[Phrase <106> - Italian]
+"sposta in "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <107> - English]
+" from"
+
+[Phrase <107> - Italian]
+" da"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <108> - English]
+"<Click source country>"
+
+[Phrase <108> - Italian]
+"<Clicca il territorio iniziale>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <109> - English]
+"<Click attacking country(s)>"
+
+[Phrase <109> - Italian]
+"<Clicca sul territorio attaccante>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <110> - English]
+"Retreats 0 units from"
+
+[Phrase <110> - Italian]
+"Toglie 0 unita' da"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <111> - English]
+"Retreats"
+
+[Phrase <111> - Italian]
+"Toglie"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <112> - English]
+" units from"
+
+[Phrase <112> - Italian]
+" unita' da"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <113> - English]
+" unit from"
+
+[Phrase <113> - Italian]
+" unita' da"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <114> - English]
+" units left."
+
+[Phrase <114> - Italian]
+" unita' rimaste."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <115> - English]
+" unit  left."
+
+[Phrase <115> - Italian]
+" unita' rimasta."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <116> - English]
+"Belongs to "
+
+[Phrase <116> - Italian]
+"Appartiene a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <117> - English]
+"which has a value of"
+
+[Phrase <117> - Italian]
+"ha un valore di"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <118> - English]
+"Currently occupied by "
+
+[Phrase <118> - Italian]
+"E' ora occupata dalle "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <119> - English]
+"SPRUNG!"
+
+[Phrase <119> - Italian]
+"CATTATO!"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <120> - English]
+"Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <120> - Italian]
+"Ah Hah! Ti ho preso a spiare!
+Devi aspettare il tuo turno per vedere il tuo obiettivo!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <121> - English]
+"Stop peeking!"
+
+[Phrase <121> - Italian]
+"Piantale di curiosare!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <122> - English]
+"NO! My mission!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <122> - Italian]
+"NO! Il mio obiettivo!
+Devi aspettare il tuo turno per vedere il tuo obiettivo!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <123> - English]
+"Conspiracy"
+
+[Phrase <123> - Italian]
+"Cospirazione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <124> - English]
+"This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is."
+
+[Phrase <124> - Italian]
+"Queste sono informazioni riservate. Se te lo dicessi, dovrei eliminarti. Oppure aspetta il tuo turno per vedere il tuo obiettivo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <125> - English]
+"NO!"
+
+[Phrase <125> - Italian]
+"NO!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <126> - English]
+"My mission! I finish it! You just wait until your turn and finish your own mission!"
+
+[Phrase <126> - Italian]
+"Il mio obiettivo! L'ho terminato!... e aspetta il tuo turno... e finisci il tuo obiettivo!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <127> - English]
+"Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!"
+
+[Phrase <127> - Italian]
+"Spiare non è permesso in guerra!
+Tutte le tue spie sono state catturate ed eseguite. Sono morte lentamente in una delle nostre stanze delle torture. Che ti sia di avvertimento! Le tue armate umane saranno presto distrutte, e il mondo MissionRisk sara' um posto migliore per i giocatori computer!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <128> - English]
+"You intolerable species"
+
+[Phrase <128> - Italian]
+"Tu specie inferiore!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <129> - English]
+"'s turn."
+
+[Phrase <129> - Italian]
+"è di turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <130> - English]
+"Checking cards"
+
+[Phrase <130> - Italian]
+"Controllo delle carte"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <131> - English]
+"     YOU MUST
+  TRADE CARDS"
+
+[Phrase <131> - Italian]
+"  DEVI CAMBIARE
+      LE CARTE"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <132> - English]
+"Trade cards in for"
+
+[Phrase <132> - Italian]
+"Scambi le carte per"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <133> - English]
+" units?"
+
+[Phrase <133> - Italian]
+" unita'?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <134> - English]
+"  Re-shuffling cards."
+
+[Phrase <134> - Italian]
+"  Rimischio il mazzo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <135> - English]
+"Used risk cards are being collected, re-shuffled and put back in the pack."
+
+[Phrase <135> - Italian]
+"Le carte usate sono raccolte e rimischiate nel mazzo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <136> - English]
+"Don't show any more."
+
+[Phrase <136> - Italian]
+"Non mostrare più questo messaggio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <137> - English]
+"You need more players than that."
+
+[Phrase <137> - Italian]
+"Servono piu' giocatori per questo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <138> - English]
+"There are still some countries left."
+
+[Phrase <138> - Italian]
+"Sono rimasti ancora dei territori."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <139> - English]
+"Setting up the board..."
+
+[Phrase <139> - Italian]
+"Preparo la plancia..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <140> - English]
+"Name"
+
+[Phrase <140> - Italian]
+"Nome"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <141> - English]
+"Registration code"
+
+[Phrase <141> - Italian]
+"Codice di registrazione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <142> - English]
+"Available wars"
+
+[Phrase <142> - Italian]
+"Scenari disponibili"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <143> - English]
+"Delete"
+
+[Phrase <143> - Italian]
+"Cancella"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <144> - English]
+"&Open war..."
+
+[Phrase <144> - Italian]
+"A&pri scenario..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <145> - English]
+"&Make this the default war"
+
+[Phrase <145> - Italian]
+"&Rendi questo lo scenario di default"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <146> - English]
+"Description"
+
+[Phrase <146> - Italian]
+"Descrizione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <147> - English]
+"Save war as..."
+
+[Phrase <147> - Italian]
+"Salva scenario come..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <148> - English]
+"Title of war"
+
+[Phrase <148> - Italian]
+"Titolo dello scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <149> - English]
+"&Save"
+
+[Phrase <149> - Italian]
+"&Salva"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <150> - English]
+"Player option box for the "
+
+[Phrase <150> - Italian]
+"Opzioni per le "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <151> - English]
+"Number of countries this army starts with"
+
+[Phrase <151> - Italian]
+"Numero di territori iniziali per le armate"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <152> - English]
+"Increment/decrement starting countries"
+
+[Phrase <152> - Italian]
+"Incrementa/decrementa i territori di partenza"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <153> - English]
+"Change the number of starting players"
+
+[Phrase <153> - Italian]
+"Cambia il numero dei giocatori"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <154> - English]
+"How many players are going to war"
+
+[Phrase <154> - Italian]
+"Quanti giocatori partecipano"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <155> - English]
+"Random selection of the first player"
+
+[Phrase <155> - Italian]
+"Selezione casuale del primo giocatore"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <156> - English]
+"Player 1 - the red army is the first player"
+
+[Phrase <156> - Italian]
+"Giocatore 1 - Armate rosse sono le prime"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <157> - English]
+"The cards option box"
+
+[Phrase <157> - Italian]
+"Opzioni per le carte"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <158> - English]
+"Other players cannot see your cards when checked"
+
+[Phrase <158> - Italian]
+"Gli altri giocatori non possono vedere le tue carte se selezionato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <159> - English]
+"Cards are not issued when checked"
+
+[Phrase <159> - Italian]
+"Le carte non sono estratte se selezionato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <160> - English]
+"Value of cards do not change when checked"
+
+[Phrase <160> - Italian]
+"Il valore delle carte non cambia se e' selezionato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <161> - English]
+"Value of cards increases whith every set turned in"
+
+[Phrase <161> - Italian]
+"Il valore delle carte aumenta a ogni tris"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <162> - English]
+"Sets the maximum card value"
+
+[Phrase <162> - Italian]
+"Setta il valore massimo delle carte"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <163> - English]
+"The war options box"
+
+[Phrase <163> - Italian]
+"Opzioni per i combattimenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <164> - English]
+"All players are issued with secret missions when checked"
+
+[Phrase <164> - Italian]
+"Tutti i giocatori hanno un obiettivo segreto se selezionato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <165> - English]
+"Limits army movements"
+
+[Phrase <165> - Italian]
+"Limita gli spostamenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <166> - English]
+"Look at the attack dice and decide how many defence dice to throw"
+
+[Phrase <166> - Italian]
+"Guarda i dadi d'attacco e decide quanti dadi in difesa tirare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <167> - English]
+"Speed of computer players"
+
+[Phrase <167> - Italian]
+"Velocita' dei giocatori del computer"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <168> - English]
+"Speed at which the dice are thrown"
+
+[Phrase <168> - Italian]
+"Velocita' di lancio dei dadi"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <169> - English]
+"Border flashes player's color (can be annoying!)"
+
+[Phrase <169> - Italian]
+"Il bordo indica il colore del giocatore di turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <170> - English]
+"Start new war with these settings"
+
+[Phrase <170> - Italian]
+"Comincia una nuova partita con questi settaggi"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <171> - English]
+"Exit with the previous settings"
+
+[Phrase <171> - Italian]
+"Esci con i settaggi precedenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <172> - English]
+"&Reshuffle notice"
+
+[Phrase <172> - Italian]
+"&Mostra avviso quando rimischia"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <173> - English]
+"&Select language..."
+
+[Phrase <173> - Italian]
+"&Seleziona lingua..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <174> - English]
+"Start &turn again"
+
+[Phrase <174> - Italian]
+"&Ricomincia il turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <175> - English]
+"&Reset war"
+
+[Phrase <175> - Italian]
+"&Resetta lo scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <176> - English]
+"Capture players’ cards when you wipe out their last unit"
+
+[Phrase <176> - Italian]
+"Ruba le carte quando il giocatore e' eliminato"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <177> - English]
+"Increasing"
+
+[Phrase <177> - Italian]
+"Aumenta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <178> - English]
+"Capture"
+
+[Phrase <178> - Italian]
+"Cattura"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <179> - English]
+"No supply lines"
+
+[Phrase <179> - Italian]
+"Senza rifornimenti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <180> - English]
+"No restrictions on army movements"
+
+[Phrase <180> - Italian]
+"Nessuna restrizione al movimento delle armate"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <181> - English]
+"Current value: "
+
+[Phrase <181> - Italian]
+"Valore della carta: "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <182> - English]
+"This program is registered to "
+
+[Phrase <182> - Italian]
+"Questo programma è registrato a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <183> - English]
+"Thank you for registering."
+
+[Phrase <183> - Italian]
+"Grazie per aver registrato."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <184> - English]
+"&ALL"
+
+[Phrase <184> - Italian]
+"&Tutto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <185> - English]
+"Copyright© 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties."
+
+[Phrase <185> - Italian]
+"Copyright© 1998-2000 Craig Douglas.
+Questo programma è protetto dalle leggi sul copyright e da trattati internazionali."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <186> - English]
+"Distribute extra starting units"
+
+[Phrase <186> - Italian]
+"Distribuisci unita' extra all'inizio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <187> - English]
+"Extra starting units are randomly distributed over each players' territories."
+
+[Phrase <187> - Italian]
+"Le unita' extra vengono distribuite casualmente sui territori dei giocatori all'inizio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <188> - English]
+"Extra units"
+
+[Phrase <188> - Italian]
+"Unita' extra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <189> - English]
+" wants to keep going"
+
+[Phrase <189> - Italian]
+" vogliono continuare"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <190> - English]
+" wants to keep the mission a secret!"
+
+[Phrase <190> - Italian]
+" vuole tenere segreto l'obiettivo!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <191> - English]
+"Do you really want to quit this war?"
+
+[Phrase <191> - Italian]
+"Vuoi lasciare questo scenario?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <192> - English]
+"Are you sure you want to delete "
+
+[Phrase <192> - Italian]
+"Sei sicuro di cancellare "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <193> - English]
+"Are you sure?"
+
+[Phrase <193> - Italian]
+"Sei sicuro?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <194> - English]
+"Open war"
+
+[Phrase <194> - Italian]
+"Apri scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <195> - English]
+"Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?"
+
+[Phrase <195> - Italian]
+"Grazie per avere registrato MissionRisk.
+
+Il programma deve essere rieseguito per
+terminare il processo di registrazione.
+Rieseguo ora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <196> - English]
+"AI interupt request"
+
+[Phrase <196> - Italian]
+"L'algoritmo di intelligenza artificiale"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <197> - English]
+"Version "
+
+[Phrase <197> - Italian]
+"Versione "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <198> - English]
+"Hi "
+
+[Phrase <198> - Italian]
+"Ciao "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <199> - English]
+"your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file."
+
+[Phrase <199> - Italian]
+"e' stata trovata una registrazione precedente e convalidata. 
+
+Se hai qualsiasi commento, inviami pure una email. L'indirizzo lo trovi nel file di help."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <200> - English]
+"&Open"
+
+[Phrase <200> - Italian]
+"A&pri scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <201> - English]
+"&Tool box"
+
+[Phrase <201> - Italian]
+"&Tool box"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <202> - English]
+"New war"
+
+[Phrase <202> - Italian]
+"Nuova partita"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <203> - English]
+"Reset war"
+
+[Phrase <203> - Italian]
+"Resetta lo scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <204> - English]
+"Open"
+
+[Phrase <204> - Italian]
+"Apri scenario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <205> - English]
+"Save"
+
+[Phrase <205> - Italian]
+"Salva"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <206> - English]
+"Fast war (press + and - to adjust speed)"
+
+[Phrase <206> - Italian]
+"Guerra veloce"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <207> - English]
+"Fast dice (press + and - to adjust speed)"
+
+[Phrase <207> - Italian]
+"Dadi veloci"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <208> - English]
+"Auto scroll"
+
+[Phrase <208> - Italian]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <209> - English]
+"Start turn again"
+
+[Phrase <209> - Italian]
+"Ricomincia il turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <210> - English]
+"Help"
+
+[Phrase <210> - Italian]
+"Aiuto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <211> - English]
+"Please re-enter your MissionRisk registration code."
+
+[Phrase <211> - Italian]
+"Per favore reinserisci il tuo codice di registrazione di MissionRisk."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <212> - English]
+"New version update"
+
+[Phrase <212> - Italian]
+"Aggiornamento alla nuova versione"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <213> - English]
+"<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing."
+
+[Phrase <213> - Italian]
+"<Var.EXEName>.exe e' stato modificato. 
+Cio' significa che potrebbe essere stato infettato da un virus.
+Per favore cancellalo e reinstalla il programma.
+
+Un certo numero di controllo sono stati previsti per bloccare 
+la propagazione di virus. In ogni caso l'unico sistema sicuro e'
+quello di cancellare completamente il file sopracitato e poi
+reinstallare dalla sorgente originale il programma.
+
+Qualora il messaggio dovesse continuare ad apparire contattate l'autore."
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <214> - English]
+"
+    > PAUSED <"
+
+[Phrase <214> - Italian]
+"
+   > IN PAUSA <"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <215> - English]
+"Could not find a browser."
+
+[Phrase <215> - Italian]
+"Non trovo un browser." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <216> - English]
+"Web Page 'http://www.missionrisk.com' not Opened"
+
+[Phrase <216> - Italian]
+"Indirizzo Web: 'http://www.missionrisk.com' non aperto."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <217> - English]
+"Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened"
+
+[Phrase <217> - Italian]
+"Pagina Web 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' non aperta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <218> - English]
+"A file error has occured. Perhapse "
+
+[Phrase <218> - Italian]
+"Si è verificato un errore nei file. Forse "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <219> - English]
+" has been corrupted in some way."
+
+[Phrase <219> - Italian]
+" e' danneggiato."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <220> - English]
+"Error"
+
+[Phrase <220> - Italian]
+"Errore"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <221> - English]
+"Setup"
+
+[Phrase <221> - Italian]
+"Setup"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <222> - English]
+"Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted."
+
+[Phrase <222> - Italian]
+"Overflow dello stack - un file dati potrebbe essere danneggiato. I files verranno ora reinizializzati. Contatta il produttore del software sei il problema persiste. Il programma deve essere ora rilanciato."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <223> - English]
+"Asia and South America."
+
+[Phrase <223> - Italian]
+"Asia e Sud America."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <224> - English]
+"Asia and Africa."
+
+[Phrase <224> - Italian]
+"Asia e Africa."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <225> - English]
+"North America and Africa."
+
+[Phrase <225> - Italian]
+"Nord America e Africa."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <226> - English]
+"North America and 
+Australia."
+
+[Phrase <226> - Italian]
+"Nord America e 
+Australia."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <227> - English]
+"Europe, South America 
+and a third continent."
+
+[Phrase <227> - Italian]
+"Europa, Sud America 
+ed un terzo continente."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <228> - English]
+"Europe, Australia and 
+a third continent."
+
+[Phrase <228> - Italian]
+"Europa, Australia e 
+un terzo continente."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <229> - English]
+"Your terminal's IP information could not be found."
+
+[Phrase <229> - Italian]
+"Le tue informazioni IP non sono state trovate."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <230> - English]
+"Terminal "
+
+[Phrase <230> - Italian]
+"Terminale "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <231> - English]
+" has connected."
+
+[Phrase <231> - Italian]
+" e' connesso."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <232> - English]
+"An error has occured"
+
+[Phrase <232> - Italian]
+"Si e' verificato un errore"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <233> - English]
+"Each client should have their own unique registration licence."
+
+[Phrase <233> - Italian]
+"Ogni client deve avere il proprio unico codice di regsitrazione."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <234> - English]
+"Please register"
+
+[Phrase <234> - Italian]
+"Per favore registrati"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <235> - English]
+"Host"
+
+[Phrase <235> - Italian]
+"Host"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <236> - English]
+" >> Your are "
+
+[Phrase <236> - Italian]
+" >> Tu sei "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <237> - English]
+"Terminal Host Name is "
+
+[Phrase <237> - Italian]
+"Il nome Terminal Host e' "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <238> - English]
+"Click <IP info...> for more information."
+
+[Phrase <238> - Italian]
+"Clicca su <IP info...> per maggiori informazioni."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <239> - English]
+"Do you want to close all connections?"
+
+[Phrase <239> - Italian]
+"Vuoi chiudere tutte le connessioni?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <240> - English]
+"Please enter the name or IP address of the host"
+
+[Phrase <240> - Italian]
+"Per favore inserisci il nome o l'indirizzo IP dell'host"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <241> - English]
+"Missing information"
+
+[Phrase <241> - Italian]
+"Informazioni mancanti"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <242> - English]
+"Disconnect"
+
+[Phrase <242> - Italian]
+"Scollegati"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <243> - English]
+"Connecting to "
+
+[Phrase <243> - Italian]
+"In collegamento a " 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <244> - English]
+"Please restart this session."
+
+[Phrase <244> - Italian]
+"Per favore rinizia la sessione." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <245> - English]
+"Error... Address violation"
+
+[Phrase <245> - Italian]
+"Errore ... violazione d'indirizzo" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <246> - English]
+"Connection closed."
+
+[Phrase <246> - Italian]
+"Connessione chiusa." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <247> - English]
+"All connections closed."
+
+[Phrase <247> - Italian]
+"Tutte le connessioni chiuse." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <248> - English]
+"Listening for connections."
+
+[Phrase <248> - Italian]
+"In attesa di connessioni." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <249> - English]
+"Another aplication could be using this port"
+
+[Phrase <249> - Italian]
+"Un'altra applicazione potrebbe star utilizzando questa porta" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <250> - English]
+"Address violation"
+
+[Phrase <250> - Italian]
+"Violazione d'indirizzo" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <251> - English]
+"Listen"
+
+[Phrase <251> - Italian]
+"Ascolto" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <252> - English]
+"Connect"
+
+[Phrase <252> - Italian]
+"Collegati" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <253> - English]
+"Connection has been lost."
+
+[Phrase <253> - Italian]
+"Il collegamento e' stato perso." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <254> - English]
+" has disconnected."
+
+[Phrase <254> - Italian]
+" si e' scollegato."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <255> - English]
+"Buffer overflow error has occured."
+
+[Phrase <255> - Italian]
+"Si e' verificato un overflow del buffer." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <256> - English]
+"Connection established."
+
+[Phrase <256> - Italian]
+"Connessione eseguita." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <257> - English]
+"No, Please try again"
+
+[Phrase <257> - Italian]
+"No, prova ancora" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <258> - English]
+"No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)"
+
+[Phrase <258> - Italian]
+"No, accertati di inserire il tuo nome ed il codice esattamente
+come lo leggi (maiuscole/minuscole, spazi, ec...)" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <259> - English]
+"System Information Is Unavailable At This Time"
+
+[Phrase <259> - Italian]
+"Le informazioni sul sistema non sono disponibili al momento" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <260> - English]
+"** Cheat mode activated **"
+
+[Phrase <260> - Italian]
+"-- Modalita' bara attiva --"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <261> - English]
+"An error occured while deleting "
+
+[Phrase <261> - Italian]
+"Si e' verificato un errore durante la cancellazione "  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <262> - English]
+"It might be already opened."
+
+[Phrase <262> - Italian]
+"Potrebbe essere gia' aperto." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <263> - English]
+" already exists."
+
+[Phrase <263> - Italian]
+" esiste gia'." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <264> - English]
+"Overwrite any way?"
+
+[Phrase <264> - Italian]
+"Sicuro di sovrascrivere?"  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <265> - English]
+"Save as..."
+
+[Phrase <265> - Italian]
+"Salva come..." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <266> - English]
+" cannot be modified or deleted."
+
+[Phrase <266> - Italian]
+" non puo' essere modificato o cancellato." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <267> - English]
+"&Advanced..."
+
+[Phrase <267> - Italian]
+"Avanzate..." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <268> - English]
+"Networ&k setup..."
+
+[Phrase <268> - Italian]
+"&Impostazione rete..."  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <269> - English]
+"Compose message..."
+
+[Phrase <269> - Italian]
+"Scrivi un messaggio..."  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <270> - English]
+"C&ontinent map"
+
+[Phrase <270> - Italian]
+"Mappa dei continenti" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <271> - English]
+"&About"
+
+[Phrase <271> - Italian]
+"Informazioni" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <272> - English]
+"Change the number of starting players."
+
+[Phrase <272> - Italian]
+"Cambia il numero dei giocatori." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <273> - English]
+"Advanced options..."
+
+[Phrase <273> - Italian]
+"Opzioni avanzate..." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <274> - English]
+"Advanced war options"
+
+[Phrase <274> - Italian]
+"Opzioni avanzate di guerra" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <275> - English]
+"Mission Options"
+
+[Phrase <275> - Italian]
+"Opzioni obiettivi" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <276> - English]
+"Graphics Options"
+
+[Phrase <276> - Italian]
+"Opzioni grafiche" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <277> - English]
+"Include army wipe out missions."
+
+[Phrase <277> - Italian]
+"Include l'obiettivo di fare piazza pulita delle armate." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <278> - English]
+"Include conquer and hold missions."
+
+[Phrase <278> - Italian]
+"Include il conseguimento ed il mantenimento dell'obiettivo." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <279> - English]
+"Must complete own mission to win."
+
+[Phrase <279> - Italian]
+"Devi completare il tuo obiettivo per vincere." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <280> - English]
+"Win immediately upon completing mission."
+
+[Phrase <280> - Italian]
+"Vinci subito dopo il completamento dell'obiettivo." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <281> - English]
+"Change green saturation."
+
+[Phrase <281> - Italian]
+"Cambia la luminosita' del verde." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <282> - English]
+"Change yellow saturation."
+
+[Phrase <282> - Italian]
+"Cambia la luminosita' del giallo." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <283> - English]
+"Change gray luminosity."
+
+[Phrase <283> - Italian]
+"Cambia la luminosita' del grigio." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <284> - English]
+"Large font size."
+
+[Phrase <284> - Italian]
+"Caratteri grandi." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <285> - English]
+"Include missions where you have to wipe out the last unit of another player"
+
+[Phrase <285> - Italian]
+"Includi un obiettivo segreto di distruggere un avversario"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <286> - English]
+"Include missions where you have to conquer territories and hold them until your next turn"
+
+[Phrase <286> - Italian]
+"Includi un obiettivo segreto di catturare alcuni continenti e mantenerli fino al turno sucessivo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <287> - English]
+"You do not win when an opponent wipes out your target army for you"
+
+[Phrase <287> - Italian]
+"Non hai vinto quando e' un avversario a spazzare le armate nemiche." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <288> - English]
+"After wiping out a target army, you must wait until your next turn to win when unchecked"
+
+[Phrase <288> - Italian]
+"Dopo aver spazzato via le armate del nemico devi aspettare il prossimo turno per la vittoria" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <289> - English]
+"Lighten or darken the color of the Green Army"
+
+[Phrase <289> - Italian]
+"Schiarisci o scurisci il colore delle armate verdi" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <290> - English]
+"Lighten or darken the color of the Yellow Army"
+
+[Phrase <290> - Italian]
+"Schiarisci o scurisci il colore delle armate gialle" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <291> - English]
+"Lighten or darken the color of the Gray Army"
+
+[Phrase <291> - Italian]
+"Schiarisci o scurisci il colore delle armate grigie" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <292> - English]
+"Change the font size used to print country scores"
+
+[Phrase <292> - Italian]
+"Cambia le dimensioni dei caratteri per la stampa" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <293> - English]
+"MissionRisk network setup"
+
+[Phrase <293> - Italian]
+"Impostrazioni di rete MissionRisk" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <294> - English]
+"Connection options"
+
+[Phrase <294> - Italian]
+"Opzioni di connessione" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <295> - English]
+"Connection type"
+
+[Phrase <295> - Italian]
+"Tipo di connessione" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <296> - English]
+"Refresh rate"
+
+[Phrase <296> - Italian]
+"Frequenza di refresh" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <297> - English]
+"Settings"
+
+[Phrase <297> - Italian]
+"Impostazioni" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <298> - English]
+"Session history"
+
+[Phrase <298> - Italian]
+"Storico sessione" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <299> - English]
+"Name or IP address of host"
+
+[Phrase <299> - Italian]
+"Nome o indirizzo IP dell'host" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <300> - English]
+"Port number"
+
+[Phrase <300> - Italian]
+"Numero della porta" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <301> - English]
+"Join a war"
+
+[Phrase <301> - Italian]
+"Unisciti ad una guerra" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <302> - English]
+"Host a war"
+
+[Phrase <302> - Italian]
+"Ospita una guerra" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <303> - English]
+"TCP / IP"
+
+[Phrase <303> - Italian]
+"TCP / IP" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <304> - English]
+"Modem"
+
+[Phrase <304> - Italian]
+"Modem" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <305> - English]
+"Serial"
+
+[Phrase <305> - Italian]
+"Seriale" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <306> - English]
+"High"
+
+[Phrase <306> - Italian]
+"Alto" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <307> - English]
+"Medium"
+
+[Phrase <307> - Italian]
+"Medio" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <308> - English]
+"Low"
+
+[Phrase <308> - Italian]
+"Basso" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <309> - English]
+"&IP Info..."
+
+[Phrase <309> - Italian]
+"&IP Info..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <310> - English]
+"&Connect"
+
+[Phrase <310> - Italian]
+"&Collegati" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <311> - English]
+"&OK"
+
+[Phrase <311> - Italian]
+"&OK" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <312> - English]
+"Network war must have 1 host"
+
+[Phrase <312> - Italian]
+"La guerra via rete deve avere 1 host" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <313> - English]
+"Modem and direct serial connections will be available in future versions"
+
+[Phrase <313> - Italian]
+"Connessioni via seriale o via cavo saranno disponibili in versioni future." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <314> - English]
+"The frequency at which remote players are updated"
+
+[Phrase <314> - Italian]
+"La frequenza di aggiornamento dei giocatori remoti" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <315> - English]
+"Enter the name of the host terminal"
+
+[Phrase <315> - Italian]
+"Inserisci il nome del terminale host" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <316> - English]
+"All terminals must use the same port number"
+
+[Phrase <316> - Italian]
+"Tutti i terminali devono usare la stessa porta" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <317> - English]
+"Connect to a listening host"
+
+[Phrase <317> - Italian]
+"Collegati ad un host" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <318> - English]
+"Become a host and listen for connections"
+
+[Phrase <318> - Italian]
+"Diventa un host e accetta connessioni entranti" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <319> - English]
+"Display host name and IP configuration for this terminal"
+
+[Phrase <319> - Italian]
+"Mostra il nome host e la configurazione IP di questo terminale" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <320> - English]
+"Connect with these settings"
+
+[Phrase <320> - Italian]
+"Collegati con questi paramentri" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <321> - English]
+"Hide the network setup dialog box without disconnecting"
+
+[Phrase <321> - Italian]
+"Nascondi la finestra di connessione senza scollegarsi" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <322> - English]
+"Lists connected terminals, TCP errors, etc..."
+
+[Phrase <322> - Italian]
+"Elenca i terminali collegati, errori TCP/IP, ecc...." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <323> - English]
+"Delete the selected war"
+
+[Phrase <323> - Italian]
+"Cancella lo scenario selezionato" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <324> - English]
+"Open this war the next time MissionRisk starts"
+
+[Phrase <324> - Italian]
+"Apri questo scenario la prossima volta che lanci MissionRisk" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <325> - English]
+"Lock war to prevent accidental deletion"
+
+[Phrase <325> - Italian]
+"Blocca lo scenario per evitare cancellazioni involontarie" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <326> - English]
+"Credits"
+
+[Phrase <326> - Italian]
+"Credits"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <327> - English]
+"Message"
+
+[Phrase <327> - Italian]
+"Messaggio" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <328> - English]
+"Recipient Player(s)"
+
+[Phrase <328> - Italian]
+"Giocatori destinatari" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <329> - English]
+"Select recipient(s) of private messages"
+
+[Phrase <329> - Italian]
+"Seleziona i destinatari dei messaggi privati" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <330> - English]
+"Public"
+
+[Phrase <330> - Italian]
+"Pubblico" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <331> - English]
+"Send message to all terminals"
+
+[Phrase <331> - Italian]
+"Manda un messaggio a tutti i terminali"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <332> - English]
+"Private"
+
+[Phrase <332> - Italian]
+"Privato" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <333> - English]
+"Send message to terminals controlling selected army(s)"
+
+[Phrase <333> - Italian]
+"Manda un messaggio al terminale che controlla le armate selezionate" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <334> - English]
+"&Hide"
+
+[Phrase <334> - Italian]
+"&Nascondi" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <335> - English]
+"Type your message and press enter to send"
+
+[Phrase <335> - Italian]
+"Scrivi il tuo messaggio e premi enter per spedire" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <336> - English]
+"Close"
+
+[Phrase <336> - Italian]
+"Chiudi" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <337> - English]
+"MissionRisk Editor"
+
+[Phrase <337> - Italian]
+"MissionRisk Editor" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <338> - English]
+"Occupying army"
+
+[Phrase <338> - Italian]
+"armate occupanti" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <339> - English]
+"Units"
+
+[Phrase <339> - Italian]
+"Unita'" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <340> - English]
+"OK"
+
+[Phrase <340> - Italian]
+"OK" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <341> - English]
+"Register Now"
+
+[Phrase <341> - Italian]
+"Registrati Ora" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <342> - English]
+"Enter Code"
+
+[Phrase <342> - Italian]
+"Inserisci il codice" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <343> - English]
+"Register Later"
+
+[Phrase <343> - Italian]
+"Registrati in seguito" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <344> - English]
+"Active soon"
+
+[Phrase <344> - Italian]
+"Presto attivo" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <345> - English]
+"War Statistics"
+
+[Phrase <345> - Italian]
+"Statistiche di guerra" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <346> - English]
+"Not involved"
+
+[Phrase <346> - Italian]
+"non coinvolto" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <347> - English]
+"&End of war stats"
+
+[Phrase <347> - Italian]
+"&Statistiche di fine guerra" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <348> - English]
+"Countries conquered:"
+
+[Phrase <348> - Italian]
+"Paesi conquistati:" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <349> - English]
+"Countries surrendered:"
+
+[Phrase <349> - Italian]
+"Paesi che si sono arresi:" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <350> - English]
+"Enemy casualties:"
+
+[Phrase <350> - Italian]
+"I danni del nemico:" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <351> - English]
+"Your casualties:"
+
+[Phrase <351> - Italian]
+"I tuoi danni:" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <352> - English]
+"IP Information"
+
+[Phrase <352> - Italian]
+"Informazioni IP" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <353> - English]
+"CHEAT!"
+
+[Phrase <353> - Italian]
+"HAI BARATO!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <354> - English]
+"Score: "
+
+[Phrase <354> - Italian]
+"Punteggio: " 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <355> - English]
+"TOP SECRET"
+
+[Phrase <355> - Italian]
+"TOP SECRET"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <356> - English]
+"Your mission briefing is enclosed in this document."
+
+[Phrase <356> - Italian]
+"Il briefing del tuo Obiettivo e' contenuto in questo documento." 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <357> - English]
+"Ignore"
+
+[Phrase <357> - Italian]
+"Ignora" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <358> - English]
+"Open"
+
+[Phrase <358> - Italian]
+"Apri"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <359> - English]
+"&View"
+
+[Phrase <359> - Italian]
+"&Visualizza" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <360> - English]
+"&Mission reminder"
+
+[Phrase <360> - Italian]
+"&Ricordami l'Obiettivo" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <361> - English]
+"Terminal"
+
+[Phrase <361> - Italian]
+"Teerminale"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <362> - English]
+"the Red Army"
+
+[Phrase <362> - Italian]
+"armate rosse"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <363> - English]
+"the Green Army"
+
+[Phrase <363> - Italian]
+"armate verdi"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <364> - English]
+"the Blue Army"
+
+[Phrase <364> - Italian]
+"armate blu"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <365> - English]
+"the Yellow Army"
+
+[Phrase <365> - Italian]
+"armate gialle"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <366> - English]
+"the Purple Army"
+
+[Phrase <366> - Italian]
+"armate viola"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <367> - English]
+"the Gray Army"
+
+[Phrase <367> - Italian]
+"armate grigie" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <368> - English]
+"Rolling Dice"
+
+[Phrase <368> - Italian]
+"Stò tirando i dati" 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <369> - English]
+"Please select a language."
+
+[Phrase <369> - Italian]
+"Selezionare una lingua."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <370> - English]
+""
+
+[Phrase <370> - Italian]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Phrase <371> - English]
+""
+
+[Phrase <371> - Italian]
+""
+

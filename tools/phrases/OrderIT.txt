@@ -1,0 +1,75 @@
+MissionRisk Order Form (Modulo di ordinazione di MissionRisk)
+
+Paying by telephone (Pagando per telefono):
+Toll free in the US 
+(Faccia pagare gratuitamente negli Stati Uniti):	1-877-353-7297
+International (Internazionale):				(425) 392-2294
+You will need to quote the Product ID
+(Lei avrà bisogno di citare il Prodotto ID): 	1584-1
+Unit price (Prezzo di unità):			$12.00
+Processing fee (Tassa che tratta):		$3.00
+						---------
+TOTAL (TOTALE):					$15.00
+						---------
+
+Paying by cheque:
+Please make the check out to "RegisterNow". For international checks,
+we would prefer the funds be drawn in US dollars. If this is not
+possible, we will accept checks for a corresponding ammount in your
+country's currency.
+(Pagando da assegno bancario:
+Per favore estenda il controllo a " RegisterNow ". Per controlli internazionali,
+noi preferiremmo i fondi sia disegnato in dollari Stati Uniti. Se questo non è
+possibile, noi accetteremo controlli per un ammount corrispondente in Suo
+la moneta circolante di paese.)
+
+Unfortunately, Eurochecks are not accepted.
+(Sfortunatamente, Eurochecks non è accettato.)
+
+For mail orders or fax orders, fill in the information below and mail
+to:
+Per ordinazione per corrispondenza od ordini di facsimile, riempa nelle informazioni sotto e posta a:
+		RegisterNow
+		Dept# 1584-1
+		P.O. Box 1816 
+		Issaquah, WA 98027
+		United States of America 
+
+Or fax to (O faxa a):
+Toll free in the US
+(Faccia pagare gratuitamente negli Stati Uniti):	1-888-353-7276
+International (Internazionale):				(425) 392-0223
+
+Please fill in the following information 
+(Per favore riempa nelle informazioni seguenti):
+-------------------------------------------------------------------------
+Product ID (Prodotto ID):	1584-1
+Product name (Nome di prodotto):	MissionRisk
+
+User ID (Utente ID):	*If applicable*
+First Name (Prima il Nome):    
+Last Name (Ultimo Nome):    
+Company (Società):    
+Billing Address (Indirizzo che accredita):  
+  
+City (Città):    
+State/Province:    
+Zip/Postal Code:    
+Country (Paese):  
+Phone (Telefono):    
+Email Address (Indirizzo di e-mail):   *REQUIRED* 
+ 
+Order Information (Ordini Informazioni)  
+Quantity (Quantità): 	1      
+Unit price (Prezzo di unità):  	$12.00
+Processing fee (Tassa che tratta):	$2.50
+			--------
+TOTAL (TOTALE):		$14.50
+			--------
+
+Credit Card Information (Informazioni della Scheda del credito)	*If applicable*
+Name on Card (Chiami su Scheda):
+Type of Credit Card (Dattilografi di Scheda di Credito):
+Card Number (Numero di scheda):
+Expiration Date (Data di espirazione):
+-------------------------------------------------------------------------

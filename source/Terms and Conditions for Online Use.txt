@@ -1,0 +1,70 @@
+Please read the GlobalSiege Online Internet Usage Agreement carefully. It is not too long and painful. Most of the big legal words in the first half have been translated to plain English.
+
+By selecting "I Agree", you accept all the terms and conditions of this Agreement. If you do not agree, do not use this software online.
+
+Version: 1.0
+Date: 14th November 2011
+
+PART 1. ACCEPTABLE USE POLICY & LECTURE
+
+1.1 YOU ARE RESPONSIBLE FOR YOUR OWN ACTIONS
+
+While playing GlobalSiege online, you agree that YOU ARE WHOLLY RESPONSIBLE FOR YOUR OWN ACTIONS. Parts of the GlobalSiege Internetworking system can be classed as a public broadcasting system which means that you could be held liable for any slanderous and defamatory comments that you make against ANYONE while online. The author of this software and its suppliers accept no responsibility for any consequences of your online behavior and will mitigate any legal fallout by making available all relevant logs and data as requested by a legal entity in any district or country. In other words, I will not protect you if your comments offend someone and they decide to sue you. Remember that when you are online, you are not as anonymous as you may think. Someone with a court order can track you down from your IP address. Be mindful about what you say online, because some people are easily offended and unfortunately, some people will go to extreme measures to make a claim and take legal advantage of you whether they really were offended or not.
+
+1.2 THE SESSION HOST HAS ULTIMATE POWER AND FINAL SAY
+
+You agree that the player hosting a Session decides the rules of that Session, decides how the Session is to be played, decides who can join the Session and has the final say on any dispute or disagreement in that Session. If you do not like how a Session is being hosted, you should not participate in that Session. You are welcome to find and join another Session or to start your own Session and run it the way that you see fit. 
+
+1.3 GLOBALSIEGE IS ONLY A GAME
+
+You agree that GlobalSiege is a game where you will quite often loose against other players. Whether it is because of bad strategy or bad luck, if you do not like loosing, you should not play this game. Even top players occasionally roll a bad series of dice or find them selves dealt a bad setting. Great players consider this type of challenge a character building exercise and realize that you learn more from loosing than you do from winning. And remember, GlobalSiege is only a game. If you find yourself getting frustrated or angry with it or with other players, stop playing it.
+
+1.4 NUISANCE PLAYERS
+
+You agree that you as a player can be kicked out of Sessions and banned from Sessions at any time for any reason by Session Hosts and you can be voted out of Sessions by a majority vote by other Session participants. Nuisance players who keep getting banned from Sessions will be investigated and may need to explain why they should NOT have their accounts closed and deleted for ever. It may sound heavy handed but remember, I don't get paid for this and I don't have much time for players who can’t or don't want to get along with others.
+
+1.5 SESSION HOSTS
+
+You agree that as a Session Host, you should welcome anyone who wants to participate in your public Sessions. If you only want certain players to join then you should make your Session private by locking it with a password and you should hide your Session from the Internet when all participants have joined. Be responsible, considerate and as fair as reasonably possible to players who participate in your sessions. Never kick or ban players from your Session without a compelling reason. Try not to let players feel excluded or singled out otherwise you might end up with a bad reputation and find your self being alienated by other players. Keep in mind that it is human nature to exaggerate a bad experience to as many people as they can, including to me.
+
+PART 2. LEGAL AGREEMENT
+
+2.1 DEFENITIONS 
+
+When used in this agreement, the following terms have the respective meanings indicated, such meanings to be applicable to both the singular and plural forms of the terms defined:
+
+"Session" means an online GlobalSiege multiplayer session.
+
+"Licensor" means the software publisher, Doug Burner.
+
+"Licensee" means You or Your Company, unless otherwise indicated.
+
+2.2 YOUR PRIVACY
+
+Your email address, IP address and any personal data will not be forwarded to any third party without your written permission, unless that third party can produce a valid court order that can be independently verified. I hate spam as much as you do and I will protect your data and identity unless your actions put me in a bad legal position (see section 1.1). Your personal data will NEVER be given to ANYONE for financial gain.
+
+2.3 WARRANTY
+
+The Licensor warrants that:
+
+Burner Software owns the Software and documentation and/or is in possession of valid and existing licenses that support the terms of this Agreement; 
+
+To the best of the Licensor's knowledge, the Software does not infringe upon or violate any intellectual property right of any third party;
+
+The Software does not contain any back door, time bomb, drop dead device or other routine intentionally designed by the Licensor to disable a computer program, or computer instructions that alter, destroy or inhibit the processing environment.
+
+Except those warranties specified above, the Software is being delivered to the Licensee "AS IS" and the Licensor makes no warranty as to its use or performance.
+
+The Licensor and its suppliers do not and cannot warrant the performance or results the Licensee may obtain by using the Software. The entire risk arising out of use or performance of the Software remains with the Licensee.
+
+The Licensor gives no warranty, express or implied, that (i) the Software will be of satisfactory quality, suitable for any particular purpose or for any particular use under specified conditions, notwithstanding that such purpose, use, or conditions may be known to the Licensor; or (ii) that the Software will operate error free or without interruption or that any errors will be corrected.
+
+2.4 LIMITATION OF LIABILITY
+
+In no event will the Licensor or its suppliers be liable for any damages, claims or costs whatsoever or any consequential, indirect, incidental damages, or any lost profits or lost savings, even if the Licensor has been advised of the possibility of such loss, damages, claims or costs or for any claim by any third party. 
+
+In no event will the Licensee be liable to the Licensor on condition that the Licensee complies with all terms and conditions stated in this agreement.
+
+2.5 NON-WAIVER
+
+If a portion of this agreement is held unenforceable, the remainder shall be valid. It means that if one section of the Agreement is not lawful, the rest of the Agreement is still in force. A party's failure to exercise any right under this Agreement will not constitute a waiver of (a) any other terms or conditions of this Agreement, or (b) a right at any time thereafter to require exact and strict compliance with the terms of this Agreement.

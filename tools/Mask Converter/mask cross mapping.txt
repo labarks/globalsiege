@@ -1,0 +1,43 @@
+Country Name                Dest X        Dest Y        Width         Height        Src X         Src Y
+Alaska                         15          87            70            92            15            87 
+Northwest Territory            84          43            72            102           84            43 
+Greenland                      155         41            125           113           155           41 
+Alberta                        84          135           57            58            317           437 
+Ontario                        140         138           57            65            373           440 
+Quebec                         196         149           64            55            429           451 
+Western United States          93          186           54            69            93            186 
+Eastern United States          146         189           101           81            146           189 
+Central America                106         239           87            79            0             181 
+Venezuela                      160         301           80            40            0             44 
+Peru                           159         334           72            77            0             261 
+Brazil                         187         316           88            108           187           316 
+Argentina                      193         395           41            96            74            261 
+Iceland                        267         152           43            27            267           152 
+Great Britain                  290         185           42            45            290           185 
+Scandinavia                    329         141           46            64            329           141 
+Northern Europe                328         187           54            47            117           272 
+Western Europe                 297         218           53            48            173           269 
+Southern Europe                338         218           58            43            338           218 
+Ukraine                        355         137           101           117           280           0 
+North Africa                   277         261           82            92            277           261 
+Egypt                          336         265           68            45            0             338 
+East Africa                    347         300           80            87            0             384 
+Congo                          328         328           52            50            118           320 
+South Africa                   329         365           71            78            313           351 
+Madagascar                     401         365           33            55            401           365 
+Middle East                    376         222           83            98            92            378 
+Afghanistan                    429         199           72            84            176           424 
+India                          449         243           67            84            361           263 
+Siam                           505         276           63            68            251           426 
+Siberia                        511         97            93            128           436           308 
+Ural                           441         64            114           163           441           64 
+China                          484         211           113           93            561           0 
+Mongolia                       541         206           78            56            433           250 
+Irkutsk                        564         144           75            75            513           231 
+Yakutsk                        580         98            115           78            529           377 
+Japan                          616         199           52            62            381           142 
+Kamchatka                      609         101           135           129           609           101 
+Indonesia                      541         321           87            58            541           321 
+Western Australia              603         369           50            64            591           231 
+New Guinea                     626         335           71            31            626           335 
+Eastern Australia              644         368           50            86            644           368 

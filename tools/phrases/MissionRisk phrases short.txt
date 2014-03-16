@@ -1,0 +1,1417 @@
+[0.]
+Player
+
+[1.]
+The Red Army 
+
+[2.]
+The Green Army 
+
+[Rm3.] 
+
+
+[3.]
+The Blue Army 
+
+[4.]
+The Yellow Army 
+
+[5.]
+The Purple Army 
+
+[6.]
+The Gray Army 
+
+[7.]
+Human player
+
+[Rm8.]  Italian: Giocatoore computer: intelligenza media -Fra: L'ordinateur: l'intelligence moyenne.
+
+[8.]
+Average computer player
+
+[Rm9.]  Italian: Giocatore computer: molto intelligente -Fra: L'ordinateur: la haute intelligence.
+
+[9.]
+Smart computer player
+
+[10.]
+Players
+
+[11.]
+First player
+
+[12.]
+Random
+
+[13.]
+Player 1
+
+[14.]
+Cards
+
+[15.]
+Hidden
+
+[16.]
+None
+
+[Rm17.]  Fixed cards.
+
+[17.]
+Fixed
+
+[Rm18.]  Maximum value.
+
+[18.]
+Maximum
+
+[19.]
+War options
+
+[Rm20.] Available missions.
+
+[20.]
+Missions
+
+[21.]
+Limit supply lines
+
+[22.]
+Optimise defence dice
+
+[23.]
+Fast war
+
+[24.]
+Fast Dice
+
+[25.]
+Border shows player's color
+
+[26.]
+Declare War
+
+[27.]
+Cancel set up
+
+[28.]
+Remote player
+
+[29.]
+Join War
+
+[30.]
+Supply lines
+
+[31.]
+File
+
+[32.]
+New war...
+
+[33.]
+Exit
+
+[Rm34.] Initialize MissionRisk.
+
+[34.]
+MissionRisk Set Up... 
+
+[Rm35.] Spanish:Misión Riesgo -
+
+[35.]
+MissionRisk - 
+
+[Rm36.] French:Computer: Intelligent
+
+[36.]
+Intelligent computer player
+
+[37.]
+No file name has been specified
+
+[38.]
+Options
+
+[39.]
+Fast war
+
+[40.]
+Fast dice
+
+[41.]
+Border shows player's color
+
+[42.]
+3D display
+
+[Rm43.] Scroll automatically.
+
+[43.]
+Auto scroll
+
+[Rm44.] The file has been deleted or corrupted.
+
+[44.]
+ has been deleted or corrupted
+
+[45.]
+Missing file
+
+[46.]
+Missions
+
+[47.]
+See mission
+
+[Rm48.] File has been corrupted and cannot be opened.
+
+[48.]
+ has been corrupted and cannot be opened.
+
+[49.]
+Help
+
+[50.]
+Contents...
+
+[51.]
+Index...
+
+[52.]
+MissionRisk home page...
+
+[53.]
+MissionRisk registration
+
+[54.]
+Register MissionRisk online...
+
+[55.]
+Enter registration code...
+
+[56.]
+File error
+
+[57.]
+There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk.
+
+[Rm58.]  Transfer units
+
+[58.]
+ Transfer
+
+[59.]
+Attack
+
+[60.]
+Move
+
+[61.]
+Pass
+
+[62.]
+Exchange
+
+[63.]
+Cancel
+
+[Rm64.] X attacks Y.
+
+[64.]
+attacks
+
+[65.]
+<Click defending country>
+
+[Rm66.] X has WON THE GAME!
+
+[66.]
+has WON THE GAME!
+
+[Rm67.] By occupying and holding X.
+
+[67.]
+By occupying and holding
+
+[Rm68.] By occupying and holding 24 countries.
+
+[68.]
+24 countries.
+
+[Rm69.] By wiping out X.
+
+[69.]
+By wiping out 
+
+[Rm70.] You have X units to place.
+
+[70.]
+You have 
+
+[71.]
+ units to place.
+
+[72.]
+<Click destination country>
+
+[Rm73.] X moves to Y.
+
+[73.]
+moves 
+
+[74.]
+to 
+
+[75.]
+You must wipe out all other players and conquer the world.
+
+[Rm76.] Your mission is to wipe out X.
+
+[76.]
+Your mission is to wipe out 
+
+[77.]
+You must conquer Asia and South America and hold them until your next turn.
+
+[78.]
+You must conquer Asia and Africa and hold them until your next turn.
+
+[79.]
+You must conquer North America and Africa and hold them until your next turn.
+
+[80.]
+You must conquer North America and Australia and hold them until your next turn.
+
+[81.]
+You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn.
+
+[82.]
+You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn.
+
+[83.]
+You must occupy any 24 countries and hold them until your next turn.
+
+[84.]
+Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?
+
+[85.]
+Warning
+
+[86.]
+Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another 28  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?
+
+[87.]
+Welcome to MissionRisk v<Var.Maj>.<Var.Min>
+
+[88.]
+Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in 28 days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?
+
+[89.]
+Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details.
+
+[90.]
+The system date has been altered!
+
+[91.]
+MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM.
+
+[92.]
+Registration has expired.
+
+[93.]
+The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?
+
+[94.]
+Notice
+
+[95.]
+The <Var.Eval> day evaluation period has lapsed.
+
+[96.]
+Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?
+
+[Rm97.] 28days ago. French: il y a 28 jours.
+
+[97.]
+ days ago.
+
+[98.]
+PLEASE REGISTER
+
+[Rm99.] Terminate the program?
+
+[99.]
+Do you really want to QUIT?
+
+[100.]
+By dominating the world.
+
+[Rm101.] Attack X with 5 units.
+
+[101.]
+with 
+
+[102.]
+ units.
+
+[Rm103.] Attack X with 1 unit.
+
+[103.]
+ unit.
+
+[104.]
+<Click attacking country>
+
+[Rm105.] You have 1 unit to place.
+
+[105.]
+ unit to place.
+
+[Rm106.] X moves to Y.
+
+[106.]
+moves to 
+
+[Rm107.] X moves to Y from Z.
+
+[107.]
+ from
+
+[Rm108.] Click starting territory. Click initial territory. Click initial country.
+
+[108.]
+<Click source country>
+
+[Rm109.] Click attacking countries. Click attacking country. Click attacking territory.
+
+[109.]
+<Click attacking country(s)>
+
+[110.]
+Retreats 0 units from
+
+[111.]
+Retreats
+
+[Rm112.] X retreats 5 units from Y.
+
+[112.]
+ units from
+
+[Rm113.] X retreats 1 unit from Y.
+
+[113.]
+ unit from
+
+[Rm114.] X has 5 units left.
+
+[114.]
+ units left.
+
+[Rm115.] X has 1 unit left.
+
+[115.]
+ unit  left.
+
+[Rm116.] X belongs to Y, which has a value of 5 units.
+
+[116.]
+Belongs to 
+
+[117.]
+which has a value of
+
+[Rm118.] Currently occupied by X.
+
+[118.]
+Currently occupied by 
+
+[119.]
+SPRUNG!
+
+[120.]
+Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!
+
+[121.]
+Stop peeking!
+
+[122.]
+NO! My mission!
+You must wait until it's your turn to see what your mission is!
+
+[123.]
+Conspiracy
+
+[124.]
+This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is.
+
+[125.]
+NO!
+
+[126.]
+My mission! I finish it! You just wait until your turn and finish your own mission!
+
+[127.]
+Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!
+
+[128.]
+You intolerable species
+
+[Rm129.] X's turn.
+
+[129.]
+'s turn.
+
+[Rm130.] Controlling cards.
+
+[130.]
+Checking cards
+
+[Rm131.] You must trade cards.
+
+[131.]
+     YOU MUST
+  TRADE CARDS
+
+[Rm132.] Swap cards for 5 units?
+
+[132.]
+Trade cards in for
+
+[133.]
+ units?
+
+[134.]
+  Re-shuffling cards.
+
+[135.]
+Used risk cards are being collected, re-shuffled and put back in the pack.
+
+[Rm136.] Don't show this message any more.
+
+[136.]
+Don't show any more.
+
+[137.]
+You need more players than that.
+
+[138.]
+There are still some countries left.
+
+[139.]
+Setting up the board...
+
+[140.]
+Name
+
+[141.]
+Registration code
+
+[Rm142.] Available scenarios.
+
+[142.]
+Available wars
+
+[143.]
+Delete
+
+[Rm144.] Open scenario
+
+[144.]
+Open war...
+
+[145.]
+Make this the default war
+
+[146.]
+Description
+
+[Rm147.] Save scenario as...
+
+[147.]
+Save war as...
+
+[Rm148.] Title of scenario.
+
+[148.]
+Title of war
+
+[149.]
+Save
+
+[Rm150.] Player option box for the Red army. Player option box for the Green army.
+
+[150.]
+Player option box for the 
+
+[Rm151.] Number of territories that this army starts with.
+
+[151.]
+Number of countries this army starts with
+
+[Rm152.] Increase starting countries. Decrease starting countries.
+
+[152.]
+Increment/decrement starting countries
+
+[153.]
+Change the number of starting players
+
+[154.]
+How many players are going to war
+
+[155.]
+Random selection of the first player
+
+[156.]
+Player 1 - the red army is the first player
+
+[157.]
+The cards option box
+
+[Rm158.] Other players cannot see your cards when selected.
+
+[158.]
+Other players cannot see your cards when checked
+
+[Rm159.] Cards are not issued when selected.
+
+[159.]
+Cards are not issued when checked
+
+[Rm160.] Value of cards do not change when selected.
+
+[160.]
+Value of cards do not change when checked
+
+[161.]
+Value of cards increases whith every set turned in
+
+[162.]
+Sets the maximum card value
+
+[163.]
+The war options box
+
+[Rm164.] All players are issued with secret missions when selected.
+
+[164.]
+All players are issued with secret missions when checked
+
+[Rm165.] Limit army movements.
+
+[165.]
+Limits army movements
+
+[166.]
+Look at the attack dice and decide how many defence dice to throw
+
+[Rm167.] The speed of the computer players.
+
+[167.]
+Speed of computer players
+
+[168.]
+Speed at which the dice are thrown
+
+[Rm169.] Border indicates player's color. This can be annoying!
+
+[169.]
+Border flashes player's color (can be annoying!)
+
+[170.]
+Start new war with these settings
+
+[171.]
+Exit with the previous settings
+
+[172.]
+Reshuffle notice
+
+[173.]
+Select language...
+
+[Rm174.] Replay last turn.
+
+[174.]
+Start turn again
+
+[Rm175.] Reset the scenario.
+
+[175.]
+Reset war
+
+[176.]
+Capture players’ cards when you wipe out their last unit
+
+[177.]
+Increasing
+
+[178.]
+Capture
+
+[179.]
+No supply lines
+
+[Rm180.] No restrictions are placed on army movements.
+
+[180.]
+No restrictions on army movements
+
+[Rm181.] Value of cards:
+
+[181.]
+Current value: 
+
+[Rm182.] This program is registered to X.
+
+[182.]
+This program is registered to 
+
+[Rm183.] Thank you for registering Missionrisk.
+
+[183.]
+Thank you for registering.
+
+[184.]
+ALL
+
+[185.]
+Copyright© 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties.
+
+[186.]
+Distribute extra starting units
+
+[187.]
+Extra starting units are randomly distributed over each players' territories.
+
+[188.]
+Extra units
+
+[Rm189.] X wants to keep going.
+
+[189.]
+ wants to keep going
+
+[Rm190.] X wants to keep the mission a secret!
+
+[190.]
+ wants to keep the mission a secret!
+
+[Rm191.] Quit this scenario?
+
+[191.]
+Do you really want to quit this war?
+
+[Rm192.] Do you relly want to delete X?
+
+[192.]
+Are you sure you want to delete 
+
+[Rm193.] Are you serious?
+
+[193.]
+Are you sure?
+
+[194.]
+Open war
+
+[195.]
+Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?
+
+[196.]
+AI interupt request
+
+[Rm197.] Version 2.5.
+
+[197.]
+Version 
+
+[Rm198.] Hi X.
+
+[198.]
+Hi 
+
+[Rm199.] Your previous MissionRisk registration has been found and validated.
+
+[199.]
+your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file.
+
+[200.]
+Open
+
+[201.]
+Tool box
+
+[202.]
+New war
+
+[203.]
+Reset war
+
+[204.]
+Open
+
+[205.]
+Save
+
+[Rm206.] Fast war. Press + and - to adjust speed.
+
+[206.]
+Fast war (press + and - to adjust speed)
+
+[Rm207.] Fast dice. Press + and - to adjust speed.
+
+[207.]
+Fast dice (press + and - to adjust speed)
+
+[208.]
+Auto scroll
+
+[Rm209.] Replay last turn.
+
+[209.]
+Start turn again
+
+[210.]
+Help
+
+[211.]
+Please re-enter your MissionRisk registration code.
+
+[212.]
+New version update
+
+[213.]
+<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing.
+
+[214.]
+
+    > PAUSED <
+
+[215.]
+Could not find a browser.
+
+[216.]
+Web Page 'http://www.missionrisk.com' not Opened
+
+[217.]
+Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened
+
+[Rm218.] A file error has occured. Perhaps X has been corrupted in some way.
+
+[218.]
+A file error has occured. Perhaps 
+
+[219.]
+ has been corrupted in some way.
+
+[220.]
+Error
+
+[221.]
+Setup
+
+[222.]
+Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted.
+
+[223.]
+Asia and South America.
+
+[224.]
+Asia and Africa.
+
+[225.]
+North America and Africa.
+
+[Rm226.] North America and Australia.
+
+[226.]
+North America and 
+Australia.
+
+[Rm227.] Europe, South America and a third continent.
+
+[227.]
+Europe, South America 
+and a third continent.
+
+[Rm228.] Europe, Australia and a third continent.
+
+[228.]
+Europe, Australia and 
+a third continent.
+
+[Rm229.] The IP information of your work computer not be found.
+
+[229.]
+Your terminal's IP information could not be found.
+
+[Rm230.] Computer. Work station. Workstation.
+
+[230.]
+Terminal 
+
+[Rm231.] Computer 5 has connected.
+
+[231.]
+ has connected.
+
+[232.]
+An error has occured
+
+[233.]
+Each client should have their own unique registration licence.
+
+[234.]
+Please register
+
+[235.]
+Host
+
+[236.]
+ >> Your are 
+
+[Rm237.] The computer's Host Name is 555.
+
+[237.]
+Terminal Host Name is 
+
+[238.]
+Click <IP info...> for more information.
+
+[239.]
+Do you want to close all connections?
+
+[240.]
+Please enter the name or IP address of the host
+
+[241.]
+Missing information
+
+[242.]
+Disconnect
+
+[Rm243.] Connecting to X.
+
+[243.]
+Connecting to 
+
+[244.]
+Please restart this session.
+
+[245.]
+Error... Address violation
+
+[246.]
+Connection closed.
+
+[247.]
+All connections closed.
+
+[248.]
+Listening for connections.
+
+[249.]
+Another aplication could be using this port
+
+[250.]
+Address violation
+
+[251.]
+Listen
+
+[252.]
+Connect
+
+[253.]
+Connection has been lost.
+
+[Rm254.] X has disconnected.
+
+[254.]
+ has disconnected.
+
+[Rm255.] The buffer is too full.
+
+[255.]
+Buffer overflow error has occured.
+
+[256.]
+Connection established.
+
+[Rm257.] No, Please try again.
+
+[257.]
+No, Please try again
+
+[258.]
+No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)
+
+[Rm259.] System information is unavailable at this time.
+
+[259.]
+System Information Is Unavailable At This Time
+
+[Rm260.]  Cheat mode has been activated.
+
+[260.]
+** Cheat mode activated **
+
+[Rm261.] An error occured while deleting X.
+
+[261.]
+An error occured while deleting 
+
+[262.]
+It might be already opened.
+
+[Rm263.] X already exists.
+
+[263.]
+ already exists.
+
+[264.]
+Overwrite any way?
+
+[265.]
+Save as...
+
+[Rm266.] X cannot be modified or deleted.
+
+[266.]
+ cannot be modified or deleted.
+
+[267.]
+Advanced...
+
+[268.]
+Network setup...
+
+[Rm269.] Compose a message.
+
+[269.]
+Compose message...
+
+[Rm270.] The map of continents.
+
+[270.]
+Continent map
+
+[Rm271.] Information
+
+[271.]
+About
+
+[Rm272.] Change the number of players.
+
+[272.]
+Change the number of starting players.
+
+[273.]
+Advanced options...
+
+[274.]
+Advanced war options
+
+[275.]
+Mission Options
+
+[276.]
+Graphics Options
+
+[277.]
+Include army wipe out missions.
+
+[278.]
+Include conquer and hold missions.
+
+[Rm279.] You must complete your own mission to win.
+
+[279.]
+Must complete own mission to win.
+
+[Rm280.] You win immediately upon completing your mission.
+
+[280.]
+Win immediately upon completing mission.
+
+[Rm281.] Change the saturation of green.
+
+[281.]
+Change green saturation.
+
+[Rm282.] Change the saturation of yellow.
+
+[282.]
+Change yellow saturation.
+
+[Rm283.] Change the luminosity of gray.
+
+[283.]
+Change gray luminosity.
+
+[284.]
+Large font size.
+
+[Rm285.] An option to include a secret mission, where the object is to kill another player.
+
+[285.]
+Include missions where you have to wipe out the last unit of another player
+
+[Rm286.] An option to include a secret mission, where the object is to capture certain continents and hold them until it is your next turn.
+
+[286.]
+Include missions where you have to conquer territories and hold them until your next turn
+
+[287.]
+You do not win when an opponent wipes out your target army for you.
+
+[288.]
+After wiping out a target army, you must wait until your next turn to win when unchecked.
+
+[289.]
+Lighten or darken the color of the Green Army.
+
+[290.]
+Lighten or darken the color of the Yellow Army.
+
+[291.]
+Lighten or darken the color of the Gray Army.
+
+[292.]
+Change the font size used to print country scores.
+
+[293.]
+MissionRisk network setup
+
+[294.]
+Connection options
+
+[295.]
+Connection type
+
+[296.]
+Refresh rate
+
+[297.]
+Settings
+
+[298.]
+Session history
+
+[Rm299.] Name or IP address of host.
+
+[299.]
+Name or IP address of host
+
+[Rm300.] Port number.
+
+[300.]
+Port number
+
+[Rm301.] Join a war.
+
+[301.]
+Join a war
+
+[Rm302.] Host a war.
+
+[302.]
+Host a war
+
+[303.]
+TCP / IP
+
+[304.]
+Modem
+
+[305.]
+Serial
+
+[306.]
+High
+
+[307.]
+Medium
+
+[308.]
+Low
+
+[309.]
+IP Info...
+
+[310.]
+Connect
+
+[311.]
+OK
+
+[Rm312.] A network war must have 1 host.
+
+[312.]
+Network war must have 1 host
+
+[313.]
+Modem and direct serial connections will be available in future versions
+
+[314.]
+The frequency at which remote players are updated.
+
+[315.]
+Enter the name of the host terminal.
+
+[316.]
+All terminals must use the same port number.
+
+[317.]
+Connect to a listening host.
+
+[318.]
+Become a host and listen for connections.
+
+[319.]
+Display host name and IP configuration for this terminal.
+
+[320.]
+Connect with these settings
+
+[321.]
+Hide the network setup dialog box without disconnecting.
+
+[322.]
+Lists connected terminals, TCP errors, etc...
+
+[323.]
+Delete the selected war.
+
+[324.]
+Open this war the next time MissionRisk starts.
+
+[325.]
+Lock war to prevent accidental deletion.
+
+[326.]
+Credits
+
+[327.]
+Message
+
+[Rm328.] Recipient Player. Recipient Players.
+
+[328.]
+Recipient Player(s)
+
+[Rm329.] Select recipient of private messages. Select recipients of private messages.
+
+[329.]
+Select recipient(s) of private messages
+
+[330.]
+Public
+
+[Rm331.] Send message to all terminals.
+
+[331.]
+Send message to all terminals
+
+[332.]
+Private
+
+[Rm333.] Send message to terminals controlling selected army. Send message to terminals controlling selected armies.
+
+[333.]
+Send message to terminals controlling selected army(s)
+
+[334.]
+Hide
+
+[Rm335.] Type your message and then press enter to send.
+
+[335.]
+Type your message and press enter to send
+
+[336.]
+Close
+
+[337.]
+MissionRisk Editor
+
+[338.]
+Occupying army
+
+[339.]
+Units
+
+[340.]
+OK
+
+[341.]
+Register Now
+
+[342.]
+Enter Code
+
+[343.]
+Register Later
+
+[344.]
+Active soon
+
+[345.]
+War Statistics
+
+[346.]
+Not involved
+
+[Rm347.] End of war statistics.
+
+[347.]
+End of war stats
+
+[348.]
+Countries conquered:
+
+[349.]
+Countries surrendered:
+
+[350.]
+Enemy casualties:
+
+[351.]
+Your casualties:
+
+[352.]
+IP Information
+
+[Rm353.]  Italian: If it's a command, otherwise if is a warning like I CAUGHT YOU then is HAI BARATO!
+
+[353.]
+CHEAT!
+
+[354.]
+Score: 
+
+[Rm355.] Ultra secret.
+
+[355.]
+TOP SECRET
+
+[356.]
+Your mission briefing is enclosed in this document.
+
+[357.]
+Ignore
+
+[Rm358.]  Open mission briefing
+
+[358.]
+Open
+
+[359.]
+View
+
+[360.]
+Mission reminder
+
+[Rm361.] A computer when connected to a network: example -I sit at this **terminal** to play MR- The context that it is used in: -Terminal 1 has connected to the network-. Computer.
+
+[361.]
+Terminal
+
+[Rm362.] The Red Army. The red army.
+
+[362.]
+the Red Army
+
+[Rm363.] The Green Army. The green army.
+
+[363.]
+the Green Army
+
+[364.]
+the Blue Army
+
+[365.]
+the Yellow Army
+
+[366.]
+the Purple Army
+
+[367.]
+the Gray Army
+
+[368.]
+Rolling Dice
+
+[Rm369.] Not actually used directly. IT:
+
+[369.]
+Please select a language.
+
+[Rm370.]  IT:Suggerimento: Taglio e colla direttamente dalla vostra forma di registro.
+
+[370.]
+Hint: Cut and paste directly from your registration form.
+
+[Rm371.]  French is not available yet: Français n'est pas disponible cependant.
+
+[371.]
+Victory!
+
+[372.]
+
+
+[373.]
+
+

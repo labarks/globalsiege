@@ -1,0 +1,16 @@
+French translations were compiled by using a computer program. Please send me an email if you find any mistakes.
+
+Border shows player's color.
+Frame shows player's color.
+Frame is color of player's turn.
+Frame is color of player.
+Background shows player's color.
+
+
+Les traductions françaises ont été compilées en utilisant un programme d'ordinateur. S'il vous plaît envoyez-moi un email si vous trouvez des erreurs.
+
+La couleur de joueur des spectacles de la frontière.
+La couleur de joueur des spectacles du cadre.
+Le cadre est couleur du tour de joueur.
+Le cadre est couleur de joueur.
+L'arrière plan montre la couleur de joueur.

@@ -1,0 +1,3452 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <0> - English]
+"Player"
+
+[Phrase <0> - Translation]
+"Jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "e"
+
+[Phrase <1> - English]
+"The Red Army "
+
+[Phrase <1> - Translation]
+"Ejército Rojo "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "e"
+
+[Phrase <2> - English]
+"The Green Army "
+
+[Phrase <2> - Translation]
+"Ejército Verde "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "e"
+
+
+[Phrase <3> - English]
+"The Blue Army "
+
+[Phrase <3> - Translation]
+"Ejército Azul "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "e"
+
+[Phrase <4> - English]
+"The Yellow Army "
+
+[Phrase <4> - Translation]
+"Ejército Amarillo "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "e"
+
+[Phrase <5> - English]
+"The Purple Army "
+
+[Phrase <5> - Translation]
+"Ejército Púrpura "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the "e"
+
+[Phrase <6> - English]
+"The Gray Army "
+
+[Phrase <6> - Translation]
+"Ejército Gris "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <7> - English]
+"Human player"
+
+[Phrase <7> - Translation]
+"Jugador Humano"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark:  
+
+[Phrase <8> - English]
+"Average computer player"
+
+[Phrase <8> - Translation]
+"Jugador Computadora Nivel Promedio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark:  Italian: Giocatore computer: molto intelligente
+
+[Phrase <9> - English]
+"Smart computer player"
+
+[Phrase <9> - Translation]
+"Jugador Computadora Nivel Sagaz"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <10> - English]
+"Players"
+
+[Phrase <10> - Translation]
+"Jugadores"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <11> - English]
+"First player"
+
+[Phrase <11> - Translation]
+"Primer Jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <12> - English]
+"Random"
+
+[Phrase <12> - Translation]
+"Azar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <13> - English]
+"Player 1"
+
+[Phrase <13> - Translation]
+"Jugador Uno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <14> - English]
+"Cards"
+
+[Phrase <14> - Translation]
+"Tarjetas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <15> - English]
+"Hidden"
+
+[Phrase <15> - Translation]
+"Oculto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: Carefull with this word, to make sense in the paragraph
+
+[Phrase <16> - English]
+"None"
+
+[Phrase <16> - Translation]
+"Ninguno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: Same the preceding remark
+
+[Phrase <17> - English]
+"Fixed"
+
+[Phrase <17> - Translation]
+"Fijo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <18> - English]
+"Maximum"
+
+[Phrase <18> - Translation]
+"Maximo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <19> - English]
+"War options"
+
+[Phrase <19> - Translation]
+"Opciones de guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "o"
+
+[Phrase <20> - English]
+"Missions"
+
+[Phrase <20> - Translation]
+"Misión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <21> - English]
+"Limit supply lines"
+
+[Phrase <21> - Translation]
+"Líneas de abastecimiento limitadas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "o"
+
+[Phrase <22> - English]
+"Optimise defence dice"
+
+[Phrase <22> - Translation]
+"Dados de defensa óptimos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the "a"
+
+[Phrase <23> - English]
+"Fast war"
+
+[Phrase <23> - Translation]
+"Guerra rápida"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <24> - English]
+"Fast Dice"
+
+[Phrase <24> - Translation]
+"Dados rápidos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <25> - English]
+"Border shows player's color"
+
+[Phrase <25> - Translation]
+"El borde muestra el color del jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <26> - English]
+"&Declare War"
+
+[Phrase <26> - Translation]
+"&Declare la Guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <27> - English]
+"&Cancel set up"
+
+[Phrase <27> - Translation]
+"Cancelar activa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <28> - English]
+"Remote player"
+
+[Phrase <28> - Translation]
+"Jugador remoto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <29> - English]
+"Join &War"
+
+[Phrase <29> - Translation]
+"Unir &guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "i"
+
+[Phrase <30> - English]
+"Supply lines"
+
+[Phrase <30> - Translation]
+"Líneas de reaprovisionamiento"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <31> - English]
+"&File"
+
+[Phrase <31> - Translation]
+"&Archivo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <32> - English]
+"&New war..."
+
+[Phrase <32> - Translation]
+"&Nueva guerra..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <33> - English]
+"E&xit"
+
+[Phrase <33> - Translation]
+"S&alir"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "o"
+
+[Phrase <34> - English]
+"MissionRisk Set Up... "
+
+[Phrase <34> - Translation]
+"Misión Riesgo activada..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <35> - English]
+"MissionRisk - "
+
+[Phrase <35> - Translation]
+"Misión Riesgo - "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <36> - English]
+"Intelligent computer player"
+
+[Phrase <36> - Translation]
+"Jugador computadora inteligente"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the "o"
+
+[Phrase <37> - English]
+"No file name has been specified"
+
+[Phrase <37> - Translation]
+"No se especificó nombre de archivo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <38> - English]
+"&Options"
+
+[Phrase <38> - Translation]
+"&Opciones"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "a"
+
+[Phrase <39> - English]
+"Fast &war"
+
+[Phrase <39> - Translation]
+"&Guerra rápida"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "a"
+
+[Phrase <40> - English]
+"Fast &dice"
+
+[Phrase <40> - Translation]
+"&Dados rápidos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <41> - English]
+"&Border shows player's color"
+
+[Phrase <41> - Translation]
+"El &borde muestra el color del jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <42> - English]
+"3D displa&y"
+
+[Phrase <42> - Translation]
+"pantall&a 3D"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: this have no traduction
+
+[Phrase <43> - English]
+"&Auto scroll"
+
+[Phrase <43> - Translation]
+"&Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <44> - English]
+" has been deleted or corrupted"
+
+[Phrase <44> - Translation]
+" fue borrado o corrompido"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <45> - English]
+"Missing file"
+
+[Phrase <45> - Translation]
+"Archivo perdido"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <46> - English]
+"Mi&ssions"
+
+[Phrase <46> - Translation]
+"Mi&siones"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "o"
+
+[Phrase <47> - English]
+"&See mission"
+
+[Phrase <47> - Translation]
+"&Ver misión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the a
+
+[Phrase <48> - English]
+" has been corrupted and cannot be opened."
+
+[Phrase <48> - Translation]
+" fue corrompido y no se abrirá"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <49> - English]
+"&Help"
+
+[Phrase <49> - Translation]
+"&Ayuda"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <50> - English]
+"&Contents..."
+
+[Phrase <50> - Translation]
+"&Contenidos..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <51> - English]
+"&Index..."
+
+[Phrase <51> - Translation]
+"&Indice..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "a" y la "o"
+
+[Phrase <52> - English]
+"&MissionRisk home page..."
+
+[Phrase <52> - Translation]
+"&página origen de Misión Riesgo..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "o"
+
+[Phrase <53> - English]
+"MissionRisk &registration"
+
+[Phrase <53> - Translation]
+"&inscripción en Misión Riesgo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the o and the i
+
+[Phrase <54> - English]
+"Register MissionRisk &online..."
+
+[Phrase <54> - Translation]
+"inscripción en Misión Riesgo &en línea..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the o
+
+[Phrase <55> - English]
+"&Enter registration code..."
+
+[Phrase <55> - Translation]
+"&Ingrese código de registro..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <56> - English]
+"File error"
+
+[Phrase <56> - Translation]
+"Error en el archivo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: note the accent in the o
+
+[Phrase <57> - English]
+"There was an error reading the file 'Risk44INI.dat'. It is either missing or corrupted. Please re-instal MissionRisk."
+
+[Phrase <57> - Translation]
+"Hubo un error en la lectura del archivo 'Risk44INI.dat'. Esta perdido o corrompido. Por favor reinstale Misión Riesgo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <58> - English]
+" Transfer"
+
+[Phrase <58> - Translation]
+" Transferencia"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <59> - English]
+"&Attack"
+
+[Phrase <59> - Translation]
+"&Ataque"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <60> - English]
+"&Move"
+
+[Phrase <60> - Translation]
+"&Mover"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <61> - English]
+"&Pass"
+
+[Phrase <61> - Translation]
+"&Pasar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <62> - English]
+"Exchange"
+
+[Phrase <62> - Translation]
+"Intercambio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <63> - English]
+"Cancel"
+
+[Phrase <63> - Translation]
+"Cancelar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <64> - English]
+"attacks"
+
+[Phrase <64> - Translation]
+"ataques"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <65> - English]
+"<Click defending country>"
+
+[Phrase <65> - Translation]
+"<Señale país atacado>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: In our language, '!' begin with '¡'
+
+[Phrase <66> - English]
+"has WON THE GAME!"
+
+[Phrase <66> - Translation]
+"¡ha GANADO EL JUEGO!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <67> - English]
+"By occupying and holding"
+
+[Phrase <67> - Translation]
+"Por ocupar y mantener"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: note the accent in the "i"
+
+[Phrase <68> - English]
+"24 countries."
+
+[Phrase <68> - Translation]
+"24 países."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <69> - English]
+"By wiping out "
+
+[Phrase <69> - Translation]
+"Por aniquilación "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <70> - English]
+"You have "
+
+[Phrase <70> - Translation]
+"Usted tiene "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <71> - English]
+" units to place."
+
+[Phrase <71> - Translation]
+" unidades a incorporar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <72> - English]
+"<Click destination country>"
+
+[Phrase <72> - Translation]
+"<Señale país destino>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <73> - English]
+"moves "
+
+[Phrase <73> - Translation]
+"movimientos "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <74> - English]
+"to "
+
+[Phrase <74> - Translation]
+"a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <75> - English]
+"You must wipe out all other players and conquer the world."
+
+[Phrase <75> - Translation]
+"Usted debe aniquilar a todos los demás jugadores y conquistar el mundo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <76> - English]
+"Your mission is to wipe out "
+
+[Phrase <76> - Translation]
+"Su misión es aniquilar a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <77> - English]
+"You must conquer Asia and South America and hold them until your next turn."
+
+[Phrase <77> - Translation]
+"Debe conquistar Asia y Sudamérica y mantenerlas hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <78> - English]
+"You must conquer Asia and Africa and hold them until your next turn."
+
+[Phrase <78> - Translation]
+"Debe conquistar Asia y Africa y mantenerlas hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <79> - English]
+"You must conquer North America and Africa and hold them until your next turn."
+
+[Phrase <79> - Translation]
+"Debe conquistar Norteamérica y África y mantenerlas hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <80> - English]
+"You must conquer North America and Australia and hold them until your next turn."
+
+[Phrase <80> - Translation]
+"Debe conquistar Norteamérica y Australia y mantenerlas hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <81> - English]
+"You must conquer Europe, South America and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <81> - Translation]
+"Debe conquistar Europa, Sudamérica y a cualquier tercer contendiente de su elección y mantenerse hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <82> - English]
+"You must conquer Europe, Australia and any 3rd continent of your choice and hold them until your next turn."
+
+[Phrase <82> - Translation]
+"Debe conquistar Europa, Australia y a cualquier tercer contendiente de su elección y mantenerse hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <83> - English]
+"You must occupy any 24 countries and hold them until your next turn."
+
+[Phrase <83> - Translation]
+"Debe ocupar cuales quiera 24 países y mantenerlo hasta su próximo turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Translation: In Translation, '?' begin with '¿'
+
+[Phrase <84> - English]
+"Your system pallet should be set to HIGH COLOR for 3D rendering. Do you wish to continue changing to the 3D display mode?"
+
+[Phrase <84> - Translation]
+"La paleta de su sistema debe ser puesta en COLOR MÁXIMO para recreación 3D. ¿Desea continuar cambiando a modo pantalla 3D?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <85> - English]
+"Warning"
+
+[Phrase <85> - Translation]
+"Cuidado"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <86> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it.
+
+An older version of MissionRisk has been detected.
+
+You are hereby granted with another 28  day evaluation licence which starts from now.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <86> - Translation]
+"Gracias por evaluar Misión Riesgo v<Var.Maj>.<Var.Min>. Espero disfruten jugando este juego.
+
+Por favor no olvide inscribir este programa si desea hacerlo.
+
+Se detectaron versiones anteriores de Misión Riesgo.
+
+Se le garantizan una licencia de 28 días de evaluación a partir de ahora."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <87> - English]
+"Welcome to MissionRisk v<Var.Maj>.<Var.Min>"
+
+[Phrase <87> - Translation]
+"Bienvenido a Misión Riesgo v<Var.Maj>.<Var.Min>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <88> - English]
+"Thank you for evaluating MissionRisk v<Var.Maj>.<Var.Min>. I hope you enjoy playing this game.
+
+Please don't forget to register this program if you like it. The evaluation licence expires in 28 days from now.
+
+MissionRisk will still be playable after this period, however you will be in breach of the licence agreement.
+
+Would you like to see the MissionRisk HELP file?"
+
+[Phrase <88> - Translation]
+" Gracias por evaluar Misión Riesgo v<Var.Maj>.<Var.Min>. Espero disfruten jugando este juego.
+
+Por favor no olvide inscribir este programa si desea hacerlo. La licencia de evaluación expira en 28 días a partir de ahora.
+
+Misión Riesgo continuará siendo ejecutable después de este período, sin embargo estará violando la licencia.
+
+¿Desearía ver la ayuda de Misión Riesgo?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <89> - English]
+"Your system color pallet is not set for HI COLOR, which means that MissionRisk can only render graphics in 2D.
+
+If you would like 3D rendering, you can change your pallet settings from the display options box in the control panel. See the help file for more details."
+
+[Phrase <89> - Translation]
+"Su paleta de color del sistema no está puesta a COLOR MAXIMO, lo que significa que Misión Riesgo solo puede recrear gráficos en 2D.
+
+Si deseara recreaciones 3D, debe cambiar su paleta desde la caja de opciones de pantalla en el panel de control. Vea el archivo de ayuda para mas detalles."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <90> - English]
+"The system date has been altered!"
+
+[Phrase <90> - Translation]
+"¡La fecha del sistema ha sido alterada!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <91> - English]
+"MissionRisk is still not REISTERED!
+
+PLEASE REGISTER THIS PROGRAM."
+
+[Phrase <91> - Translation]
+"¡Misión Riesgo aun no ha sido INSCRIPTO!
+
+POR FAVOR INSCRIBA ESTE PROGRAMA."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <92> - English]
+"Registration has expired."
+
+[Phrase <92> - Translation]
+"La inscripción ha expirado."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <93> - English]
+"The <Var.Eval> day evaluation period has lapsed. Several key features of MissionRisk will be disabled within the next few days.
+
+To continue using MissionRisk legally and with full functionality, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <93> - Translation]
+"El <Var.Eval> día del período de evaluación ha transcurrido. Varias teclas características de Misión Riesgo se desactivarán en los próximos días.
+
+Para continuar usando Misión Riesgo legalmente y totalmente funcional, deberá inscribir su copia pagando una pequeña suma al autor ($12US). Su inscripción financiará y alentará futuras investigaciones y desarrollos de este programa.
+Se encontrará mas información en el archivo de ayuda.
+
+Puede inscribirse en línea con su tarjeta de crédito. ¿Desea registrarse ahora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <94> - English]
+"Notice"
+
+[Phrase <94> - Translation]
+"Aviso"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <95> - English]
+"The <Var.Eval> day evaluation period has lapsed."
+
+[Phrase <95> - Translation]
+"El <Var.Eval> día del período de evaluación ha transcurrido."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <96> - English]
+"Several key features of MissionRisk have been disabled.
+
+To continue using MissionRisk legally and with full functionality restored, you must register your copy by paying a small amount to the author ($12US). Your registration will support and encourage further research and development of this program.
+More information can be found in the help file.
+
+You can register online with your credit card. Would you like to register now?"
+
+[Phrase <96> - Translation]
+"Varias teclas características de Misión Riesgo se han desactivado.
+
+Para continuar usando Misión Riesgo legalmente y totalmente funcional, debe inscribir su copia pagando una pequeña suma al autor ($12US). Su inscripción financiará y alentará la investigación y desarrollo de este programa.
+
+Puede inscribirse en línea con su tarjeta de crédito. ¿Desea inscribirse ahora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <97> - English]
+" days ago."
+
+[Phrase <97> - Translation]
+" días pasados."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <98> - English]
+"PLEASE REGISTER"
+
+[Phrase <98> - Translation]
+"POR FAVOR INSCRÍBASE"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <99> - English]
+"Do you really want to QUIT?"
+
+[Phrase <99> - Translation]
+"¿Realmente desea SALIR?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <100> - English]
+"By dominating the world."
+
+[Phrase <100> - Translation]
+"Por dominación del mundo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <101> - English]
+"with "
+
+[Phrase <101> - Translation]
+"con "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <102> - English]
+" units."
+
+[Phrase <102> - Translation]
+" unidades."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <103> - English]
+" unit."
+
+[Phrase <103> - Translation]
+" unidad."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <104> - English]
+"<Click attacking country>"
+
+[Phrase <104> - Translation]
+"<Pulse el país atacante>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <105> - English]
+" unit to place."
+
+[Phrase <105> - Translation]
+" unidades a colocar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <106> - English]
+"moves to "
+
+[Phrase <106> - Translation]
+"mueve a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <107> - English]
+" from"
+
+[Phrase <107> - Translation]
+" desde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <108> - English]
+"<Click source country>"
+
+[Phrase <108> - Translation]
+"<Pulsa país aprovisionador>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <109> - English]
+"<Click attacking country(s)>"
+
+[Phrase <109> - Translation]
+"<Pulse país atacante(s)>"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <110> - English]
+"Retreats 0 units from"
+
+[Phrase <110> - Translation]
+"Se retiran 0 unidades desde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <111> - English]
+"Retreats"
+
+[Phrase <111> - Translation]
+"Retiradas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <112> - English]
+" units from"
+
+[Phrase <112> - Translation]
+" unidades desde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <113> - English]
+" unit from"
+
+[Phrase <113> - Translation]
+" unidad desde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <114> - English]
+" units left."
+
+[Phrase <114> - Translation]
+" unidades restantes."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <115> - English]
+" unit left."
+
+[Phrase <115> - Translation]
+" unidad restante."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <116> - English]
+"Belongs to "
+
+[Phrase <116> - Translation]
+"Pertenece a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <117> - English]
+"which has a value of"
+
+[Phrase <117> - Translation]
+"que tiene un valor de"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <118> - English]
+"Currently occupied by "
+
+[Phrase <118> - Translation]
+"Actualmente ocupado por "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <119> - English]
+"SPRUNG!"
+
+[Phrase <119> - Translation]
+"¡BROTÓ!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <120> - English]
+"Ah Hah! Caught spying!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <120> - Translation]
+"¡A já! Lo agarré espiando!
+¡Deberá esperar hasta su turno para ver cual es su misión!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <121> - English]
+"Stop peeking!"
+
+[Phrase <121> - Translation]
+"¡Basta de espiar!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <122> - English]
+"NO! My mission!
+You must wait until it's your turn to see what your mission is!"
+
+[Phrase <122> - Translation]
+"¡No, mi misión!
+¡Deberá esperar hasta su turno para ver cual es su misión!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <123> - English]
+"Conspiracy"
+
+[Phrase <123> - Translation]
+"Conspiración"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <124> - English]
+"This is classified information. If I tell you, I will have to kill you. Or you could wait for your turn to see what your own mission is."
+
+[Phrase <124> - Translation]
+"Esto es información clasificada. Si se lo digo, deberé matarlo. O podría esperar su turno para ver cual es su misión."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <125> - English]
+"NO!"
+
+[Phrase <125> - Translation]
+"¡NO!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <126> - English]
+"My mission! I finish it! You just wait until your turn and finish your own mission!"
+
+[Phrase <126> - Translation]
+"¡Mi misión! ¡La finalicé! ¡Espere hasta su turno y finalice su misión!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <127> - English]
+"Spying is NOT tolerated in war!
+Your spies were all captured and executed. They died slowly in one of our many torture chambers. Let that be a warning to you human scum! Your human armies will soon be exterminated, and our MissionRisk world will be a better place for computer players to live!"
+
+[Phrase <127> - Translation]
+"¡NO se tolera el espionaje en la guerra!
+Sus espías fueron capturados y ejecutados. Murieron lentamente en nuestras cámaras de tortura. ¡Que sea una advertencia para ti, escoria humana! ¡Tus ejércitos humanos serán exterminados pronto, y nuestro mundo de Misión Riesgo será un mejor lugar para que vivan los jugadores computadoras!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <128> - English]
+"You intolerable species"
+
+[Phrase <128> - Translation]
+"Tu intolerable especie"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <129> - English]
+"'s turn."
+
+[Phrase <129> - Translation]
+"tu turno."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <130> - English]
+"Checking cards"
+
+[Phrase <130> - Translation]
+"Tarjetas de comprobación"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <131> - English]
+"     YOU MUST
+  TRADE CARDS"
+
+[Phrase <131> - Translation]
+"	DEBE TOMAR
+  CARTAS DE OCUPACIÓN"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <132> - English]
+"Trade cards in for"
+
+[Phrase <132> - Translation]
+"Cartas de ocupación"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <133> - English]
+" units?"
+
+[Phrase <133> - Translation]
+" unidades?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <134> - English]
+"  Re-shuffling cards."
+
+[Phrase <134> - Translation]
+"  Vuelva a barajar las cartas."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <135> - English]
+"Used risk cards are being collected, re-shuffled and put back in the pack."
+
+[Phrase <135> - Translation]
+"Las cartas usadas de Riesgo serán recogidas, barajadas y puestas bajo el mazo."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <136> - English]
+"Don't show any more."
+
+[Phrase <136> - Translation]
+"No me muestre más."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <137> - English]
+"You need more players than that."
+
+[Phrase <137> - Translation]
+"Necesita mas jugadores que esos."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <138> - English]
+"There are still some countries left."
+
+[Phrase <138> - Translation]
+"Restan algunos países."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <139> - English]
+"Setting up the board..."
+
+[Phrase <139> - Translation]
+"Estableciéndose en el tablero..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <140> - English]
+"Name"
+
+[Phrase <140> - Translation]
+"Nombre"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <141> - English]
+"Registration code"
+
+[Phrase <141> - Translation]
+"Código de inscripción"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <142> - English]
+"Available wars"
+
+[Phrase <142> - Translation]
+"Guerras posibles"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <143> - English]
+"Delete"
+
+[Phrase <143> - Translation]
+"Borrar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <144> - English]
+"&Open war..."
+
+[Phrase <144> - Translation]
+"&Librar guerra..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <145> - English]
+"&Make this the default war"
+
+[Phrase <145> - Translation]
+"&Dejar esta guerra inconclusa"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <146> - English]
+"Description"
+
+[Phrase <146> - Translation]
+"Descripción"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <147> - English]
+"Save war as..."
+
+[Phrase <147> - Translation]
+"Guarde esta guerra como..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <148> - English]
+"Title of war"
+
+[Phrase <148> - Translation]
+"Titulo de la guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <149> - English]
+"&Save"
+
+[Phrase <149> - Translation]
+"&Guardar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <150> - English]
+"Player option box for the "
+
+[Phrase <150> - Translation]
+"Caja de opciones del jugador para "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <151> - English]
+"Number of countries this army starts with"
+
+[Phrase <151> - Translation]
+"Numero de países con los que comienza esta ejercito"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <152> - English]
+"Increment/decrement starting countries"
+
+[Phrase <152> - Translation]
+"Incrementar/decrementar países iniciales"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <153> - English]
+"Change the number of starting players"
+
+[Phrase <153> - Translation]
+"Cambie el número de jugadores iniciales"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <154> - English]
+"How many players are going to war"
+
+[Phrase <154> - Translation]
+"Cuantos jugadores van a la guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <155> - English]
+"Random selection of the first player"
+
+[Phrase <155> - Translation]
+"Selección aleatoria de los primeros jugadores"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <156> - English]
+"Player 1 - the red army is the first player"
+
+[Phrase <156> - Translation]
+"Jugador 1 - El ejercito rojo es el primer jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <157> - English]
+"The cards option box"
+
+[Phrase <157> - Translation]
+"Caja de tarjetas de opciones"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <158> - English]
+"Other players cannot see your cards when checked"
+
+[Phrase <158> - Translation]
+"Los demas jugadores no podrán ver sus tarjetas cuando las active"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <159> - English]
+"Cards are not issued when checked"
+
+[Phrase <159> - Translation]
+"Las tarjetas no se mostrarán cuando las active"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <160> - English]
+"Value of cards do not change when checked"
+
+[Phrase <160> - Translation]
+"El valor de la tarjetas no cambiará cuando las activen"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <161> - English]
+"Value of cards increases whith every set turned in"
+
+[Phrase <161> - Translation]
+"El valor de las tarjetas se incrementa con cada turno cumplido"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <162> - English]
+"Sets the maximum card value"
+
+[Phrase <162> - Translation]
+"Ponga la carta de mayor valor"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <163> - English]
+"The war options box"
+
+[Phrase <163> - Translation]
+"La caja de opciones de guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <164> - English]
+"All players are issued with secret missions when checked"
+
+[Phrase <164> - Translation]
+"A todos los jugadores se les han decretado misiones secretas para ser revisadas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <165> - English]
+"Limits army movements"
+
+[Phrase <165> - Translation]
+"Movimiento de ejercitos limitados"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <166> - English]
+"Look at the attack dice and decide how many defence dice to throw"
+
+[Phrase <166> - Translation]
+"Mire los dados atacantes y decida cuantos dados defensivos arrojar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <167> - English]
+"Speed of computer players"
+
+[Phrase <167> - Translation]
+"Velocidad del jugador computadora"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <168> - English]
+"Speed at which the dice are thrown"
+
+[Phrase <168> - Translation]
+"Velocidad a la que se arrojan los dados"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <169> - English]
+"Border flashes player's color (can be annoying!)"
+
+[Phrase <169> - Translation]
+"La frontera parpadea con el color del jugador(¡puede molestar!)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <170> - English]
+"Start new war with these settings"
+
+[Phrase <170> - Translation]
+"Reinicia una guerra nueva con estos ajustes"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <171> - English]
+"Exit with the previous settings"
+
+[Phrase <171> - Translation]
+"Salir con los ajustes anteriores"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <172> - English]
+"&Reshuffle notice"
+
+[Phrase <172> - Translation]
+"&Noticias de cambio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <173> - English]
+"&Select language..."
+
+[Phrase <173> - Translation]
+"&Seleccione idioma..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <174> - English]
+"Start &turn again"
+
+[Phrase <174> - Translation]
+"Comience &turno denuevo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <175> - English]
+"&Reset war"
+
+[Phrase <175> - Translation]
+"&Reanude guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <176> - English]
+"Capture players' cards when you wipe out their last unit"
+
+[Phrase <176> - Translation]
+"Capture tarjetas de jugadores cuando aniquile sus últimas unidades"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <177> - English]
+"Increasing"
+
+[Phrase <177> - Translation]
+"Incrementando"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <178> - English]
+"Capture"
+
+[Phrase <178> - Translation]
+"Capturar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <179> - English]
+"No supply lines"
+
+[Phrase <179> - Translation]
+"No hay líneas de reaprovisionamiento"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <180> - English]
+"No restrictions on army movements"
+
+[Phrase <180> - Translation]
+"No hay restricciones a los movimientos de los ejércitos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <181> - English]
+"Current value: "
+
+[Phrase <181> - Translation]
+"Valor actual: "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <182> - English]
+"This program is registered to "
+
+[Phrase <182> - Translation]
+"Este programa está inscripto a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <183> - English]
+"Thank you for registering."
+
+[Phrase <183> - Translation]
+"Gracias por registrarse."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <184> - English]
+"&ALL"
+
+[Phrase <184> - Translation]
+"&TODOS"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <185> - English]
+"Copyright(c) 1998-2000 Craig Douglas.
+Warning: This computer program is protected by copyright law and international treaties."
+
+[Phrase <185> - Translation]
+"Derechos de autor 1998-2000 Craig Douglas.
+Cuidado: Este programa de computadora está protegido por leyes de derechos de autor y acuerdos internacionales."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <186> - English]
+"Distribute extra starting units"
+
+[Phrase <186> - Translation]
+"Distribuya unidades extra iniciales"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <187> - English]
+"Extra starting units are randomly distributed over each players' territories."
+
+[Phrase <187> - Translation]
+"Unidades extras iniciales están aleatoriamente distribuidas en cada uno de los territorios de los jugadores."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <188> - English]
+"Extra units"
+
+[Phrase <188> - Translation]
+"Unidades extra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <189> - English]
+" wants to keep going"
+
+[Phrase <189> - Translation]
+" desea continuar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <190> - English]
+" wants to keep the mission a secret!"
+
+[Phrase <190> - Translation]
+" desea mantener la misión como secreta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <191> - English]
+"Do you really want to quit this war?"
+
+[Phrase <191> - Translation]
+"Realmente desea abandonar esta guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <192> - English]
+"Are you sure you want to delete "
+
+[Phrase <192> - Translation]
+"Está seguro que desea borrar "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <193> - English]
+"Are you sure?"
+
+[Phrase <193> - Translation]
+"¿Está seguro?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <194> - English]
+"Open war"
+
+[Phrase <194> - Translation]
+"librar Guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <195> - English]
+"Thank you for registering MissionRisk.
+
+MissionRisk must be re-started for
+the registration process to finish.
+Restart now?"
+
+[Phrase <195> - Translation]
+"Gracias por inscribirse en Misión Riesgo.
+
+Misión Riesgo debe reiniciarse para
+finalizar el proceso de inscripción.
+¿Reiniciar ahora?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <196> - English]
+"AI interupt request"
+
+[Phrase <196> - Translation]
+"Requerimiento de interrupcion de IA"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <197> - English]
+"Version "
+
+[Phrase <197> - Translation]
+"Versión "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <198> - English]
+"Hi "
+
+[Phrase <198> - Translation]
+"Hola "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <199> - English]
+"your previous MissionRisk registration has been found and validated. 
+
+If you have any suggestions or complaints about MissionRisk, feel free to send me a message. My email address can be found in the help file."
+
+[Phrase <199> - Translation]
+"se encontró y aceptó su inscripción previa en Misión Riesgo.
+
+Si tiene sujerencias o reclamos acerca de Misión Riesgo, sientase libre de enviarme un mensaje. Encontrará mi dirección de correo electrónico en el archivo de ayuda."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <200> - English]
+"&Open"
+
+[Phrase <200> - Translation]
+"&Abrir"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <201> - English]
+"&Tool box"
+
+[Phrase <201> - Translation]
+"&Caja de herramientas"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <202> - English]
+"New war"
+
+[Phrase <202> - Translation]
+"Nueva guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <203> - English]
+"Reset war"
+
+[Phrase <203> - Translation]
+"Reanudar guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <204> - English]
+"Open"
+
+[Phrase <204> - Translation]
+"Abrir"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <205> - English]
+"Save"
+
+[Phrase <205> - Translation]
+"Guardar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <206> - English]
+"Fast war (press + and - to adjust speed)"
+
+[Phrase <206> - Translation]
+"Guerra rápida (pulse + y - para ajustar la velocidad)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <207> - English]
+"Fast dice (press + and - to adjust speed)"
+
+[Phrase <207> - Translation]
+"Dados rápidos (pulse + y - para ajustar la velocidad)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: better without translate
+
+[Phrase <208> - English]
+"Auto scroll"
+
+[Phrase <208> - Translation]
+"Auto scroll"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <209> - English]
+"Start turn again"
+
+[Phrase <209> - Translation]
+"Inicia turno de nuevo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <210> - English]
+"Help"
+
+[Phrase <210> - Translation]
+"Ayuda"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <211> - English]
+"Please re-enter your MissionRisk registration code."
+
+[Phrase <211> - Translation]
+"Por favor reingrese su código de inscripción en Misión Riego."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <212> - English]
+"New version update"
+
+[Phrase <212> - Translation]
+"Actualización de nueva versión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <213> - English]
+"<Var.EXEName>.exe has been modified. 
+This means that it could be infected with a virus.
+Please delete and reinstall this program.
+
+A number of traps have been included to help stop virus
+propagation but they have been known to crash this program.
+Some of these traps have been activated and the only way to
+reset them is to completely delete the above mentioned file
+before reinstalling it from its distribution media.
+
+Please contact the author if this message keeps appearing."
+
+[Phrase <213> - Translation]
+"<Var.EXEName>.exe ha sido modificado.
+Esto significa que pudo haber sido infectado con un virus.
+Por favor borre y reinstale este programa.
+
+Varias trampas han sido incluidas para ayudar a evitar
+la propagación del virus pero existe el riesgo de haber
+estropeado el programa. Algunas de estas trampas han
+sido activadas y la única forma de reanudarlas es borrar
+completamente el archivo mencionado arriba antes de
+reinstalarlo desde su fuente."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <214> - English]
+"
+    > PAUSED <"
+
+[Phrase <214> - Translation]
+"
+  > Detenido <"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <215> - English]
+"Could not find a browser."
+
+[Phrase <215> - Translation]
+"No se puede encontrar un browser."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <216> - English]
+"Web Page 'http://www.missionrisk.com' not Opened"
+
+[Phrase <216> - Translation]
+"Página web 'http://www.missionrisk.com' no abierta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <217> - English]
+"Web Page 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' not Opened"
+
+[Phrase <217> - Translation]
+"Página web 'https://www.regnow.com/softsell/nph-softsell.cgi?item=1584-1' no abierta"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <218> - English]
+"A file error has occured. Perhapse "
+
+[Phrase <218> - Translation]
+"Ocurrió un error de archivo. A lo mejor "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <219> - English]
+" has been corrupted in some way."
+
+[Phrase <219> - Translation]
+" ha sido corrompido en alguna forma."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <220> - English]
+"Error"
+
+[Phrase <220> - Translation]
+"Error"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <221> - English]
+"Setup"
+
+[Phrase <221> - Translation]
+"Ajuste"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <222> - English]
+"Stack overflow error - a data file might be corrupted. They will now be reinitialised. Contact the software vendor if the problem persists. This program must now be restarted."
+
+[Phrase <222> - Translation]
+"Error de desbordamiento de pila - un archivo de datos podría estar corrompido. Se producirá una reinicialisación. Contáctese con el proveedor del programa si los problemas persisten. Este programa se reinicialisará."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <223> - English]
+"Asia and South America."
+
+[Phrase <223> - Translation]
+"Asia y Sudamérica."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <224> - English]
+"Asia and Africa."
+
+[Phrase <224> - Translation]
+"Asia y Africa."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <225> - English]
+"North America and Africa."
+
+[Phrase <225> - Translation]
+"Norteamérica y África."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <226> - English]
+"North America and 
+Australia."
+
+[Phrase <226> - Translation]
+"Norteamérica y Australia."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <227> - English]
+"Europe, South America 
+and a third continent."
+
+[Phrase <227> - Translation]
+"Europa, Sudamérica y
+un tercer continente."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <228> - English]
+"Europe, Australia and 
+a third continent."
+
+[Phrase <228> - Translation]
+"Europa, Australia y
+un tercer continente."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <229> - English]
+"Your terminal's IP information could not be found."
+
+[Phrase <229> - Translation]
+"La información de su terminal IP no se puede encontrar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <230> - English]
+"Terminal "
+
+[Phrase <230> - Translation]
+"Terminal "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <231> - English]
+" has connected."
+
+[Phrase <231> - Translation]
+" se conectó."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <232> - English]
+"An error has occured"
+
+[Phrase <232> - Translation]
+"Ha ocurrido un error"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <233> - English]
+"Each client should have their own unique registration licence."
+
+[Phrase <233> - Translation]
+"Cada cliente debería tener su propia licencia de inscripción."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <234> - English]
+"Please register"
+
+[Phrase <234> - Translation]
+"Por favor regístrese"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <235> - English]
+"Host"
+
+[Phrase <235> - Translation]
+"Anfitrión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <236> - English]
+" >> Your are "
+
+[Phrase <236> - Translation]
+" >> Son sus "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <237> - English]
+"Terminal Host Name is "
+
+[Phrase <237> - Translation]
+"El Nombre del Terminal Anfitrión es "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <238> - English]
+"Click <IP info...> for more information."
+
+[Phrase <238> - Translation]
+"Pulse <información IP...> para mas información."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <239> - English]
+"Do you want to close all connections?"
+
+[Phrase <239> - Translation]
+"¿Desea cerrar todas las conecciones?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <240> - English]
+"Please enter the name or IP address of the host"
+
+[Phrase <240> - Translation]
+"Por favor ingrese el nombre o la dirección IP del anfitrión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <241> - English]
+"Missing information"
+
+[Phrase <241> - Translation]
+"Información perdida"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <242> - English]
+"Disconnect"
+
+[Phrase <242> - Translation]
+"Desconectar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <243> - English]
+"Connecting to "
+
+[Phrase <243> - Translation]
+"Conectando a "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <244> - English]
+"Please restart this session."
+
+[Phrase <244> - Translation]
+"Por favor reiniciar esta sección."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <245> - English]
+"Error... Address violation"
+
+[Phrase <245> - Translation]
+"Error... Violación de dirección"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <246> - English]
+"Connection closed."
+
+[Phrase <246> - Translation]
+"Conexión cerrada."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <247> - English]
+"All connections closed."
+
+[Phrase <247> - Translation]
+"Todas las conexiones cerradas."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <248> - English]
+"Listening for connections."
+
+[Phrase <248> - Translation]
+"Escuchando por la conexión."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <249> - English]
+"Another aplication could be using this port"
+
+[Phrase <249> - Translation]
+"Otra aplicación está utilizando este puerto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <250> - English]
+"Address violation"
+
+[Phrase <250> - Translation]
+"Violación de dirección"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <251> - English]
+"Listen"
+
+[Phrase <251> - Translation]
+"Escuche"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <252> - English]
+"Connect"
+
+[Phrase <252> - Translation]
+"Conectar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <253> - English]
+"Connection has been lost."
+
+[Phrase <253> - Translation]
+"Se ha perdido la conexión."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <254> - English]
+" has disconnected."
+
+[Phrase <254> - Translation]
+" se ha desconectado."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <255> - English]
+"Buffer overflow error has occured."
+
+[Phrase <255> - Translation]
+"Ha ocurrido un error de desborde de memoria."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <256> - English]
+"Connection established."
+
+[Phrase <256> - Translation]
+"Conexión establecida."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <257> - English]
+"No, Please try again"
+
+[Phrase <257> - Translation]
+"No, por favor intente de nuevo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <258> - English]
+"No, Make sure you enter your name and code exactly 
+as you see it (capitals, spaces etc..)"
+
+[Phrase <258> - Translation]
+"No, asegúrese que ingresó su nombre y código exactamente
+como lo ve (mayúsculas, espacios, etc...)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <259> - English]
+"System Information Is Unavailable At This Time"
+
+[Phrase <259> - Translation]
+"Información del Sistema No Está Disponible En Este Momento"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <260> - English]
+"** Cheat mode activated **"
+
+[Phrase <260> - Translation]
+"** Modo tramposo activado **"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <261> - English]
+"An error occured while deleting "
+
+[Phrase <261> - Translation]
+"Ha ocurrido un error durante el borrado de "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <262> - English]
+"It might be already opened."
+
+[Phrase <262> - Translation]
+"Debería estar aún abierto."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <263> - English]
+" already exists."
+
+[Phrase <263> - Translation]
+" todavía existe."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <264> - English]
+"Overwrite any way?"
+
+[Phrase <264> - Translation]
+"¿Sobre escribe de cualquier modo?"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <265> - English]
+"Save as..."
+
+[Phrase <265> - Translation]
+"Guardar como..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <266> - English]
+" cannot be modified or deleted."
+
+[Phrase <266> - Translation]
+" no puede ser modificado o borrado."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <267> - English]
+"&Advanced..."
+
+[Phrase <267> - Translation]
+"&Avanzado..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <268> - English]
+"Networ&k setup..."
+
+[Phrase <268> - Translation]
+"Ajuste red de traba&jo..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <269> - English]
+"Compose message..."
+
+[Phrase <269> - Translation]
+"Redactar mensaje..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <270> - English]
+"C&ontinent map"
+
+[Phrase <270> - Translation]
+"Mapa c&ontinental"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <271> - English]
+"&About"
+
+[Phrase <271> - Translation]
+"&Acerca de"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <272> - English]
+"Change the number of starting players."
+
+[Phrase <272> - Translation]
+"Cambie los números de jugadores iniciales."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <273> - English]
+"Advanced options..."
+
+[Phrase <273> - Translation]
+"Opciones avanzadas..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <274> - English]
+"Advanced war options"
+
+[Phrase <274> - Translation]
+"Opciones de guerra avanzada"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <275> - English]
+"Mission Options"
+
+[Phrase <275> - Translation]
+"Opciones de Misión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <276> - English]
+"Graphics Options"
+
+[Phrase <276> - Translation]
+"Opciones de Gráficos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <277> - English]
+"Include army wipe out missions."
+
+[Phrase <277> - Translation]
+"Incluir misiones de exterminio de ejércitos."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <278> - English]
+"Include conquer and hold missions."
+
+[Phrase <278> - Translation]
+"Incluir misiones de conquistar y retener"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <279> - English]
+"Must complete own mission to win."
+
+[Phrase <279> - Translation]
+"Debe completar las propias misiones para ganar."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <280> - English]
+"Win immediately upon completing mission."
+
+[Phrase <280> - Translation]
+"Ganar inmediatamente por sobre completar la misión."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <281> - English]
+"Change green saturation."
+
+[Phrase <281> - Translation]
+"Cambiar saturación verde."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <282> - English]
+"Change yellow saturation."
+
+[Phrase <282> - Translation]
+"Cambiar saturación amarilla."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <283> - English]
+"Change gray luminosity."
+
+[Phrase <283> - Translation]
+"Cambiar saturación gris."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <284> - English]
+"Large font size."
+
+[Phrase <284> - Translation]
+"Tamaño de fuente expandido."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: An option to include a secret mission where the object is to kill another player.
+
+[Phrase <285> - English]
+"Include missions where you have to wipe out the last unit of another player"
+
+[Phrase <285> - Translation]
+"Incluir misiones donde haya aniquilado la última unidad de otro jugador"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: An option to include a secret mission where the object is to capture certain continents and hold them until it is your next turn.
+
+[Phrase <286> - English]
+"Include missions where you have to conquer territories and hold them until your next turn"
+
+[Phrase <286> - Translation]
+"Incluir misiones donde tenga que conquistar territorios y retenerlos hasta su próximo turno"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <287> - English]
+"You do not win when an opponent wipes out your target army for you"
+
+[Phrase <287> - Translation]
+"Usted no gana cuando un oponente aniquila un ejercito objetivo por usted"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <288> - English]
+"After wiping out a target army, you must wait until your next turn to win when unchecked"
+
+[Phrase <288> - Translation]
+"Después de aniquilar un ejercito objetivo, deberá esperar hasta su próximo turno para ganar hasta ser revisado"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <289> - English]
+"Lighten or darken the color of the Green Army"
+
+[Phrase <289> - Translation]
+"Iluminar u oscurecer el color del Ejército Verde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <290> - English]
+"Lighten or darken the color of the Yellow Army"
+
+[Phrase <290> - Translation]
+"Iluminar u oscurecer el color del Ejército Amarillo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <291> - English]
+"Lighten or darken the color of the Gray Army"
+
+[Phrase <291> - Translation]
+"Iluminar u oscurecer el color del Ejército Gris"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <292> - English]
+"Change the font size used to print country scores"
+
+[Phrase <292> - Translation]
+"Cambiar la fuente usada para imprimir la puntuación de los países"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <293> - English]
+"MissionRisk network setup"
+
+[Phrase <293> - Translation]
+"Configurar la red de trabajo de Misión Riesgo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <294> - English]
+"Connection options"
+
+[Phrase <294> - Translation]
+"Opciones de conexión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <295> - English]
+"Connection type"
+
+[Phrase <295> - Translation]
+"Yipos de conexión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <296> - English]
+"Refresh rate"
+
+[Phrase <296> - Translation]
+"Tasa de refresco"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <297> - English]
+"Settings"
+
+[Phrase <297> - Translation]
+"Ajustes"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <298> - English]
+"Session history"
+
+[Phrase <298> - Translation]
+"Historia de la sesión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <299> - English]
+"Name or IP address of host"
+
+[Phrase <299> - Translation]
+"Nombre o dirección IP del anfitrión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <300> - English]
+"Port number"
+
+[Phrase <300> - Translation]
+"Número de puerto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <301> - English]
+"Join a war"
+
+[Phrase <301> - Translation]
+"Unirse a la guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <302> - English]
+"Host a war"
+
+[Phrase <302> - Translation]
+"Organizar una guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <303> - English]
+"TCP / IP"
+
+[Phrase <303> - Translation]
+"TCP / IP"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <304> - English]
+"Modem"
+
+[Phrase <304> - Translation]
+"Modem"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <305> - English]
+"Serial"
+
+[Phrase <305> - Translation]
+"Serial"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <306> - English]
+"High"
+
+[Phrase <306> - Translation]
+"Alto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <307> - English]
+"Medium"
+
+[Phrase <307> - Translation]
+"Medio"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <308> - English]
+"Low"
+
+[Phrase <308> - Translation]
+"Bajo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <309> - English]
+"&IP Info..."
+
+[Phrase <309> - Translation]
+"Información &IP..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <310> - English]
+"&Connect"
+
+[Phrase <310> - Translation]
+"&Conectar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <311> - English]
+"&OK"
+
+[Phrase <311> - Translation]
+"&OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <312> - English]
+"Network war must have 1 host"
+
+[Phrase <312> - Translation]
+"La guerra en red de trabajo debe tener un Anfitrión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <313> - English]
+"Modem and direct serial connections will be available in future versions"
+
+[Phrase <313> - Translation]
+"Modem y conexión serie estarán disponibles en versiones futuras"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <314> - English]
+"The frequency at which remote players are updated"
+
+[Phrase <314> - Translation]
+"La frecuencia a la cual los jugadores remotos se actualizan"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <315> - English]
+"Enter the name of the host terminal"
+
+[Phrase <315> - Translation]
+"Ingrese el nombre del terminal Anfitrión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <316> - English]
+"All terminals must use the same port number"
+
+[Phrase <316> - Translation]
+"Todos los terminales deberán usar el mismo número de puerto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <317> - English]
+"Connect to a listening host"
+
+[Phrase <317> - Translation]
+"Conectar a un anfitrión que escuche"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <318> - English]
+"Become a host and listen for connections"
+
+[Phrase <318> - Translation]
+"Convertirse en un anfitrión para conexiones"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <319> - English]
+"Display host name and IP configuration for this terminal"
+
+[Phrase <319> - Translation]
+"Despliegue nombre de anfitrión y configuración de IP para este terminal"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <320> - English]
+"Connect with these settings"
+
+[Phrase <320> - Translation]
+"Conectar con estas configuraciones"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <321> - English]
+"Hide the network setup dialog box without disconnecting"
+
+[Phrase <321> - Translation]
+"Esconda la caja de diálogo de la configuración de la red de trabajo sin desconectarse"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <322> - English]
+"Lists connected terminals, TCP errors, etc..."
+
+[Phrase <322> - Translation]
+"Enumere los terminales conectados, errores TCP, etc..."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <323> - English]
+"Delete the selected war"
+
+[Phrase <323> - Translation]
+"Borre la guerra elegida"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <324> - English]
+"Open this war the next time MissionRisk starts"
+
+[Phrase <324> - Translation]
+"Inicie esta guerra la próxima vez que Misión Riesgo comience"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <325> - English]
+"Lock war to prevent accidental deletion"
+
+[Phrase <325> - Translation]
+"Asegure la guerra para prevenir el borrado accidental"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <326> - English]
+"Credits"
+
+[Phrase <326> - Translation]
+"Créditos"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <327> - English]
+"Message"
+
+[Phrase <327> - Translation]
+"Mensaje"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <328> - English]
+"Recipient Player(s)"
+
+[Phrase <328> - Translation]
+"Depocito(s) de jugadores(s) "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <329> - English]
+"Select recipient(s) of private messages"
+
+[Phrase <329> - Translation]
+"Seleccione recipiente(s) de mensajes privados"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <330> - English]
+"Public"
+
+[Phrase <330> - Translation]
+"Publico"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <331> - English]
+"Send message to all terminals"
+
+[Phrase <331> - Translation]
+"Enviar mensaje a todos los terminales"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <332> - English]
+"Private"
+
+[Phrase <332> - Translation]
+"Privado"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <333> - English]
+"Send message to terminals controlling selected army(s)"
+
+[Phrase <333> - Translation]
+"Enviar mensaje al terminal controlado por el(los) ejercito(s) seleccionado(s)"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <334> - English]
+"&Hide"
+
+[Phrase <334> - Translation]
+"&Ocultar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <335> - English]
+"Type your message and press enter to send"
+
+[Phrase <335> - Translation]
+"Escriba su mensaje y presione entrar para enviar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <336> - English]
+"Close"
+
+[Phrase <336> - Translation]
+"Cerrar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <337> - English]
+"MissionRisk Editor"
+
+[Phrase <337> - Translation]
+"Editor de Misión Riesgo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <338> - English]
+"Occupying army"
+
+[Phrase <338> - Translation]
+"Ejercito ocupante"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <339> - English]
+"Units"
+
+[Phrase <339> - Translation]
+"Unidades"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <340> - English]
+"OK"
+
+[Phrase <340> - Translation]
+"OK"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <341> - English]
+"Register Now"
+
+[Phrase <341> - Translation]
+"Inscribir ahora"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <342> - English]
+"Enter Code"
+
+[Phrase <342> - Translation]
+"Ingrese código"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <343> - English]
+"Register Later"
+
+[Phrase <343> - Translation]
+"Inscribir después"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <344> - English]
+"Active soon"
+
+[Phrase <344> - Translation]
+"Activar pronto"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <345> - English]
+"War Statistics"
+
+[Phrase <345> - Translation]
+"Estadísticas de guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <346> - English]
+"Not involved"
+
+[Phrase <346> - Translation]
+"No involucrado"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <347> - English]
+"&End of war stats"
+
+[Phrase <347> - Translation]
+"&Fin de la estadísticas de guerra"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <348> - English]
+"Countries conquered:"
+
+[Phrase <348> - Translation]
+"Países conquistados:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <349> - English]
+"Countries surrendered:"
+
+[Phrase <349> - Translation]
+"Países que se rindieron:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <350> - English]
+"Enemy casualties:"
+
+[Phrase <350> - Translation]
+"Bajas del enemigo:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <351> - English]
+"Your casualties:"
+
+[Phrase <351> - Translation]
+"Sus bajas:"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <352> - English]
+"IP Information"
+
+[Phrase <352> - Translation]
+"Información IP"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark:  Italian: If it's a command, otherwise if is a warning like I CAUGHT YOU then is HAI BARATO!
+
+[Phrase <353> - English]
+"CHEAT!"
+
+[Phrase <353> - Translation]
+"¡TRAMPA!"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <354> - English]
+"Score: "
+
+[Phrase <354> - Translation]
+"Puntaje: "
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <355> - English]
+"TOP SECRET"
+
+[Phrase <355> - Translation]
+"ULTRA SECRETO"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <356> - English]
+"Your mission briefing is enclosed in this document."
+
+[Phrase <356> - Translation]
+"Su misión está resumida en este documento"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <357> - English]
+"Ignore"
+
+[Phrase <357> - Translation]
+"Ignorar"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark:  Open mission briefing
+
+[Phrase <358> - English]
+"Open"
+
+[Phrase <358> - Translation]
+"Abrir"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <359> - English]
+"&View"
+
+[Phrase <359> - Translation]
+"&Ver"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <360> - English]
+"&Mission reminder"
+
+[Phrase <360> - Translation]
+"&Recordatorio de la misión"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: A computer when connected to a network: example -I sit at this **terminal** to play MR- The context that it is used in: -Terminal 1 has connected to the network-.
+
+[Phrase <361> - English]
+"Terminal"
+
+[Phrase <361> - Translation]
+"Terminal"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <362> - English]
+"the Red Army"
+
+[Phrase <362> - Translation]
+"el Ejército Rojo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <363> - English]
+"the Green Army"
+
+[Phrase <363> - Translation]
+"el Ejército Verde"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <364> - English]
+"the Blue Army"
+
+[Phrase <364> - Translation]
+"el Ejército Azul"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <365> - English]
+"the Yellow Army"
+
+[Phrase <365> - Translation]
+"el Ejército Amarillo"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <366> - English]
+"the Purple Army"
+
+[Phrase <366> - Translation]
+"el Ejército Purpura"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <367> - English]
+"the Gray Army"
+
+[Phrase <367> - Translation]
+"el Ejército Gris"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <368> - English]
+"Rolling Dice"
+
+[Phrase <368> - Translation]
+"Dados Rodando"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: Not actually used directly.
+
+[Phrase <369> - English]
+"Please select a language."
+
+[Phrase <369> - Translation]
+"Por favor seleccione un idioma."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <370> - English]
+""
+
+[Phrase <370> - Translation]
+""
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remark: 
+
+[Phrase <371> - English]
+""
+
+[Phrase <371> - Translation]
+""
+

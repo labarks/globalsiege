@@ -1,0 +1,310 @@
+Countries:
+Alaska
+Alberta
+Quebec
+Ontario
+Northwest Territory
+Eastern USA
+Western USA
+Central America
+Venezuela*
+Peru
+Argentina
+Brazil
+Greenland
+Iceland
+Great Britain
+Northern Europe
+Western Europe
+Southern Europe
+Scandinavia
+Ukraine
+Egypt
+Northern Africa
+Congo
+East Africa
+South Africa
+Madagascar
+Ural
+Siberia
+Irkutsk
+Yakutsk
+Kamchatka
+Japan
+Mongolia
+China
+India
+Siam
+Afghanistan
+Middle East
+Indonesia
+New Guinea
+Eastern Australia
+Western Australia
+
+North America
+South America
+Europe
+Africa
+Asia
+Australia
+
+[Italian]
+Alaska
+Alberta
+Il Quebec
+Ontario
+Territorio nordovest
+Gli Stati Uniti orientali
+Gli Stati Uniti occidentali
+L'America centrale
+Il Venezuela
+Il Perù
+L'Argentina
+Il Brasile
+La Groenlandia
+L'Islanda
+La Gran Bretagna
+L'Europa settentrionale
+L'Europa occidentale
+L'Europa Meridionale
+La Scandinavia
+L'Ucraina
+L'Egitto
+L'Africa settentrionale
+Il Congo
+L'Africa est
+L'Africa meridionale
+Il Madagascar
+Ural
+La Siberia
+Irkutsk
+Yakutsk
+Kamchatka
+Il Giappone
+La Mongolia
+Cina
+L'India
+Siam
+L'Afghanistan
+Medio Oriente
+L'Indonesia
+Ghinea Nuova
+L'Australia orientale
+L'Australia occidentale
+
+Nord l'America
+L'America meridionale
+L'Europa
+L'Africa
+L'Asia
+L'Australia
+
+[German]
+Alaska
+Alberta
+Quebec
+Ontario
+Nordwestlich Territorium
+Ost USA
+West USA
+Mittelamerika
+Venezuela
+Peru
+Argentinien
+Brasilien
+Grönland
+Island
+Großbritannien
+Nördliches Europa
+Westeuropa
+Südliches Europa
+Skandinavien
+Ukraine
+Ägypten
+Nördliches Afrika
+Kongo
+Ost Afrika
+Südafrika
+Madagaskar
+Ural
+Sibirien
+Irkutsk
+Yakutsk
+Kamchatka
+Japan
+Mongolei
+China
+Indien
+Siam
+Afghanistan
+Mittler Nach Osten
+Indonesien
+Neuguinea
+Ost Australien
+West Australien
+
+Nordamerika
+Südamerika
+Europa
+Afrika
+Asien
+Australien
+
+
+[Spanish]
+Alaska
+Alberta
+Quebec
+Ontario
+El Territorio noroeste
+EE.UU. oriental
+EE.UU. occidental
+Centroamérica
+Venezuela
+Perú
+Argentina
+Brasil
+Groenlandia
+Islandia
+Gran Bretaña
+Europa norteña
+Europa occidental
+Europa del sur
+Escandinavia
+Ucrania
+Egipto
+Africa norteña
+Congo
+Africa oriental
+Africa Sur
+Madagascar
+Ural
+Siberia
+Irkutsk
+Yakutsk
+Kamchatka
+Japón
+Mongolia
+China
+India
+Siam
+Afganistán
+Medio Del este
+Indonesia
+La Nueva Guinea
+Australia oriental
+Australia occidental
+
+América del Norte
+América del Sur
+Europa
+Africa
+Asia
+Australia
+
+
+[French]
+Alaska
+Alberta
+Québec
+Ontario
+Le Territoire nord-ouest
+USA de l'est
+USA de l'ouest
+Amérique centrale
+Vénézuéla
+Le Pérou
+Argentine
+Brésil
+Groenland
+Islande
+Grande-Bretagne
+Europe du nord
+Europe de l'ouest
+Europe du sud
+Scandinavie
+Ukraine
+Egypte
+Afrique du nord
+Congo
+Afrique de l'est
+Afrique du Sud
+Madagascar
+Oural
+Sibérie
+Irkutsk
+Yakutsk
+Kamchatka
+Japon
+Mongolie
+Chine
+Inde
+Siam
+Afghanistan
+Moyen-Orient
+Indonésie
+Nouvelle-Guinée
+Australie de l'est
+Australie de l'ouest
+
+Amérique du Nord
+Amérique du Sud
+Europe
+Afrique
+Asie
+Australie
+
+
+[Swedish]
+Alaska
+Alberta
+Quebec
+Ontario
+Nordvästra territoriet
+Östra USA
+Västra USA
+Centralamerika
+Venezuela
+Peru
+Argentina
+Brasilien
+Grönland
+Island
+Storbritannien
+Nordeuropa
+Västeuropa
+Sydeuropa
+Skandinavien
+Ukraina
+Egypten
+Nordafrika
+Kongo
+Östafrika
+Sydafrika
+Madagaskar
+Ural
+Sibirien
+Irkutsk
+Yakutsk
+Kamtjatka
+Japan
+Mongoliet
+Kina
+Indien
+Siam
+Afghanistan
+Mellanöstern
+Indonesien
+Nya Guinea
+Östaustralien
+Västaustralien
+
+Nordamerika
+Sydamerika
+Europa
+Afrika
+Asien
+Australien
+
+

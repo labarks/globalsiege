@@ -1,0 +1,217 @@
+[31.]
+File
+
+[33.]
+Exit
+
+[Rm43.] Scroll automatically.
+[43.]
+Auto scroll
+
+[Rm99.] Terminate the program?
+[99.]
+Do you really want to QUIT?
+
+[Rm108.] Click starting territory. Click initial territory. Click initial country.
+[108.]
+<Click source country>
+
+[Rm109.] Click attacking countries. Click attacking country. Click attacking territory.
+[109.]
+<Click attacking country(s)>
+
+[Rm130.] Controlling cards. Viewing cards. Looking at cards.
+[130.]
+Checking cards
+
+[Rm131.] You must trade cards. You must exchange cards.
+[131.]
+     YOU MUST
+  TRADE CARDS
+
+[Rm132.] Swap cards for 5 units? Exchange cards for 5 units?
+[132.]
+Trade cards in for
+
+[Rm142.] Available scenarios.
+[142.]
+Available wars
+
+[Rm144.] Open scenario
+[144.]
+Open war...
+
+[Rm147.] Save scenario as...
+[147.]
+Save war as...
+
+[Rm148.] Title of scenario.
+[148.]
+Title of war
+
+[Rm152.] Increase starting countries. Decrease starting countries.
+[152.]
+Increment/decrement starting countries
+
+[Rm158.] Other players cannot see your cards when selected.
+[158.]
+Other players cannot see your cards when checked
+
+[Rm159.] Cards are not issued when selected.
+[159.]
+Cards are not issued when checked
+
+[Rm164.] All players are issued with secret missions when selected.
+[164.]
+All players are issued with secret missions when checked
+
+[Rm174.] Replay last turn.
+[174.]
+Start turn again
+
+[Rm181.] Value of cards:
+[181.]
+Current value: 
+
+[Rm183.] Thank you for registering Missionrisk.
+[183.]
+Thank you for registering.
+
+[187.]
+Extra starting units are randomly distributed over each players' territories.
+
+[Rm191.] Quit this scenario?
+[191.]
+Do you really want to quit this war?
+
+[Rm192.] Do you relly want to delete X?
+[192.]
+Are you sure you want to delete 
+
+[Rm193.] Are you serious?
+[193.]
+Are you sure?
+
+[208.]
+Auto scroll
+
+[Rm209.] Replay last turn.
+[209.]
+Start turn again
+
+[215.]
+Could not find a browser.
+
+[Rm255.] The buffer is too full.
+[255.]
+Buffer overflow error has occured.
+
+------------------------------------------
+
+[31.]
+Le fichier
+
+[33.]
+La sortie
+
+[Rm43.] Défilez automatiquement.
+[43.]
+Le défilement automatique
+
+[Rm99.] Terminez le programme?
+[99.]
+Est-ce que vous voulez QUITTER vraiment?
+
+[Rm108.] Clic territoire initial. Le clic territoire initial. Le clic pays initial.
+[108.]
+< Pays de l'origine du clic >
+
+[Rm109.] Clic pays attaquants. Le clic pays attaquant. Le clic territoire attaquant.
+[109.]
+< Clic country(s attaquant) >
+
+[Rm130.] Cartes dirigeantes. Les affichant cartes. Regarder des cartes.
+[130.]
+Les vérifiant cartes
+
+[Rm131.] Vous devez échanger des cartes. Vous devez échanger des cartes.
+[131.]
+     VOUS
+  LES CARTES DU COMMERCE
+
+[Rm132.] Cartes de l'échange pour 5 unités? Cartes de l'échange pour 5 unités?
+[132.]
+Les cartes du commerce dans pour
+
+[Rm142.] Scénarios disponibles.
+[142.]
+Les guerres disponibles
+
+[Rm144.] Scénario Ouvert
+[144.]
+La guerre Ouverte...
+
+[Rm147.] À l'exception de scénario comme...
+[147.]
+Sauvez la guerre comme...
+
+[Rm148.] Titre de scénario.
+[148.]
+Titre de guerre
+
+[Rm152.] Augmentation pays initiaux. La baisse pays initiaux.
+[152.]
+Increment/decrement qui commence des pays
+
+[Rm158.] Les autres joueurs ne peuvent pas voir vos cartes quand a sélectionné.
+[158.]
+Les autres joueurs ne peuvent pas voir vos cartes quand a vérifié
+
+[Rm159.] Les cartes ne sont pas publiées quand a sélectionné.
+[159.]
+Les cartes ne sont pas publiées quand a vérifié
+
+[Rm164.] Tous les joueurs sont publiés avec les missions secrètes quand a sélectionné.
+[164.]
+Tous les joueurs sont publiés avec les missions secrètes quand a vérifié
+
+[Rm174.] Relisez le tour dernièrement.
+[174.]
+Le tour du démarrage encore
+
+[Rm181.] Valeur de cartes:
+[181.]
+La valeur courante: 
+
+[Rm183.] Merci pour enregistrer Missionrisk.
+[183.]
+Merci pour enregistrer.
+
+[187.]
+Extra les unités initiales sont distribuées sur les territoires de chaques joueurs aléatoirement.
+
+[Rm191.] Quitte ce scénario?
+[191.]
+Est-ce que vous voulez quitter cette guerre vraiment?
+
+[Rm192.] Faites-vous les relly veulent effacer X?
+[192.]
+Est vous sûr vous voulez effacer
+
+[Rm193.] Est-ce que vous êtes sérieux?
+[193.]
+Est-ce que vous êtes sûr?
+
+[208.]
+Le défilement automatique
+
+[Rm209.] Relisez le tour dernièrement.
+[209.]
+Le tour du démarrage encore
+
+[215.]
+Ne  pas trouver de navigateur.
+
+[Rm255.] Le tampon est trop plein.
+[255.]
+L'erreur du débordement plus jaune clair a occured.
